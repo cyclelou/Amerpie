@@ -1,0 +1,18 @@
+---
+title: Mary Englebreit
+Author: null
+url: null
+tags:
+- quote
+creation date: 2024-01-31
+modification date: 2024-02-13
+fileClass:
+- Quotes
+quote: I will not stay silent so you can stay comfortable.
+source: ''
+topics:
+- Philosophy
+- Racism
+---
+
+# Mary Englebreit
