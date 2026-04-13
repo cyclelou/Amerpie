@@ -1,11 +1,13 @@
 ---
 title: George Bernard Shaw
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-13
+Author: null
 fileClass: Quotes
 source: ''
 topics: ''
@@ -15,6 +17,10 @@ topics: ''
 
 [[+Quotes MOC|Quotes]]
 
-The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.
+[+Quotes MOC](+Quotes%20MOC)
 
-Those who can not change their minds can not change anything.
+quote:: The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.
+
+quote:: Those who can not change their minds can not change anything.
+
+quote:: A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.

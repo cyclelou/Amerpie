@@ -1,16 +1,18 @@
 ---
 title: Franklin Delano Roosevelt
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-02-26
-modification date: 2024-02-26
+modification date: 2026-04-13
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: null
 topics:
-- Progress
+  - Progress
 ---
 
 # Franklin Delano Roosevelt

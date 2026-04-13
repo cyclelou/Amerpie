@@ -1,11 +1,13 @@
 ---
 title: Francis of Assisi
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-13
+Author: null
 fileClass: Quotes
 source: ''
 topics: ''
