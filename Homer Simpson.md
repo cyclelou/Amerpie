@@ -1,17 +1,23 @@
 ---
 title: Homer Simpson
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-15
+Author:
 fileClass:
-- Quotes
-quote: Just because I don't care doesn't mean I don't understand.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Understanding
+  - Understanding
 ---
 
 # Homer Simpson
+
+[[Quotes/+Quotes MOC|+Quotes MOC]]
+
+quote:: Just because I don't care doesn't mean I don't understand.

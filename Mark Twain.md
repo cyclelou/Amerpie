@@ -1,21 +1,23 @@
 ---
 title: Mark Twain
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-03-15
+modification date: 2026-04-16
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Work
-- Judgement
-- Courage
-- Dreams
-- Knowledge
-- Belief
+  - Belief
+  - Courage
+  - Dreams
+  - Judgement
+  - Knowledge
+  - Work
 ---
 
 # Mark Twain

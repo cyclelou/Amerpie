@@ -1,17 +1,19 @@
 ---
 title: Dale Carnegie
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-26
+modification date: 2026-04-15
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Forgiveness
-- Action
+  - Action
+  - Forgiveness
 ---
 
 # Dale Carnegie

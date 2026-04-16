@@ -1,21 +1,22 @@
 ---
 title: Mark Manson
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-23
-modification date: 2024-02-09
+modification date: 2026-04-16
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Wisdom
+  - Wisdom
 ---
 
 # Mark Manson
 
-# Mark Manson
+[[Quotes/Quotes-Tim Miller/+Quotes MOC|+Quotes MOC]]
 
-Mark Manson  
-"Wisdom is when you stop over-investing in every shiny new idea, feeling, or person that comes along."
+quote:: Wisdom is when you stop over-investing in every shiny new idea, feeling, or person that comes along.

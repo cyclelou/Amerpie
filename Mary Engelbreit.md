@@ -1,19 +1,23 @@
 ---
 title: Mary Engelbreit
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-17
-modification date: 2024-02-13
+modification date: 2026-04-16
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Courage
+  - Courage
 ---
 
 # Mary Engelbreit
+
+[[Quotes/+Quotes MOC|+Quotes MOC]]
 
 "I will not stay silent so that you can stay comfortable."
 

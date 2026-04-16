@@ -1,25 +1,26 @@
 ---
-title: Honore de Balzac ‬
-Author: null
-url: null
+title: Honore De Balzac ‬
+category:
+author:
+url:
 tags:
-- quote
+  - quote
 creation date: 2023-12-20
-modification date: 2024-02-09
+modification date: 2026-04-15
+Author:
 fileClass:
-- Quotes
-source: ''
+  - Quotes
+source: ""
 topics:
-- Self Image
+  - Action
+  - Self Image
 ---
 
 # Honore De Balzac ‬
 
  ‪  
-"Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself."  
-— Honoré de Balzac
+ [[Quotes/+Quotes MOC|+Quotes MOC]]
 
-# Honore De Balzac
+quote:: Nothing is a greater impediment to being on good terms with others than being ill at ease with yourself.
 
-Honore de Balzac  
-It is easy to sit up and take notice, What is difficult is getting up and taking action. -
+quote:: It is easy to sit up and take notice, What is difficult is getting up and taking action.

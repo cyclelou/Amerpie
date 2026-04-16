@@ -1,16 +1,18 @@
 ---
 title: Dan Harris
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-26
+modification date: 2026-04-15
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Mindfulness
+  - Mindfulness
 ---
 
 # Dan Harris

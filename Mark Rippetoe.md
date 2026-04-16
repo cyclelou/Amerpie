@@ -1,17 +1,19 @@
 ---
 title: Mark Rippetoe
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-03-15
+modification date: 2026-04-16
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: Strong Enough
 topics:
-- Fitness
-- Strength
+  - Fitness
+  - Strength
 ---
 
 # Mark Rippetoe

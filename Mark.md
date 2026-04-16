@@ -1,20 +1,24 @@
 ---
 title: Mark
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-13
+modification date: 2026-04-16
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 quote: “For what shall it profit a man, if he shall gain the whole world, but lose
   his soul?” — Mark 8:36.
 source:
-- The Bible
+  - The Bible
 topics:
-- Finance
-- Philosophy
+  - Finance
+  - Philosophy
 ---
 
 # Mark
+
+quote:: "For what shall it profit a man, if he shall gain the whole world, but lose his soul?" — Mark 8:36.
