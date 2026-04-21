@@ -1,20 +1,24 @@
 ---
 title: Leonardo Da Vinci
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-21
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Longing
+  - Simplicity
 ---
 
 # Leonardo Da Vinci
 
 [[+Quotes MOC|Quotes]]
 
-Once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been, and there you will always long to return.
+quote:: Once you have tasted flight, you will forever walk the earth with your eyes turned skyward, for there you have been, and there you will always long to return.
 
-Simplicity is the ultimate sophistication.
+quote:: Simplicity is the ultimate sophistication.

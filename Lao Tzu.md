@@ -1,18 +1,23 @@
 ---
 title: Lao Tzu
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2023-12-20
-modification date: 2024-02-13
+modification date: 2026-04-21
+Author: null
 fileClass: Quotes
 source: ''
 topics:
-- Accomplishment
+  - Accomplishment
 ---
 
 # Lao Tzu
 
-"Nature does not hurry, yet everything is accomplished."  
+[[+Quotes MOC]]
+
+quote:: Nature does not hurry, yet everything is accomplished.
+
 — Lao Tzu

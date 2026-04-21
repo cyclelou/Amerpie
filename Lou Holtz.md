@@ -1,17 +1,19 @@
 ---
 title: Lou Holtz
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-03-04
+modification date: 2026-04-21
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Goals
-- Action
+  - Action
+  - Goals
 ---
 
 # Lou Holtz

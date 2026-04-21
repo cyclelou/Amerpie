@@ -1,16 +1,18 @@
 ---
 title: Laozi
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-24
-modification date: 2024-02-13
+modification date: 2026-04-21
+Author: null
 fileClass: Quotes
 source: ''
 topics:
-- Contentment
-- Happiness
+  - Contentment
+  - Happiness
 ---
 
 [[+Quotes MOC]]

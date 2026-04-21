@@ -1,22 +1,26 @@
 ---
 title: Louis Pasteur
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-21
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Desire
+  - Origin
 ---
 
 # Louis Pasteur
 
 [[+Quotes MOC|Quotes]]
 
-The greatest aberration of the mind is to believe a thing to be, because we desire it.
+quote:: The greatest aberration of the mind is to believe a thing to be, because we desire it.
 
-Bernard was right. The microbe is nothing, the soil is everything. [^1]
+quote:: Bernard was right. The microbe is nothing, the soil is everything. [^1]
 
 [^1]: [[Germ Theory]]

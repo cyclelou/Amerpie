@@ -1,19 +1,23 @@
 ---
 title: Lucille Ball
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-21
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Life
-- Regrets
+  - Life
+  - Regrets
 ---
 
 # Lucille Ball
 
-"I'd rather regret the things I've done than regret the things I haven't done.
+[[+Quotes MOC]]
+
+quote:: "I'd rather regret the things I've done than regret the things I haven't done.

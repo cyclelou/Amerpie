@@ -1,19 +1,24 @@
 ---
 title: Larry Holmes
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-19
+modification date: 2026-04-21
+Author:
 fileClass:
-- Quotes
-quote: It's hard being black. You ever been black? I was black once -- when I was
-  poor.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Poverty
-- Race
+  - Poverty
+  - Race
 ---
 
 # Larry Holmes
+
+[[+Quotes MOC]]
+
+quote:: It's hard being black. You ever been black? I was black once -- when I was poor.
