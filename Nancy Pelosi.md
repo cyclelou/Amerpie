@@ -1,18 +1,24 @@
 ---
 title: Nancy Pelosi
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-19
+modification date: 2026-04-22
+Author:
 fileClass:
-- Quotes
-quote: Science is the answer to our prayers.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Prayer
-- Science
+  - Prayer
+  - Science
 ---
 
 # Nancy Pelosi
+
+[[+Quotes MOC]]
+
+quote:: Science is the answer to our prayers.

@@ -1,21 +1,22 @@
 ---
 title: Nicolas Chamfort
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-17
-modification date: 2024-02-09
+modification date: 2026-04-22
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: ''
 topics:
-- Laughter
+  - Laughter
 ---
 
 # Nicolas Chamfort
 
-# Nicolas Chamfort
+[[+Quotes MOC]]
 
-Nicolas Chamfort  
-"The most wasted day of all is that on which we have not laughed."
+quote:: The most wasted day of all is that on which we have not laughed.

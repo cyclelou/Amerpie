@@ -1,18 +1,19 @@
 ---
 title: Numb3rs
-Author: null
-url: null
+Author:
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-22
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Knowledge
 ---
 
 # Numb3rs
 
 [[+Quotes MOC|Quotes]]
 
-Larry, I'm about to tell you what I've told every genius I've known. Don't be an idiot.
+quote:: Larry, I'm about to tell you what I've told every genius I've known. Don't be an idiot.

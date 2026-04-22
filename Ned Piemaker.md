@@ -1,19 +1,22 @@
 ---
 title: Ned Piemaker
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-22
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Starting
 ---
 
 # Ned Piemaker
 
 [[+Quotes MOC|Quotes]]
 
-The problem with starting fresh is that something old might go stale.  
+quote:: The problem with starting fresh is that something old might go stale.  
 (Pushing Daisies)
