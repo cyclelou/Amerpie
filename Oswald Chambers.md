@@ -12,7 +12,7 @@ fileClass:
 source:
 topics:
   - Action
-dv_quote: The whole point of getting things done is knowing what to leave undone.
+dv_quote:
 ---
 
 # Oswald Chambers

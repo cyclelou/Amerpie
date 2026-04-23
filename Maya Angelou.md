@@ -1,24 +1,25 @@
 ---
 title: Maya Angelou
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-23
+Author:
 fileClass:
-- Quotes
-source: ''
+  - Quotes
+source: ""
 topics:
-- Love
+  - Love
+  - Work
 ---
 
 # Maya Angelou
 
-If you find it in your heart to care for somebody else, you will have succeeded.
+[[+Quotes MOC]]
 
-# Maya Angelou
+quote:: If you find it in your heart to care for somebody else, you will have succeeded.
 
-[[+Quotes MOC|Quotes]]
-
-Nothing will work unless you do.
+quote:: Nothing will work unless you do.
