@@ -1,21 +1,25 @@
 ---
 title: Pete Brown
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-17
-modification date: 2024-02-09
+modification date: 2026-04-24
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source:
-- Exploding Comma
+  - Exploding Comma
 topics:
-- Technology
+  - Technology
 ---
 
 # Pete Brown
 
-We build these crazy contraptions using fifty different sets of mismatched tools, connect them all together with chewing gum and twine, and then pile billions of bits of junk on top of them. Of course none of it is going to work properly. TBH most of the time I'm surprised any of it even works at all.
+[[+Quotes MOC]]
+
+quote:: We build these crazy contraptions using fifty different sets of mismatched tools, connect them all together with chewing gum and twine, and then pile billions of bits of junk on top of them. Of course none of it is going to work properly. TBH most of the time I'm surprised any of it even works at all.
 
 in Exploding Comma

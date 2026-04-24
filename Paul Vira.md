@@ -1,17 +1,23 @@
 ---
 title: Paul Vira
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-24
+Author:
 fileClass:
-- Quotes
-quote: The invention of the ship was also the invention of the shipwreck.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Philosophy
+  - Philosophy
 ---
 
 # Paul Vira
+
+[[+Quotes MOC]]
+
+quote:: The invention of the ship was also the invention of the shipwreck.

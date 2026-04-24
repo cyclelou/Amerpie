@@ -1,18 +1,21 @@
 ---
 title: Patrick Henry
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-24
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Adversity
 ---
 
 # Patrick Henry
 
 [[+Quotes MOC|Quotes]]
 
-Adversity toughens manhood, and the characteristic of the good or the great man is not that he has been exempt from the evils of life, but that he has surmounted them.
+quote:: Adversity toughens manhood, and the characteristic of the good or the great man is not that he has been exempt from the evils of life, but that he has surmounted them.

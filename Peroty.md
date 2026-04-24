@@ -1,21 +1,24 @@
 ---
 title: Peroty
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2023-12-25
-modification date: 2024-02-09
+modification date: 2026-04-24
+Author: null
 fileClass:
-- Quotes
+  - Quotes
 source:
-- micro.blog
+  - micro.blog
 topics:
-- Flying
+  - Flying
 ---
 
 # Peroty
 
-Airport Quote  
-I agree with every crying child in the airport. This is terrible. Nobody wants to do this.  
+[[+Quotes MOC]]
+
+quote:: I agree with every crying child in the airport. This is terrible. Nobody wants to do this.  
 peroty on micro.blog

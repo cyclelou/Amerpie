@@ -1,30 +1,29 @@
 ---
 title: Pablo Picasso
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-07
-modification date: 2024-02-09
+modification date: 2026-04-24
+Author:
 fileClass:
-- Quotes
-source: ''
+  - Quotes
+source: ""
 topics:
-- Art
+  - Art
+  - Imagination
 ---
 
 # Pablo Picasso
 
-Everything you can imagine is real.
+[[+Quotes MOC]]
 
-# Pablo Picasso
+quote:: Everything you can imagine is real.
 
-To know what you're going to draw, you have to begin drawing.
+quote:: To know what you're going to draw, you have to begin drawing.
 
-# Pablo Picasso
+quote:: Art washes away from the soul the dust of everyday life.
 
-[[+Quotes MOC|Quotes]]
-
-Art washes away from the soul the dust of everyday life.
-
-Every child is born an artist. The trouble is how to stay one as you grow up.
+quote:: Every child is born an artist. The trouble is how to stay one as you grow up.

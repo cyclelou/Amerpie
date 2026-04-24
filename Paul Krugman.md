@@ -1,18 +1,24 @@
 ---
 title: Paul Krugman
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-04-30
+modification date: 2026-04-24
+Author:
 fileClass:
-- Quotes
-quote: Politics  determines who has the power, not who has the truth.
+  - Quotes
+quote:
 source:
-- New York Times
+  - New York Times
 topics:
-- Politics
+  - Politics
 ---
 
 # Paul Krugman
+
+[[+Quotes MOC]]
+
+quote:: Politics determines who has the power, not who has the truth.

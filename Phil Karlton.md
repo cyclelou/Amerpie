@@ -1,18 +1,21 @@
 ---
 title: Phil Karlton
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-24
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Tech
 ---
 
 # Phil Karlton
 
 [[+Quotes MOC|Quotes]]
 
-There are only two hard things in computer science: cache invalidation and naming things.
+quote:: There are only two hard things in computer science: cache invalidation and naming things.

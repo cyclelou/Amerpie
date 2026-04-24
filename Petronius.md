@@ -1,11 +1,13 @@
 ---
 title: Petronius
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-24
+Author: null
 fileClass: Quotes
 source: ''
 topics: ''
@@ -15,4 +17,4 @@ topics: ''
 
 [[+Quotes MOC|Quotes]]
 
-Moderation in all things, including moderation.
+quote:: Moderation in all things, including moderation.

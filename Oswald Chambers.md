@@ -6,13 +6,13 @@ url:
 tags:
   - quote
 creation date: 2026-04-06
-modification date: 2026-04-06
+modification date: 2026-04-23
+dv_quote:
 fileClass:
   - Quotes
 source:
 topics:
   - Action
-dv_quote:
 ---
 
 # Oswald Chambers
