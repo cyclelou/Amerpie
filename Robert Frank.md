@@ -1,17 +1,19 @@
 ---
 title: Robert Frank
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2026-01-29
+modification date: 2026-04-25
 Author: null
 fileClass: Quotes
 quote: null
 source: ''
 topics:
-- Art
-- Photography
+  - Art
+  - Photography
 ---
 
 # Robert Frank

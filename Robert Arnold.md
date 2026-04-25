@@ -1,16 +1,17 @@
 ---
 title: Robert Arnold
+category:
 author: null
 url: null
 tags:
-- quote
+  - quote
 creation date: 2026-01-30
-modification date: 2026-01-30
+modification date: 2026-04-25
 fileClass:
-- Quotes
+  - Quotes
 source: null
 topics:
-- Fascism
+  - Fascism
 ---
 
 # Robert Arnold

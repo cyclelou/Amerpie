@@ -1,18 +1,21 @@
 ---
 title: Robert Fulghum
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Weirdness
 ---
 
 # Robert Fulghum
 
 [[+Quotes MOC|Quotes]]
 
-We're all a little weird. And life is weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness—and call it love—true love.
+quote:: We're all a little weird. And life is weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness—and call it love—true love.

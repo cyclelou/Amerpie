@@ -1,17 +1,23 @@
 ---
 title: Robin Jones Gunn
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass:
-- Quotes
-quote: If you want to go fast, go alone. If you want to go far, go together.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Teamwork
+  - Teamwork
 ---
 
 # Robin Jones Gunn
+
+[[+Quotes MOC]]
+
+quote:: If you want to go fast, go alone. If you want to go far, go together.

@@ -1,18 +1,21 @@
 ---
 title: Roald Dahl
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Positivity
 ---
 
 # Roald Dahl
 
 [[+Quotes MOC|Quotes]]
 
-If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.
+quote:: If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.

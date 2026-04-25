@@ -1,20 +1,25 @@
 ---
 title: Rene Descartes
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-13
+modification date: 2026-04-25
+Author:
 fileClass:
-- Quotes
-quote: To know what people really think, pay attention to what they do, rather than
-  what they say.
+  - Quotes
+quote:
 source:
-- French
+  - French
 topics:
-- Knowledge
-- Philosophy
+  - Knowledge
+  - Philosophy
 ---
 
 # Rene Descartes
+
+[[+Quotes MOC]]
+
+qyote:: To know what people really think, pay attention to what they do, rather than what they say.

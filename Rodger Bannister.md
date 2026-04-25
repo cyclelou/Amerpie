@@ -1,18 +1,21 @@
 ---
 title: Rodger Bannister
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Effort
 ---
 
 # Rodger Bannister
 
 [[+Quotes MOC|Quotes]]
 
-The man who can drive himself further once the effort gets painful is the man who will win.
+quote:: The man who can drive himself further once the effort gets painful is the man who will win.

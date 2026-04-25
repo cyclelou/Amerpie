@@ -1,18 +1,23 @@
 ---
 title: Robert Musil
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass:
-- Quotes
-quote: “Today I start a diary; it is against my usual habits, but out of a clearly
-  felt need.”
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Self
+  - Self
 ---
 
 # Robert Musil
+
+[[+Quotes MOC]]
+
+quote:: "Today I start a diary; it is against my usual habits, but out of a clearly felt need."

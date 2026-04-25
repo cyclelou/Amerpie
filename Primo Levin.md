@@ -1,15 +1,17 @@
 ---
 title: Primo Levin
-Author: null
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2023-12-20
 modification date: 2026-04-24
+Author: null
 fileClass: Quotes
 source: If This is a Man
 topics:
-- Civilization
+  - Civilization
 ---
 
 # Primo Levin

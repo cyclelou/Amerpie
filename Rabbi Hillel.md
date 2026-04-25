@@ -1,17 +1,23 @@
 ---
 title: Rabbi Hillel
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass:
-- Quotes
-quote: That which is hateful to you, do not do to your neighbor. The rest is commentary.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Ethics
+  - Ethics
 ---
 
 # Rabbi Hillel
+
+[[+Quotes MOC]]
+
+quote:: That which is hateful to you, do not do to your neighbor. The rest is commentary.

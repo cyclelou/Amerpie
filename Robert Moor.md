@@ -1,16 +1,18 @@
 ---
 title: Robert Moor
-Author: null
+category:
+author: 
 url: http://a.co/9cJo4jg
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-03-14
+modification date: 2026-04-25
+Author:
 fileClass:
-- Quotes
+  - Quotes
 source: On Trails An Exploration
 topics:
-- Quotes
+  - Thru-hiking
 ---
 
 # Robert Moor

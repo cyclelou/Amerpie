@@ -1,18 +1,21 @@
 ---
 title: Robert H Schuller
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Effort
 ---
 
 # Robert H Schuller
 
 [[+Quotes MOC|Quotes]]
 
-I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.
+quote:: I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.

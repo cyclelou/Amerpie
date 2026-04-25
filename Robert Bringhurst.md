@@ -1,20 +1,23 @@
 ---
 title: Robert Bringhurst
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-25
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Typography
 ---
 
 # Robert Bringhurst
 
 [[+Quotes MOC|Quotes]]
 
-Good typography is like bread: ready to be admired, appraised and dissected before it is consumed.
+quote:: Good typography is like bread: ready to be admired, appraised and dissected before it is consumed.
 
-In a world rife with unsolicited messages, typography must often draw attention to itself before it will be read. Yet in order to be read, it must relinquish the attention it has drawn.
+quote:: In a world rife with unsolicited messages, typography must often draw attention to itself before it will be read. Yet in order to be read, it must relinquish the attention it has drawn.
