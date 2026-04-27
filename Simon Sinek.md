@@ -1,18 +1,21 @@
 ---
 title: Simon Sinek
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Decisions
 ---
 
 # Simon Sinek
 
 [[+Quotes MOC|Quotes]]
 
-There is no decision that we can make that doesn't come with some sort of balance or sacrifice.
+quote:: There is no decision that we can make that doesn't come with some sort of balance or sacrifice.

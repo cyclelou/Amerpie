@@ -1,18 +1,21 @@
 ---
 title: Stephen Covey
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2026-01-29
-Author: null
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Priorities
 ---
 
 # Stephen Covey
 
 [[+Quotes MOC|Quotes]]
 
-You have to decide what your highest priorities are and have the courage - pleasantly, smilingly, unnapologetically - to say 'no' to other things. And the way to do that is by having a bigger 'yes' burning inside.
+quote:: You have to decide what your highest priorities are and have the courage - pleasantly, smilingly, unapologetically - to say 'no' to other things. And the way to do that is by having a bigger 'yes' burning inside.

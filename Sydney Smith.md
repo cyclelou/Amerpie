@@ -1,18 +1,19 @@
 ---
 title: Sydney Smith
-Author: null
-url: null
+Author:
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Fear
 ---
 
 # Sydney Smith
 
 [[+Quotes MOC|Quotes]]
 
-A great deal of talent is lost to the world for want of a little courage.
+quote:: A great deal of talent is lost to the world for want of a little courage.

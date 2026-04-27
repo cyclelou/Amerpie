@@ -1,18 +1,21 @@
 ---
-title: Sir Winston Churchill
-Author: null
-url: null
+title: Winston Churchill
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Totalitarianism
 ---
 
-# Sir Winston Churchill
+# Winston Churchill
 
 [[+Quotes MOC|Quotes]]
 
-The power of the Executive to cast a man into prison without formulating any charge known to the law, and particularly to deny him the judgment of his peers, is in the highest degree odious and is the foundation of all totalitarian government whether Nazi or Communist.
+quote:: The power of the Executive to cast a man into prison without formulating any charge known to the law, and particularly to deny him the judgment of his peers, is in the highest degree odious and is the foundation of all totalitarian government whether Nazi or Communist.

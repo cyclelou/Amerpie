@@ -1,19 +1,24 @@
 ---
 title: Stephen Hackett
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass:
-- Quotes
-quote: Seriously. LOL at Apple fans who are changing pharmacies because they can’t
-  use week-old technology the way they want.
+  - Quotes
+quote:
 source:
-- Twitter
+  - Twitter
 topics:
-- Apple
+  - Apple
 ---
 
 # Stephen Hackett
+
+[[+Quotes MOC]]
+
+quote:: Seriously. LOL at Apple fans who are changing pharmacies because they can't use week-old technology the way they want.

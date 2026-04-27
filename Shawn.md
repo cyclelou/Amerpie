@@ -1,19 +1,22 @@
 ---
 title: Shawn
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Reality
 ---
 
 # Shawn
 
 [[+Quotes MOC|Quotes]]
 
-Just 'cause you put syrup on somethin' don't make it a pancake.  
+quote:: Just 'cause you put syrup on somethin' don't make it a pancake.  
 (Psych)

@@ -1,17 +1,23 @@
 ---
 title: Stewart Brand
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass:
-- Quotes
-quote: On average, bad things happen fast and good things happen slow.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Life
+  - Life
 ---
 
 # Stewart Brand
+
+[[+Quotes MOC]]
+
+quote:: On average, bad things happen fast and good things happen slow.

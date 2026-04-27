@@ -1,18 +1,21 @@
 ---
 title: Swedish Proverb
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Sharing
 ---
 
 # Swedish Proverb
 
 [[+Quotes MOC|Quotes]]
 
-Shared joy is double joy. Shared sorrow is half sorrow.
+quote:: Shared joy is double joy. Shared sorrow is half sorrow.

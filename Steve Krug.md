@@ -1,20 +1,24 @@
 ---
 title: Steve Krug
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Clarity
+  - Invention
 ---
 
 # Steve Krug
 
 [[+Quotes MOC|Quotes]]
 
-Experts are rarely insulted by something clear enough for beginners. Everybody appreciates clarity.
+quote:: Experts are rarely insulted by something clear enough for beginners. Everybody appreciates clarity.
 
-Sometimes time spent reinventing the wheel results in a revolutionary new rolling device. But sometimes it just amounts to time spent reinventing the wheel.
+quote:: Sometimes time spent reinventing the wheel results in a revolutionary new rolling device. But sometimes it just amounts to time spent reinventing the wheel.

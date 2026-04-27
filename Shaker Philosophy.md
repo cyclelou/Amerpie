@@ -1,18 +1,21 @@
 ---
 title: Shaker Philosophy
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Creation
 ---
 
 # Shaker Philosophy
 
 [[+Quotes MOC|Quotes]]
 
-Don't make something unless it is both necessary and useful; but if it is both necessary and useful, don't hesitate to make it beautiful.
+quote:: Don't make something unless it is both necessary and useful; but if it is both necessary and useful, don't hesitate to make it beautiful.

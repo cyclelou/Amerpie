@@ -1,19 +1,23 @@
 ---
 title: Steven Weinberg
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-01-31
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass:
-- Quotes
-quote: With or without religion, you would have good people doing good things and
-  evil people doing evil things. But for good people to do evil things, that takes
-  religion.
-source: ''
+  - Quotes
+quote:
+source: ""
 topics:
-- Religion
+  - Religion
 ---
 
 # Steven Weinberg
+
+[[+Quotes MOC]]
+
+quote:: With or without religion, you would have good people doing good things and evil people doing evil things. But for good people to do evil things, that takes religion.

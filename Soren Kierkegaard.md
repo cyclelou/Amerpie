@@ -1,16 +1,18 @@
 ---
 title: Soren Kierkegaard
+category:
+author: 
 url: null
 tags:
-- quote
+  - quote
 creation date: 2026-01-29
-modification date: 2026-01-29
+modification date: 2026-04-27
 Author: null
 fileClass:
-- Quotes
+  - Quotes
 source: null
 topics:
-- Reality
+  - Reality
 ---
 
 # Soren Kierkegaard

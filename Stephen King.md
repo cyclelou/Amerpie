@@ -1,18 +1,22 @@
 ---
 title: Stephen King
-Author: null
-url: null
+category:
+author: 
+url:
 tags:
-- quote
+  - quote
 creation date: 2024-02-09
-modification date: 2024-02-09
+modification date: 2026-04-27
+Author:
 fileClass: Quotes
-source: ''
-topics: ''
+source: ""
+topics:
+  - Talent
+  - Work
 ---
 
 # Stephen King
 
 [[+Quotes MOC|Quotes]]
 
-Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.
+quote:: Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.
