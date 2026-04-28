@@ -1,10 +1,10 @@
 ---
 title: Charles de Montesquieu
-Author:
+author:
 url:
 tags:
-  - quote
-creation date: 2024-02-09
+  - kind/quote
+created: 2024-02-09
 modification date: 2024-02-21
 fileClass:
   - Quotes

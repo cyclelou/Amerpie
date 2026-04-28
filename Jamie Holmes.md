@@ -5,9 +5,9 @@ author:
 url:
 tags:
   - quote
-creation date: 2024-02-09
+created: 2024-02-09
 modification date: 2026-04-15
-Author:
+author:
 fileClass: Quotes
 source: https://www.goodreads.com/book/show/22822855-nonsense
 topics:

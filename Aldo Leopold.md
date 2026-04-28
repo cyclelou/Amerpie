@@ -1,10 +1,10 @@
 ---
 title: Aldo Leopold
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2025-01-01
+- kind/quote
+created: 2025-01-01
 modification date: 2025-01-01
 fileClass:
 - Quotes

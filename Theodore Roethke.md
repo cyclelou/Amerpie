@@ -1,17 +1,22 @@
 ---
 title: Theodore Roethke
-Author: null
-url: null
+created: 2024-01-31
+updated: 2026-04-28
 tags:
-- quote
-creation date: 2024-01-31
-modification date: 2024-02-13
-fileClass: Quotes
+  - kind/quote
+kind:
+status:
+area:
+tool:
 source: ''
+author: null
+url: null
+fileClass: Quotes
+modification date: 2024-02-13
 topics:
-- Philosophy
-- Seeing
-- Understanding
+  - Philosophy
+  - Seeing
+  - Understanding
 ---
 
 # Theodore Roethke

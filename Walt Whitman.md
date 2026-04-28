@@ -1,10 +1,10 @@
 ---
 title: Walt Whitman
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-03-16
+- kind/quote
+created: 2024-03-16
 modification date: 2024-03-16
 fileClass:
 - Quotes

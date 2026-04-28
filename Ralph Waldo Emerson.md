@@ -5,9 +5,9 @@ author:
 url:
 tags:
   - quote
-creation date: 2024-01-31
+created: 2024-01-31
 modification date: 2026-04-25
-Author:
+author:
 fileClass:
   - Quotes
 quote: Every artist was first an amateur.

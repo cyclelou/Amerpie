@@ -8,9 +8,9 @@ tags:
   - readitlater/clippings
   - quote
   - readitlater
-creation date: 2025-03-14
+created: 2025-03-14
 modification date: 2026-01-31
-Author:
+author:
   - "[[@jscanlon@mastodon.world]]"
 created: 2025-03-14
 source: https://mastodon.world/@jscanlon/114152728212861049

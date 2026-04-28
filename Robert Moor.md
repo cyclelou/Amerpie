@@ -5,9 +5,9 @@ author:
 url: http://a.co/9cJo4jg
 tags:
   - quote
-creation date: 2024-01-31
+created: 2024-01-31
 modification date: 2026-04-25
-Author:
+author:
 fileClass:
   - Quotes
 source: On Trails An Exploration

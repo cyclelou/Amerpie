@@ -1,10 +1,10 @@
 ---
 title: Will Durant
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-01-12
+- kind/quote
+created: 2024-01-12
 modification date: 2024-02-09
 fileClass:
 - Quotes

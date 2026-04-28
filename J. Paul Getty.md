@@ -1,10 +1,10 @@
 ---
 title: J. Paul Getty
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-01-29
+- kind/quote
+created: 2024-01-29
 modification date: 2024-02-09
 fileClass:
 - Quotes

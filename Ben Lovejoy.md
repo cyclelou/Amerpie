@@ -2,10 +2,10 @@
 title: Ben Lovejoy
 url: null
 tags:
-- quote
-creation date: 2024-01-23
+- kind/quote
+created: 2024-01-23
 modification date: 2026-01-29
-Author: null
+author: null
 fileClass:
 - Quotes
 source: ''

@@ -1,10 +1,10 @@
 ---
 title: Anthony de Mello
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-02-07
+- kind/quote
+created: 2024-02-07
 modification date: 2024-02-13
 fileClass: Quotes
 source: ''

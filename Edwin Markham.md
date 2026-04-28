@@ -1,10 +1,10 @@
 ---
 title: Edwin Markham
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-01-22
+- kind/quote
+created: 2024-01-22
 modification date: 2025-01-22
 fileClass:
 - Quotes

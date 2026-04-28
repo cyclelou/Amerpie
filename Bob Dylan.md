@@ -1,10 +1,10 @@
 ---
 title: Bob Dylan
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2023-12-10
+- kind/quote
+created: 2023-12-10
 modification date: 2024-08-07
 fileClass: Quotes
 source: ''

@@ -2,8 +2,8 @@
 title: Woodrow Wilson
 url: null
 tags:
-- quote
-creation date: 2026-01-29
+- kind/quote
+created: 2026-01-29
 modification date: 2026-01-29
 fileClass:
 - Quotes

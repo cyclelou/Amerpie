@@ -1,10 +1,10 @@
 ---
 title: Milton Berle
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-02-09
+- kind/quote
+created: 2024-02-09
 modification date: 2025-05-24
 fileClass: Quotes
 source: ''

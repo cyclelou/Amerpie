@@ -5,9 +5,9 @@ author:
 url: null
 tags:
   - quote
-creation date: 2024-02-09
+created: 2024-02-09
 modification date: 2026-04-06
-Author: null
+author: null
 fileClass: Quotes
 source:
   - The Gently Mad

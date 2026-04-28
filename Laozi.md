@@ -5,9 +5,9 @@ author:
 url: null
 tags:
   - quote
-creation date: 2024-01-24
+created: 2024-01-24
 modification date: 2026-04-21
-Author: null
+author: null
 fileClass: Quotes
 source: ''
 topics:

@@ -1,10 +1,10 @@
 ---
 title: Maureen Dowd
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2023-12-20
+- kind/quote
+created: 2023-12-20
 modification date: 2025-05-24
 fileClass:
 - Quotes

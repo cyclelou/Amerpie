@@ -1,10 +1,10 @@
 ---
 title: Ulysses S Grant
-Author: null
+author: null
 url: https://social.lol/deck/@davemark@mastodon.social/111743591001253777
 tags:
-- quote
-creation date: 2024-01-12
+- kind/quote
+created: 2024-01-12
 modification date: 2024-02-13
 fileClass:
 - Quotes

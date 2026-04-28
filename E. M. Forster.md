@@ -2,10 +2,10 @@
 title: E. M. Forster
 url: null
 tags:
-- quote
-creation date: 2024-01-20
+- kind/quote
+created: 2024-01-20
 modification date: 2024-03-28
-Author: null
+author: null
 fileClass:
 - Quotes
 source: ''

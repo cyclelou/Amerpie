@@ -1,10 +1,10 @@
 ---
 title: Gustave Flaubert
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-01-31
+- kind/quote
+created: 2024-01-31
 modification date: 2024-03-17
 fileClass:
 - Quotes

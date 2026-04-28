@@ -1,10 +1,10 @@
 ---
 title: Mahatma Gandhi
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-02-20
+- kind/quote
+created: 2024-02-20
 modification date: 2024-02-20
 fileClass:
 - Quotes

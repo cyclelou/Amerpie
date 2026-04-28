@@ -1,16 +1,21 @@
 ---
 title: T.S. Eliot
-Author: null
-url: null
+created: 2024-03-28
+updated: 2026-04-28
 tags:
-- quote
-creation date: 2024-03-28
-modification date: 2024-03-28
-fileClass:
-- Quotes
+  - kind/quote
+kind:
+status:
+area:
+tool:
 source: null
+author: null
+url: null
+fileClass:
+  - Quotes
+modification date: 2024-03-28
 topics:
-- Risk
+  - Risk
 ---
 
 # T.S. Eliot

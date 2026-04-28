@@ -5,9 +5,9 @@ author:
 url: https://archive.ph/PCsft
 tags:
   - quote
-creation date: 2024-09-17
+created: 2024-09-17
 modification date: 2026-04-26
-Author:
+author:
 dv_Source: ""
 modification Data: 2026-01-19
 ---

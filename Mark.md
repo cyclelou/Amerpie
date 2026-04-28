@@ -5,9 +5,9 @@ author:
 url: null
 tags:
   - quote
-creation date: 2024-01-31
+created: 2024-01-31
 modification date: 2026-04-16
-Author: null
+author: null
 fileClass:
   - Quotes
 quote: “For what shall it profit a man, if he shall gain the whole world, but lose

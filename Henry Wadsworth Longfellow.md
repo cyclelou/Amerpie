@@ -1,10 +1,10 @@
 ---
 title: Henry Wadsworth Longfellow
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2024-03-17
+- kind/quote
+created: 2024-03-17
 modification date: 2024-03-17
 fileClass:
 - Quotes

@@ -5,9 +5,9 @@ author:
 url: null
 tags:
   - quote
-creation date: 2024-01-31
+created: 2024-01-31
 modification date: 2026-04-25
-Author: null
+author: null
 fileClass:
   - Quotes
 quote: What I cannot create, I do not understand.

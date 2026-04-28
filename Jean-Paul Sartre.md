@@ -1,10 +1,10 @@
 ---
 title: Jean-Paul Sartre
-Author: null
+author: null
 url: null
 tags:
-- quote
-creation date: 2023-12-20
+- kind/quote
+created: 2023-12-20
 modification date: 2024-03-03
 fileClass:
 - Quotes

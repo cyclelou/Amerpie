@@ -4,8 +4,8 @@ category:
 author: 
 url: 
 tags:
-  - quote
-creation date: 2026-03-30
+  - kind/quote
+created: 2026-03-30
 modification date: 2026-03-30
 fileClass:
   - Quotes
