@@ -1,15 +1,16 @@
 ---
 title: The 365 Most Famous Quotes of All Time (Backed by Data & Verified) | Books Are Our Superpower
-category:
-author: 
-url: https://archive.ph/PCsft
-tags:
-  - quote
 created: 2024-09-17
-modification date: 2026-04-26
+updated: 2026-01-19
+tags:
+  - kind/reference/quotes
+kind: reference
+status:
+area:
+tool:
+source:
 author:
-dv_Source: ""
-modification Data: 2026-01-19
+url: https://archive.ph/PCsft
 ---
 
 # The 365 Most Famous Quotes of All Time (Backed by Data & Verified) | Books Are Our Superpower

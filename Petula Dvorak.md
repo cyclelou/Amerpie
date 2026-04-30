@@ -1,19 +1,19 @@
 ---
 title: Petula Dvorak
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2023-12-20
-modification date: 2026-04-24
-author: null
-fileClass:
-  - Quotes
-source: ''
+updated: 2023-12-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Petula Dvorak
+url:
 topics:
-  - Patriotism
-  - Sacrifice
+  - patriotism
+  - sacrifice
 ---
 
 # Petula Dvorak

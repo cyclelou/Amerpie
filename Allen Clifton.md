@@ -1,17 +1,20 @@
 ---
 title: Allen Clifton
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2025-01-01
-fileClass: Quotes
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Forward Progressives
+author: Allen Clifton
+url:
 topics:
-- Labor
-- Capitalism
-- Work
+  - labor
+  - capitalism
+  - work
 ---
 
 [[+Quotes MOC|Quotes]]

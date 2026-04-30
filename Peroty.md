@@ -1,19 +1,19 @@
 ---
 title: Peroty
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2023-12-25
-modification date: 2026-04-24
-author: null
-fileClass:
-  - Quotes
+updated: 2023-12-25
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
   - micro.blog
+author: Peroty
+url:
 topics:
-  - Flying
+  - flying
 ---
 
 # Peroty

@@ -1,20 +1,19 @@
 ---
 title: Larry Holmes
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-21
-author:
-fileClass:
-  - Quotes
-quote:
-source: ""
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Larry Holmes
+url:
 topics:
-  - Poverty
-  - Race
+  - poverty
+  - race
 ---
 
 # Larry Holmes

@@ -1,16 +1,19 @@
 ---
 title: Antoine de Saint-Exupéry
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-17
-modification date: 2024-07-30
-fileClass: Quotes
+updated: 2024-01-17
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Wind, Sand and Stars
+author: Antoine de Saint-Exupéry
+url:
 topics:
-- Love
-- Goals
+  - love
+  - goals
 ---
 
 [[+Quotes MOC|Quotes]]

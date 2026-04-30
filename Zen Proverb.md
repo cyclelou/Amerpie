@@ -1,15 +1,18 @@
 ---
 title: Zen Proverb
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass: Quotes
-source: null
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Zen Proverb
+url:
 topics:
-- Letting Go
+  - letting-go
 ---
 
 # Zen Proverb

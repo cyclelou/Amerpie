@@ -4,24 +4,16 @@ created: 2024-01-31
 updated: 2026-04-28
 tags:
   - kind/quote
-kind:
+kind: quote
 status:
 area:
 tool:
-source: ''
-author: null
-url: null
-fileClass:
-  - Quotes
-modification date: 2024-02-19
-quote: If you truly get in touch with a piece of carrot, you get in touch with the
-  soil, the rain, the sunshine. You get in touch with Mother Earth and eating in such
-  a way, you feel in touch with true life, your roots, and that is meditation. If
-  we chew every morsel of our food in that way we become grateful and when you are
-  grateful, you are happy.
+source:
+author: Thich Nhat Hanh
+url:
 topics:
-  - Meditation
-  - Mindfulness
+  - meditation
+  - mindfulness
 ---
 
 # Thich Nhat Hanh

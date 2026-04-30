@@ -1,20 +1,20 @@
 ---
 title: Martin Luther King, Jr
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-17
-modification date: 2026-04-01
-author:
-fileClass:
-  - Quotes
-source: ""
+updated: 2024-01-17
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Martin Luther King, Jr
+url:
 topics:
-  - Capitalism
-  - Life
-  - Love
+  - capitalism
+  - life
+  - love
 ---
 
 [[+Quotes MOC]]

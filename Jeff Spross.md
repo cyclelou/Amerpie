@@ -1,17 +1,19 @@
 ---
 title: Jeff Spross
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-25
-fileClass:
-- Quotes
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: The Week
+author: Jeff Spross
+url:
 topics:
-- Politics
-- 2016 Election
+  - politics
+  - 2016-election
 ---
 
 # Jeff Spross

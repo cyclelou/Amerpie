@@ -1,15 +1,18 @@
 ---
 title: Bill Bryson
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-18
-fileClass: Quotes
-source: null
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Bill Bryson
+url:
 topics:
-- Technology
+  - technology
 ---
 
 # Bill Bryson

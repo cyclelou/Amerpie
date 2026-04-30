@@ -1,20 +1,19 @@
 ---
 title: Stephen Hackett
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-27
-author:
-fileClass:
-  - Quotes
-quote:
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
   - Twitter
+author: Stephen Hackett
+url:
 topics:
-  - Apple
+  - apple
 ---
 
 # Stephen Hackett

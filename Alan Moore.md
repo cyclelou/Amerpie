@@ -1,15 +1,18 @@
 ---
 title: Alan Moore
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-10
-fileClass: Quotes
-source: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Alan Moore
+url:
 topics:
-- Imagination
+  - imagination
 ---
 
 # Alan Moore

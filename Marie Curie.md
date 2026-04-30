@@ -1,18 +1,18 @@
 ---
 title: Marie Curie
-category:
-author:
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-02
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Marie Curie
+url:
 topics:
-  - Fear
-dv_quote: Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we can fear less.
+  - fear
 ---
 
 # Marie Curie

@@ -1,17 +1,19 @@
 ---
 title: Mahatma Gandhi
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-20
-modification date: 2024-02-20
-fileClass:
-- Quotes
-source: null
+updated: 2024-02-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Mahatma Gandhi
+url:
 topics:
-- Learning
-- Thoughts
+  - learning
+  - thoughts
 ---
 
 # Mahatma Gandhi

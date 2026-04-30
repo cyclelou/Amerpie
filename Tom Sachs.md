@@ -1,17 +1,18 @@
 ---
 title: Tom Sachs
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: The reward for good work is more work.
-source: ''
+updated: 2026-04-28
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Tom Sachs
+url:
 topics:
-- Work
+  - work
 ---
 
 # Tom Sachs

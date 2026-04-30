@@ -4,18 +4,15 @@ created: 2024-03-28
 updated: 2026-04-28
 tags:
   - kind/quote
-kind:
+kind: quote
 status:
 area:
 tool:
-source: null
-author: null
-url: null
-fileClass:
-  - Quotes
-modification date: 2024-03-28
+source:
+author: T.S. Eliot
+url:
 topics:
-  - Risk
+  - risk
 ---
 
 # T.S. Eliot

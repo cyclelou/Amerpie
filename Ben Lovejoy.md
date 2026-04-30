@@ -1,16 +1,18 @@
 ---
 title: Ben Lovejoy
-url: null
-tags:
-- kind/quote
 created: 2024-01-23
-modification date: 2026-01-29
-author: null
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-23
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Ben Lovejoy
+url:
 topics:
-- Technology
+  - technology
 ---
 
 [[+Quotes MOC]]

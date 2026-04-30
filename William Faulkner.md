@@ -1,21 +1,19 @@
 ---
 title: William Faulkner
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-19
-fileClass:
-- Quotes
-quote: “Read, read, read. Read everything—trash, classics, good and bad, and see how
-  they do it. Just like a carpenter who works as an apprentice and studies the master.
-  Read! You’ll absorb it. Then write. If it is good, you’ll find out. If it’s not,
-  throw it out the window.”
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: William Faulkner
+url:
 topics:
-- Reading
-- Writing
+  - reading
+  - writing
 ---
 
 # William Faulkner

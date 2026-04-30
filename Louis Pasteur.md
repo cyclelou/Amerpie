@@ -1,18 +1,19 @@
 ---
 title: Louis Pasteur
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-21
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Louis Pasteur
+url:
 topics:
-  - Desire
-  - Origin
+  - desire
+  - origin
 ---
 
 # Louis Pasteur

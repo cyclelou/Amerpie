@@ -1,15 +1,18 @@
 ---
 title: Eden Phillpotts
-author: null
-url: null
-tags:
-- kind/quote
 created: 2023-12-20
-modification date: 2024-08-28
-fileClass:
-- Quotes
-source: ''
-topics: Intellect
+updated: 2023-12-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Eden Phillpotts
+url:
+topics:
+  - intellect
 ---
 
 # Eden Phillpotts

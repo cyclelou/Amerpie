@@ -1,15 +1,18 @@
 ---
 title: Alfonso Aguilar
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-13
-fileClass: Quotes
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Associated Press
+author: Alfonso Aguilar
+url:
 topics:
-- Politics
+  - politics
 ---
 
 [[+Quotes MOC|Quotes]]

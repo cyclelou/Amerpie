@@ -1,19 +1,18 @@
 ---
 title: Sam Harris
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-27
-author:
-fileClass:
-  - Quotes
-quote:
-source: ""
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Sam Harris
+url:
 topics:
-  - Meditation
+  - meditation
 ---
 
 # Sam Harris

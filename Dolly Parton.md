@@ -1,16 +1,18 @@
 ---
 title: Dolly Parton
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-26
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Dolly Parton
+url:
 topics:
-- Identity
+  - identity
 ---
 
 # Dolly Parton

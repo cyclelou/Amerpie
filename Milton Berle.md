@@ -1,14 +1,16 @@
 ---
 title: Milton Berle
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2025-05-24
-fileClass: Quotes
-source: ''
-topics: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Milton Berle
+url:
 ---
 
 # Milton Berle

@@ -1,16 +1,18 @@
 ---
 title: John Lennon
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-07
-modification date: 2024-02-09
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-07
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: John Lennon
+url:
 topics:
-- Imagination
+  - imagination
 ---
 
 # John Lennon

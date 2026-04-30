@@ -1,20 +1,20 @@
 ---
 title: Jack Kerouac
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: Because in the end, you won’t remember the time you spent working in the office
-  or mowing your lawn. Climb that goddamn mountain.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Jack Kerouac
+url:
 topics:
-- Motivation
-- Philosophy
-- Self improvement
+  - motivation
+  - philosophy
+  - self-improvement
 ---
 
 # Jack Kerouac

@@ -1,21 +1,21 @@
 ---
 title: Oscar Wilde
-category:
-author:
-url:
-tags:
-  - quote
 created: 2023-12-09
-modification date: 2026-04-23
-author:
-fileClass:
-  - Quotes
-source: ""
+updated: 2023-12-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Oscar Wilde
+url:
 topics:
-  - Desire
-  - Dinner
-  - Emotions
-  - Experience
+  - desire
+  - dinner
+  - emotions
+  - experience
 ---
 
 # Oscar Wilde

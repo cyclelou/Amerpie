@@ -1,17 +1,19 @@
 ---
 title: David J. Schwartz
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-26
-fileClass:
-- Quotes
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: The Magic of Thinking Big
+author: David J. Schwartz
+url:
 topics:
-- Action
-- Correctness
+  - action
+  - correctness
 ---
 
 # David J. Schwartz

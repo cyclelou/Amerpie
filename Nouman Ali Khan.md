@@ -1,20 +1,19 @@
 ---
 title: Nouman Ali Khan
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-22
-author:
-fileClass:
-  - Quotes
-quote:
-source: ""
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Nouman Ali Khan
+url:
 topics:
-  - Humility
-  - Knowledge
+  - humility
+  - knowledge
 ---
 
 # Nouman Ali Khan

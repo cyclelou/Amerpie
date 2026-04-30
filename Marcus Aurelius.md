@@ -1,17 +1,19 @@
 ---
 title: Marcus Aurelius
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-03-15
-fileClass:
-- Quotes
-source: null
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Marcus Aurelius
+url:
 topics:
-- Happiness
-- Harmony
+  - happiness
+  - harmony
 ---
 
 # Marcus Aurelius

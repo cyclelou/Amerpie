@@ -1,16 +1,18 @@
 ---
 title: E. M. Forster
-url: null
-tags:
-- kind/quote
 created: 2024-01-20
-modification date: 2024-03-28
-author: null
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: E. M. Forster
+url:
 topics:
-- Willingness
+  - willingness
 ---
 
 # E. M. Forster

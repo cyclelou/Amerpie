@@ -1,16 +1,18 @@
 ---
 title: Edmund Burke
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-03-17
-modification date: 2025-05-24
-fileClass:
-- Quotes
-source: null
+updated: 2024-03-17
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Edmund Burke
+url:
 topics:
-- Future
+  - future
 ---
 
 [[+Quot+es MOC]]

@@ -1,19 +1,19 @@
 ---
 title: Maya Angelou
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-23
-author:
-fileClass:
-  - Quotes
-source: ""
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Maya Angelou
+url:
 topics:
-  - Love
-  - Work
+  - love
+  - work
 ---
 
 # Maya Angelou

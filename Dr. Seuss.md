@@ -1,20 +1,22 @@
 ---
 title: Dr. Seuss
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-26
-fileClass:
-- Quotes
-source: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Dr. Seuss
+url:
 topics:
-- Time
-- Decisions
-- Knowledge
-- Learning
-- Meaning
+  - time
+  - decisions
+  - knowledge
+  - learning
+  - meaning
 ---
 
 # Dr. Seuss

@@ -1,16 +1,18 @@
 ---
 title: Brennan Manning
-author:
-url:
+created: 2024-02-09
+updated: 2024-02-09
 tags:
   - kind/quote
-created: 2024-02-09
-modification date: 2024-04-16
-fileClass: Quotes
+kind: quote
+status:
+area:
+tool:
 source:
+author: Brennan Manning
+url:
 topics:
-  - Disappointment
-dv_quote: Our disappointments arise from presuming to know the outcome of a particular endeavor.
+  - disappointment
 ---
 
 # Brennan Manning

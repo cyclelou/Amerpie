@@ -1,17 +1,19 @@
 ---
 title: Jean-Paul Sartre
-author: null
-url: null
-tags:
-- kind/quote
 created: 2023-12-20
-modification date: 2024-03-03
-fileClass:
-- Quotes
-source: ''
+updated: 2023-12-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Jean-Paul Sartre
+url:
 topics:
-- Optimism
-- Knowledge
+  - optimism
+  - knowledge
 ---
 
 [[+Quotes MOC]]

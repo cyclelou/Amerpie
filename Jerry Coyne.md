@@ -1,18 +1,19 @@
 ---
 title: Jerry Coyne
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-19
-fileClass:
-- Quotes
-quote: In religion, faith is a virtue. In science, faith is a vice.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Jerry Coyne
+url:
 topics:
-- Religion
-- Science
+  - religion
+  - science
 ---
 
 # Jerry Coyne

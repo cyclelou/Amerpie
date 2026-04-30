@@ -1,17 +1,18 @@
 ---
 title: Jean-Luc Godard
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2025-05-24
-fileClass:
-- Quotes
-quote: He who jumps into the void owes no explanation to those who stand and watch.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Jean-Luc Godard
+url:
 topics:
-- Action
+  - action
 ---
 
 # Jean-Luc Godard

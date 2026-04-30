@@ -1,17 +1,18 @@
 ---
 title: David Brinkley
-author:
-url:
+created: 2024-02-09
+updated: 2024-02-09
 tags:
   - kind/quote
-created: 2024-02-09
-modification date: 2024-02-26
-fileClass:
-  - Quotes
-source: ""
+kind: quote
+status:
+area:
+tool:
+source:
+author: David Brinkley
+url:
 topics:
-  - News
-dv_quote: The one function TV news performs very well, is that when there is no news, we will give it to you with the same emphasis as if there were.
+  - news
 ---
 
 # David Brinkley

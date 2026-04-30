@@ -1,21 +1,20 @@
 ---
 title: Jim Geraghty
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-19
-fileClass:
-- Quotes
-quote: Years of effort spent attempting to dispel the accusations of inherent Republican
-  misogyny, xenophobia, hypocrisy, ignorance and blind rage have been undone by Trump’s
-  campaign.
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
-- National Review
+  - National Review
+author: Jim Geraghty
+url:
 topics:
-- Politics
-- Republicans
+  - politics
+  - republicans
 ---
 
 # Jim Geraghty

@@ -1,16 +1,18 @@
 ---
 title: David Allen
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-10
-modification date: 2024-02-26
-fileClass:
-- Quotes
-source: null
+updated: 2024-02-10
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: David Allen
+url:
 topics:
-- Ideas
+  - ideas
 ---
 
 # David Allen

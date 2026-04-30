@@ -1,20 +1,21 @@
 ---
 title: Unknown
-author: null
-url: null
-tags:
-- kind/quote
 created: 2023-12-20
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: null
-source: ''
+updated: 2023-12-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Unknown
+url:
 topics:
-- Speech
-- Peace
-- Idiocy
-- Assertiveness
+  - speech
+  - peace
+  - idiocy
+  - assertiveness
 ---
 
 # Unknown

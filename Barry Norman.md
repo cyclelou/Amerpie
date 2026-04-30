@@ -1,15 +1,18 @@
 ---
 title: Barry Norman
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-10
-modification date: 2024-04-16
-fileClass: Quotes
-source: null
+updated: 2024-02-10
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Barry Norman
+url:
 topics:
-- Censorship
+  - censorship
 ---
 
 [[+Quotes MOC]]

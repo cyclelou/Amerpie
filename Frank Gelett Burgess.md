@@ -1,18 +1,18 @@
 ---
 title: Frank Gelett Burgess
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-13
-author: null
-fileClass: Quotes
-quote: Our bodies are apt to be our autobiographies.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Frank Gelett Burgess
+url:
 topics:
-  - Health
+  - health
 ---
 
 # Frank Gelett Burgess

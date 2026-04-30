@@ -1,17 +1,19 @@
 ---
 title: Albert Camus
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2025-01-01
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Albert Camus
+url:
 topics:
-- Philosophy
-- Positive Thinking
+  - philosophy
+  - positive-thinking
 ---
 
 [[+Quotes MOC|Quotes]]

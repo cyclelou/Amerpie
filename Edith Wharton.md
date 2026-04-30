@@ -1,16 +1,18 @@
 ---
 title: Edith Wharton
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-07
-modification date: 2024-02-09
-fileClass:
-- Quotes
-source: ''
+updated: 2024-02-07
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Edith Wharton
+url:
 topics:
-- Light
+  - light
 ---
 
 # Edith Wharton

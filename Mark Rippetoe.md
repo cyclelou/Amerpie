@@ -1,19 +1,19 @@
 ---
 title: Mark Rippetoe
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-16
-author: null
-fileClass:
-  - Quotes
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Strong Enough
+author: Mark Rippetoe
+url:
 topics:
-  - Fitness
-  - Strength
+  - fitness
+  - strength
 ---
 
 # Mark Rippetoe

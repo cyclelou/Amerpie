@@ -1,18 +1,20 @@
 ---
 title: Ben Franklin
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-28
-modification date: 2024-02-18
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-28
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Ben Franklin
+url:
 topics:
-- Action
-- Thinking
-- Speech
+  - action
+  - thinking
+  - speech
 ---
 
 [[+Quotes MOC]]

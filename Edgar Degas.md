@@ -1,16 +1,19 @@
 ---
 title: Edgar Degas
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-13
-fileClass: Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Edgar Degas
+url:
 topics:
-- Art
-- Self
+  - art
+  - self
 ---
 
 [[+Quotes MOC]]

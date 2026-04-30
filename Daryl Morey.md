@@ -1,16 +1,18 @@
 ---
 title: Daryl Morey
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-26
-fileClass:
-- Quotes
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: The Undoing Project
+author: Daryl Morey
+url:
 topics:
-- Self Realization
+  - self-realization
 ---
 
 # Daryl Morey

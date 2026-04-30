@@ -1,16 +1,18 @@
 ---
-title: 'William Inge '
-author: null
-url: null
-tags:
-- kind/quote
+title: William Inge
 created: 2024-01-29
-modification date: 2024-03-14
-fileClass:
-- Quotes
-source: null
+updated: 2024-01-29
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: William Inge
+url:
 topics:
-- Happiness
+  - happiness
 ---
 
 [[+Quotes MOC]]

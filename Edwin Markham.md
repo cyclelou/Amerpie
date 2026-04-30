@@ -1,16 +1,18 @@
 ---
 title: Edwin Markham
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-22
-modification date: 2025-01-22
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-22
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Edwin Markham
+url:
 topics:
-- Defeat
+  - defeat
 ---
 
 # Edwin Markham

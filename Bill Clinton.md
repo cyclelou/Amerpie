@@ -1,15 +1,18 @@
 ---
 title: Bill Clinton
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-08-07
-fileClass: Quotes
-source: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Bill Clinton
+url:
 topics:
-- Obfuscation
+  - obfuscation
 ---
 
 # Bill Clinton

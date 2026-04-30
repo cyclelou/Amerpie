@@ -1,21 +1,20 @@
 ---
 title: Ralph Waldo Emerson
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-25
-author:
-fileClass:
-  - Quotes
-quote: Every artist was first an amateur.
-source: ""
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Ralph Waldo Emerson
+url:
 topics:
-  - Action
-  - Decisions
-  - Virtue
+  - action
+  - decisions
+  - virtue
 ---
 
 # Ralph Waldo Emerson

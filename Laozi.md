@@ -1,22 +1,23 @@
 ---
 title: Laozi
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-24
-modification date: 2026-04-21
-author: null
-fileClass: Quotes
-source: ''
+updated: 2024-01-24
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Laozi
+url:
 topics:
-  - Contentment
-  - Happiness
+  - contentment
+  - happiness
 ---
 
 [[+Quotes MOC]]
 
 # Laozi
 
-quote:: He who is contented is rich.  
+quote:: He who is contented is rich.

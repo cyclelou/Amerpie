@@ -1,24 +1,26 @@
 ---
 title: Merlin Mann
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-12
-modification date: 2024-03-17
-fileClass:
-- Quotes
+updated: 2024-01-12
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Github
+author: Merlin Mann
+url:
 topics:
-- Language
-- Manners
-- Diet
-- Tradition
-- Sleep
-- Goals
-- Empathy
-- Obligation
-- Technology
+  - language
+  - manners
+  - diet
+  - tradition
+  - sleep
+  - goals
+  - empathy
+  - obligation
+  - technology
 ---
 
 # Merlin Mann

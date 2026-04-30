@@ -1,16 +1,18 @@
 ---
 title: e.e. cummings
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-08-28
-fileClass:
-- Quotes
-quote: null
-source: ''
-topics: Philosophy
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: e.e. cummings
+url:
+topics:
+  - philosophy
 ---
 
 # e.e. Cummings

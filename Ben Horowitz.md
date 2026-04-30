@@ -1,15 +1,16 @@
 ---
 title: Ben Horowitz
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-07-30
-fileClass: Quotes
-source: ''
-topics:
-- ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Ben Horowitz
+url:
 ---
 
 # Ben Horowitz

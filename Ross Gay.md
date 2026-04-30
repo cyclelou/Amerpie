@@ -1,20 +1,20 @@
 ---
 title: Ross Gay
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-25
-author: null
-fileClass:
-  - Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Ross Gay
+url:
 topics:
-  - Buddhism
-  - Death
-  - Joy
+  - buddhism
+  - death
+  - joy
 ---
 
 [[+Quotes MOC]]

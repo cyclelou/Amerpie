@@ -1,18 +1,19 @@
 ---
 title: Kahil Gibran
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: “You talk when you cease to be at peace with your thoughts.”
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
-- The Prophet
+  - The Prophet
+author: Kahil Gibran
+url:
 topics:
-- Peace
+  - peace
 ---
 
 # Kahil Gibran

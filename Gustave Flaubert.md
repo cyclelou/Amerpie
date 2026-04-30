@@ -1,18 +1,19 @@
 ---
 title: Gustave Flaubert
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-03-17
-fileClass:
-- Quotes
-quote: Poetry is a subject as precise as geometry.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Gustave Flaubert
+url:
 topics:
-- Poetry
-- Writing
+  - poetry
+  - writing
 ---
 
 # Gustave Flaubert

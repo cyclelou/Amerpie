@@ -1,20 +1,20 @@
 ---
 title: Lucius Annaeus Seneca
-category:
-author:
-url:
-tags:
-  - quote
 created: 2024-01-24
-modification date: 2026-04-21
-author:
-fileClass:
-  - Quotes
-source: ""
+updated: 2024-01-24
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Lucius Annaeus Seneca
+url:
 topics:
-  - Kindness
-  - Learning
-  - Opportunity
+  - kindness
+  - learning
+  - opportunity
 ---
 
 # Lucius Annaeus Seneca

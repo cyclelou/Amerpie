@@ -1,20 +1,19 @@
 ---
 title: LOLGOP
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-21
-author:
-fileClass:
-  - Quotes
-quote:
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Twitter
+author: LOLGOP
+url:
 topics:
-  - Humor
-  - Republicans
+  - humor
+  - republicans
 ---
 
 # LOLGOP

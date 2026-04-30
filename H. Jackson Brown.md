@@ -1,17 +1,18 @@
 ---
 title: H. Jackson Brown
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: Every person you meet knows something you don't; learn from them.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: H. Jackson Brown
+url:
 topics:
-- Learning
+  - learning
 ---
 
 # H. Jackson Brown

@@ -1,21 +1,19 @@
 ---
 title: James Rebanks
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-08-11
-fileClass:
-- Quotes
-quote: This landscape is our home and we rarely stray long from it, or endure anywhere
-  else for long before returning. This may seem like a lack of imagination or adventure,
-  but I don’t care. I love this place; for me it is the beginning and the end of everything,
-  and everywhere else feels like nowhere
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: A Shepherd's Life
+author: James Rebanks
+url:
 topics:
-- Literature
-- Writing
+  - literature
+  - writing
 ---
 
 # James Rebanks

@@ -1,17 +1,19 @@
 ---
 title: Frederick the Great
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-24
-modification date: 2024-02-13
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-24
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Frederick the Great
+url:
 topics:
-- Belief
-- Conviction
+  - belief
+  - conviction
 ---
 
 # Frederick the Great

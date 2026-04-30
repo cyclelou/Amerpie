@@ -1,20 +1,19 @@
 ---
 title: Rumi
-category:
-author:
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-25
-author:
-fileClass:
-  - Quotes
-quote:
-source: ""
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Rumi
+url:
 topics:
-  - Love
-  - Philosophy
+  - love
+  - philosophy
 ---
 
 # Rumi

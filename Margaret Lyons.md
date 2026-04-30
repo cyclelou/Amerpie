@@ -1,19 +1,19 @@
 ---
 title: Margaret Lyons
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: Los Angeles is a complicated place, where people from all over the world convene
-  to disappoint one another...
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
-- New York Times
+  - New York Times
+author: Margaret Lyons
+url:
 topics:
-- Disappointment
+  - disappointment
 ---
 
 # Margaret Lyons

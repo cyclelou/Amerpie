@@ -1,18 +1,19 @@
 ---
 title: Adam Clark
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-06
-author: null
-fileClass: Quotes
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
   - The Gently Mad
+author: Adam Clark
+url:
 topics:
-  - Risk
+  - risk
 ---
 
 # Adam Clark

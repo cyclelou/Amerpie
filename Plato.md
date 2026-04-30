@@ -1,26 +1,26 @@
 ---
 title: Plato
-category:
-author:
-url:
-tags:
-  - quote
 created: 2024-02-07
-modification date: 2026-04-24
-author:
-fileClass:
-  - Quotes
-source: ""
+updated: 2024-02-07
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Plato
+url:
 topics:
-  - Courage
-  - Fear
-  - Kindness
-  - Struggle
+  - courage
+  - fear
+  - kindness
+  - struggle
 ---
 
 # Plato
 
-[Quotes](+Quotes%20MOC)
+[Quotes](+Quotes%20MOC.md)
 
 quote:: We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light
 

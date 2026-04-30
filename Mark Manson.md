@@ -1,18 +1,18 @@
 ---
 title: Mark Manson
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-23
-modification date: 2026-04-16
-author: null
-fileClass:
-  - Quotes
-source: ''
+updated: 2024-01-23
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Mark Manson
+url:
 topics:
-  - Wisdom
+  - wisdom
 ---
 
 # Mark Manson

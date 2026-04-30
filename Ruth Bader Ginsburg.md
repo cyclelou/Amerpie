@@ -1,20 +1,20 @@
 ---
 title: Ruth Bader Ginsburg
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-02-07
-modification date: 2026-04-25
-author: null
-fileClass:
-  - Quotes
+updated: 2024-02-07
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
   - Hobby Lobby Dissent
+author: Ruth Bader Ginsburg
+url:
 topics:
-  - Perseverance
-  - Religion
+  - perseverance
+  - religion
 ---
 
 # Ruth Bader Ginsburg

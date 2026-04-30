@@ -4,16 +4,13 @@ created: 2024-02-09
 updated: 2026-04-28
 tags:
   - kind/quote
-kind:
+kind: quote
 status:
 area:
 tool:
-source: ''
-author: null
-url: null
-fileClass: Quotes
-modification date: 2024-02-09
-topics: ''
+source:
+author: Thomas Edison
+url:
 ---
 
 # Thomas Edison

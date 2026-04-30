@@ -1,24 +1,23 @@
 ---
 title: Mary Karr
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-16
-author: null
-fileClass:
-  - Quotes
-quote: Propaganda seeks to destroy art in order to sanitize culture.
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
   - The Art of Memoir
+author: Mary Karr
+url:
 topics:
-  - Culture
+  - culture
 ---
 
 # Mary Karr
 
-[[Quotes/+Quotes MOC|+Quotes MOC]]
+[[+Quotes MOC|+Quotes MOC]]
 
 quote:: Propaganda seeks to destroy art in order to sanitize culture.

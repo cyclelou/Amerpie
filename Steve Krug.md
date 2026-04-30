@@ -1,18 +1,19 @@
 ---
 title: Steve Krug
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-27
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Steve Krug
+url:
 topics:
-  - Clarity
-  - Invention
+  - clarity
+  - invention
 ---
 
 # Steve Krug

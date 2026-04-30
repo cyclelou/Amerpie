@@ -1,30 +1,32 @@
 ---
 title: C. S. Lewis
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-29
-modification date: 2024-02-21
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-29
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: C. S. Lewis
+url:
 topics:
-- Writing
-- Sanity
-- Vice`
-- Torment
-- Tyranny
-- Adulthood
-- Boredom
-- Originality
-- Integrity
-- Self Image
-- Death
-- Hell
-- Humility
-- Friendship
-- Progress
+  - writing
+  - sanity
+  - vice`
+  - torment
+  - tyranny
+  - adulthood
+  - boredom
+  - originality
+  - integrity
+  - self-image
+  - death
+  - hell
+  - humility
+  - friendship
+  - progress
 ---
 
 [[+Quotes MOC]]

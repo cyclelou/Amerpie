@@ -1,17 +1,18 @@
 ---
 title: Dr. Drang (quotes)
-author:
-url:
+created: 2024-01-31
+updated: 2024-01-31
 tags:
   - kind/quote
-created: 2024-01-31
-modification date: 2024-02-26
-fileClass:
-  - Quotes
+kind: quote
+status:
+area:
+tool:
 source: Twitter
+author: Dr. Drang (quotes)
+url:
 topics:
-  - Humor
-dv_quote: A hotels chain that could guarantee Fox wouldn't be playing in the breakfast area would get all of my business.
+  - humor
 ---
 
 # Dr. Drang

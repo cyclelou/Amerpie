@@ -1,18 +1,20 @@
 ---
 title: Charles Pierce
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-21
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Charles Pierce
+url:
 topics:
-- Business
-- Philosophy
-- Politics
+  - business
+  - philosophy
+  - politics
 ---
 
 [[+Quotes MOC]]

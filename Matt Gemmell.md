@@ -1,19 +1,19 @@
 ---
 title: Matt Gemmell
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: If you don’t harbour a deep-seated, conflicted, fundamental resentment for
-  tech, well… you’re probably not a very dedicated geek.
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
-- His Blog
+  - His Blog
+author: Matt Gemmell
+url:
 topics:
-- Technology
+  - technology
 ---
 
 # Matt Gemmell

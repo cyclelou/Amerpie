@@ -1,17 +1,18 @@
 ---
 title: Lao Tzu
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2023-12-20
-modification date: 2026-04-21
-author: null
-fileClass: Quotes
-source: ''
+updated: 2023-12-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Lao Tzu
+url:
 topics:
-  - Accomplishment
+  - accomplishment
 ---
 
 # Lao Tzu

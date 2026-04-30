@@ -1,17 +1,18 @@
 ---
 title: Henry David Thoreau
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2025-02-09
-fileClass:
-- Quotes
-quote: Read the best books first, otherwise you’ll find you do not have time.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Henry David Thoreau
+url:
 topics:
-- Reading
+  - reading
 ---
 
 # Henry David Thoreau

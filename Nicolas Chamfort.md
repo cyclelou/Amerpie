@@ -1,18 +1,18 @@
 ---
 title: Nicolas Chamfort
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-17
-modification date: 2026-04-22
-author: null
-fileClass:
-  - Quotes
-source: ''
+updated: 2024-01-17
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Nicolas Chamfort
+url:
 topics:
-  - Laughter
+  - laughter
 ---
 
 # Nicolas Chamfort

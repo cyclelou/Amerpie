@@ -1,18 +1,20 @@
 ---
 title: Bradley Chambers
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-18
-fileClass:
-- Quotes
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
-- Back To School
+  - Back To School
+author: Bradley Chambers
+url:
 topics:
-- Education
-- Technology
+  - education
+  - technology
 ---
 
 # Bradley Chambers

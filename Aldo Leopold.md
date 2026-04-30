@@ -1,16 +1,18 @@
 ---
 title: Aldo Leopold
-author: null
-url: null
-tags:
-- kind/quote
 created: 2025-01-01
-modification date: 2025-01-01
-fileClass:
-- Quotes
+updated: 2025-01-01
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: A Sand County Almanac
+author: Aldo Leopold
+url:
 topics:
-- Wilderness
+  - wilderness
 ---
 
 # Aldo Leopold

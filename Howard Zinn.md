@@ -1,21 +1,20 @@
 ---
 title: Howard Zinn
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-15
-author:
-fileClass:
-  - Quotes
-quote:
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
+author: Howard Zinn
+url:
 topics:
-  - Civil Disobedience
-  - Government
-  - History
+  - civil-disobedience
+  - government
+  - history
 ---
 
 # Howard Zinn

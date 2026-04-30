@@ -1,17 +1,19 @@
 ---
 title: Joseph Brodsky
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-23
-modification date: 2024-02-09
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-23
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Joseph Brodsky
+url:
 topics:
-- Reading
-- Knowledge
+  - reading
+  - knowledge
 ---
 
 # Joseph Brodsky

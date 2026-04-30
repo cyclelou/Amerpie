@@ -1,18 +1,18 @@
 ---
 title: Gary Winogrand
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: Photographers mistake the emotion they feel while taking the photo as a judgment
-  that the photograph is good
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Gary Winogrand
+url:
 topics:
-- Photography
+  - photography
 ---
 
 # Gary Winogrand

@@ -1,24 +1,27 @@
 ---
 title: Albert Einstein
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2025-01-01
-fileClass: Quotes
-source: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Albert Einstein
+url:
 topics:
-- Education
-- Relativity
-- Answers
-- Clutter
-- Simplicity
-- Problems
-- Genius
-- Speech
-- Truth
-- Philosophy
+  - education
+  - relativity
+  - answers
+  - clutter
+  - simplicity
+  - problems
+  - genius
+  - speech
+  - truth
+  - philosophy
 ---
 
 quote:: Life is like riding a bicycle. To keep your balance you must keep moving.

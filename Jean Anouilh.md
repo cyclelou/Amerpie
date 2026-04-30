@@ -1,16 +1,19 @@
 ---
 title: Jean Anouilh
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-13
-fileClass: Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Jean Anouilh
+url:
 topics:
-- Acceptance
-- Self improvement
+  - acceptance
+  - self-improvement
 ---
 
 # Jean Anouilh

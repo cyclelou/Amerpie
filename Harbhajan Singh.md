@@ -1,16 +1,18 @@
 ---
 title: Harbhajan Singh
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-26
-modification date: 2024-02-26
-fileClass:
-- Quotes
-source: null
+updated: 2024-02-26
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Harbhajan Singh
+url:
 topics:
-- Friendship
+  - friendship
 ---
 
 # Harbhajan Singh

@@ -1,16 +1,19 @@
 ---
 title: Bertrand Russell
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-18
-fileClass: Quotes
-source: null
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Bertrand Russell
+url:
 topics:
-- Intelligence
-- Doubt
+  - intelligence
+  - doubt
 ---
 
 # Bertrand Russell

@@ -1,18 +1,18 @@
 ---
 title: Paul Tournier
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-03-17
-modification date: 2026-04-24
-author: null
-fileClass:
-  - Quotes
-source: ''
+updated: 2024-03-17
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Paul Tournier
+url:
 topics:
-  - Vulnerability
+  - vulnerability
 ---
 
 [[+Quotes MOC]]

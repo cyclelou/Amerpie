@@ -1,16 +1,18 @@
 ---
 title: Walt Whitman
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-03-16
-modification date: 2024-03-16
-fileClass:
-- Quotes
-source: null
+updated: 2024-03-16
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Walt Whitman
+url:
 topics:
-- Friendship
+  - friendship
 ---
 
 # Walt Whitman

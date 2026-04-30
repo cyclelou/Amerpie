@@ -1,19 +1,19 @@
 ---
 title: Pablo Picasso
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-07
-modification date: 2026-04-24
-author:
-fileClass:
-  - Quotes
-source: ""
+updated: 2024-02-07
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Pablo Picasso
+url:
 topics:
-  - Art
-  - Imagination
+  - art
+  - imagination
 ---
 
 # Pablo Picasso

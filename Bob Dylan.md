@@ -1,15 +1,18 @@
 ---
 title: Bob Dylan
-author: null
-url: null
-tags:
-- kind/quote
 created: 2023-12-10
-modification date: 2024-08-07
-fileClass: Quotes
-source: ''
+updated: 2023-12-10
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Bob Dylan
+url:
 topics:
-- Freedom
+  - freedom
 ---
 
 # Bob Dylan

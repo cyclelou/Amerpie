@@ -1,15 +1,16 @@
 ---
 title: Dr. Simon Goddek
-author: null
-url: https://twitter.com/goddeketal/status/1728997671179018243
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-26
-fileClass:
-- Quotes
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Twitter
-topics: null
+author: Dr. Simon Goddek
+url: https://twitter.com/goddeketal/status/1728997671179018243
 ---
 
 # Dr. Simon Goddek

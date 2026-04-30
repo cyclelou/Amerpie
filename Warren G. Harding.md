@@ -1,18 +1,19 @@
 ---
 title: Warren G. Harding
-category:
-author:
-url:
+created: 2026-04-17
+updated: 2026-04-17
 tags:
   - kind/quote
-created: 2026-04-17
-modification date: 2026-04-17
-fileClass:
-  - Quotes
+kind: quote
+status:
+area:
+tool:
 source:
+author: Warren G. Harding
+url:
 topics:
-  - Foresight
-  - Planning
+  - foresight
+  - planning
 ---
 
 # Warren G. Harding

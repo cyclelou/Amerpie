@@ -1,17 +1,18 @@
 ---
 title: Neal A Maxwell
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-22
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Neal A Maxwell
+url:
 topics:
-  - Faith
+  - faith
 ---
 
 # Neal A Maxwell

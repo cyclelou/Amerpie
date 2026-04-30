@@ -1,17 +1,19 @@
 ---
 title: Friedrich Nietzsche
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-03-17
-modification date: 2024-03-17
-fileClass:
-- Quotes
-source: ''
+updated: 2024-03-17
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Friedrich Nietzsche
+url:
 topics:
-- Marriage
-- Wisdom
+  - marriage
+  - wisdom
 ---
 
 [[+Quotes MOC]]

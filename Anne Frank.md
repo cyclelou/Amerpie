@@ -1,16 +1,19 @@
 ---
 title: Anne Frank
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-13
-fileClass: Quotes
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: The Diary Of Anne Frank
+author: Anne Frank
+url:
 topics:
-- Peace
-- Hope
+  - peace
+  - hope
 ---
 
 [[+Quotes MOC|Quotes]]

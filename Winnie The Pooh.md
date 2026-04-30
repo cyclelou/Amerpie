@@ -1,18 +1,18 @@
 ---
 title: Winnie The Pooh
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: Don’t underestimate the value of Doing Nothing, of just going along, listening
-  to all the things you can’t hear, and not bothering.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Winnie The Pooh
+url:
 topics:
-- Work
+  - work
 ---
 
 # Winnie The Pooh

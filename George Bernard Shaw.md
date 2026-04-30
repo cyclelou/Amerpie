@@ -1,23 +1,23 @@
 ---
 title: George Bernard Shaw
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-13
-author: null
-fileClass: Quotes
-source: ''
-topics: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: George Bernard Shaw
+url:
 ---
 
 # George Bernard Shaw
 
 [[+Quotes MOC|Quotes]]
 
-[+Quotes MOC](+Quotes%20MOC)
+[+Quotes MOC](+Quotes%20MOC.md)
 
 quote:: The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.
 

@@ -1,16 +1,18 @@
 ---
 title: George Burns
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-20
-modification date: 2024-02-09
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: George Burns
+url:
 topics:
-- Family
+  - family
 ---
 
 # George Burns

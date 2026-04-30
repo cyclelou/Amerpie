@@ -1,18 +1,19 @@
 ---
 title: Sun Tzu
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-27
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Sun Tzu
+url:
 topics:
-  - Strategy
-  - Tactics
+  - strategy
+  - tactics
 ---
 
 # Sun Tzu

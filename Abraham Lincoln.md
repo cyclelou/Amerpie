@@ -1,18 +1,21 @@
 ---
 title: Abraham Lincoln
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2025-01-23
-fileClass: Quotes
-source: null
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Abraham Lincoln
+url:
 topics:
-- Responsibility
-- Wisdom
-- Character
-- Success
+  - responsibility
+  - wisdom
+  - character
+  - success
 ---
 
 [[+Quotes MOC]]

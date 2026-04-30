@@ -1,19 +1,22 @@
 ---
 title: Benjamin Franklin
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-18
-fileClass: Quotes
-source: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Benjamin Franklin
+url:
 topics:
-- Praise
-- Safety
-- Wealth
-- Action
-- Philosophy
+  - praise
+  - safety
+  - wealth
+  - action
+  - philosophy
 ---
 
 # Benjamin Franklin

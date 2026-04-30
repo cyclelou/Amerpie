@@ -1,17 +1,18 @@
 ---
 title: Ambrose Bierce
-author:
-url:
+created: 2024-03-17
+updated: 2024-03-17
 tags:
   - kind/quote
-created: 2024-03-17
-modification date: 2024-03-17
-fileClass:
-  - Quotes
-source: ""
+kind: quote
+status:
+area:
+tool:
+source:
+author: Ambrose Bierce
+url:
 topics:
-  - Doubt
-dv_quote: When you doubt, abstain.
+  - doubt
 ---
 
 [[+Quotes MOC]]

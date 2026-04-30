@@ -1,18 +1,19 @@
 ---
 title: Mary Oliver
-category:
-author:
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-16
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Mary Oliver
+url:
 topics:
-  - Courage
-  - Gratitude
+  - courage
+  - gratitude
 ---
 
 # Mary Oliver

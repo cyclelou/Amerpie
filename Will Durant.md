@@ -1,17 +1,19 @@
 ---
 title: Will Durant
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-12
-modification date: 2024-02-09
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-12
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Will Durant
+url:
 topics:
-- Health
-- Mental Health
+  - health
+  - mental-health
 ---
 
 # Will Durant

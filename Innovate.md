@@ -1,18 +1,19 @@
 ---
 title: Innovate
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: Obsession is a word the lazy use to describe the dedicated
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
-- Trail Shoe Commercial
+  - Trail Shoe Commercial
+author: Innovate
+url:
 topics:
-- Inspirational
+  - inspirational
 ---
 
 # Innovate

@@ -1,19 +1,19 @@
 ---
 title: Seneca
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-27
-author: null
-fileClass:
-  - Quotes
-source: null
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Seneca
+url:
 topics:
-  - Philosophy
-  - Suffering
+  - philosophy
+  - suffering
 ---
 
 # Seneca

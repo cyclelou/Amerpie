@@ -1,18 +1,20 @@
 ---
 title: A. A. Milne
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2026-01-29
-author: null
-fileClass:
-- Quotes
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: A. A. Milne,
+author: A. A. Milne
+url:
 topics:
-- Organizing
-- Possibility
-- Relaxation
+  - organizing
+  - possibility
+  - relaxation
 ---
 
 # A. A. Milne
@@ -21,4 +23,4 @@ topics:
 
 quote:: Organizing is what you do before you do something, so that when you do it, it is not all mixed up.  
 quote:: Rivers know this: there is no hurry. We shall get there some day.  
-quote:: People say nothing is impossible, but I do nothing every day.  
+quote:: People say nothing is impossible, but I do nothing every day.

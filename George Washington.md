@@ -1,18 +1,19 @@
 ---
 title: George Washington
-author: null
-url: null
-tags:
-- quote
 created: 2024-01-26
-modification date: 2026-01-29
-author: null
-fileClass:
-- Quotes
-source: null
+updated: 2024-01-26
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: George Washington
+url:
 topics:
-- Happiness
-- Morality
+  - happiness
+  - morality
 ---
 
 # George Washington

@@ -1,17 +1,18 @@
 ---
 title: Rudyard Kipling
-category:
-author: 
-url: 
+created: 2026-03-30
+updated: 2026-03-30
 tags:
   - kind/quote
-created: 2026-03-30
-modification date: 2026-03-30
-fileClass:
-  - Quotes
+kind: quote
+status:
+area:
+tool:
 source:
+author: Rudyard Kipling
+url:
 topics:
-  - Language
+  - language
 ---
 
 # Rudyard Kipling

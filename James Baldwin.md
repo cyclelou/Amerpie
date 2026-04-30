@@ -1,17 +1,19 @@
 ---
 title: James Baldwin
-author: null
-url: null
-tags:
-- kind/quote
 created: 2023-12-20
-modification date: 2024-08-11
-fileClass:
-- Quotes
-source: ''
+updated: 2023-12-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: James Baldwin
+url:
 topics:
-- Love
-- Patriotism
+  - love
+  - patriotism
 ---
 
 # James Baldwin

@@ -1,19 +1,19 @@
 ---
 title: Pete Brown
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-17
-modification date: 2026-04-24
-author: null
-fileClass:
-  - Quotes
+updated: 2024-01-17
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source:
   - Exploding Comma
+author: Pete Brown
+url:
 topics:
-  - Technology
+  - technology
 ---
 
 # Pete Brown

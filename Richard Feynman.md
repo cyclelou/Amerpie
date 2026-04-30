@@ -1,19 +1,18 @@
 ---
 title: Richard Feynman
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-25
-author: null
-fileClass:
-  - Quotes
-quote: What I cannot create, I do not understand.
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Richard Feynman
+url:
 topics:
-  - Knowledge
+  - knowledge
 ---
 
 # Richard Feynman

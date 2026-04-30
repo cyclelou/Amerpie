@@ -1,14 +1,18 @@
 ---
 title: Bill Tregle's Dad
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-07-30
-fileClass: Quotes
-source: ''
-topics: Action
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Bill Tregle's Dad
+url:
+topics:
+  - action
 ---
 
 # Bill Tregle's Dad

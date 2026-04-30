@@ -1,14 +1,18 @@
 ---
 title: Bre Pettis
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-09
-modification date: 2024-02-18
-fileClass: Quotes
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: Linchpin
-topics: Knowledge
+author: Bre Pettis
+url:
+topics:
+  - knowledge
 ---
 
 # Bre Pettis

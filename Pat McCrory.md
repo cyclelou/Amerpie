@@ -1,22 +1,21 @@
 ---
 title: Pat McCrory
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-24
-author:
-fileClass:
-  - Quotes
-quote:
-source: ""
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Pat McCrory
+url:
 topics:
-  - LGBT
-  - North Carolina
-  - Politics
-  - Republicans
+  - lgbt
+  - north-carolina
+  - politics
+  - republicans
 ---
 
 # Pat McCrory

@@ -1,16 +1,18 @@
 ---
 title: Carl Sagan,
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-02-07
-modification date: 2024-02-21
-fileClass:
-- Quotes
+updated: 2024-02-07
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: The Ascent of Man
+author: Carl Sagan,
+url:
 topics:
-- Sport
+  - sport
 ---
 
 [[+Quotes MOC]]

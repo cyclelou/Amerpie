@@ -1,17 +1,19 @@
 ---
 title: Coco Channel
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-04-16
-fileClass:
-- Quotes
-source: null
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Coco Channel
+url:
 topics:
-- Advice
-- Life
+  - advice
+  - life
 ---
 
 [[+Quotes MOC]]

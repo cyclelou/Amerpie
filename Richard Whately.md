@@ -1,18 +1,19 @@
 ---
 title: Richard Whately
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-01-31
-modification date: 2026-04-25
-author: null
-fileClass: Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Richard Whately
+url:
 topics:
-  - Children
-  - Parenting
+  - children
+  - parenting
 ---
 
 [[+Quotes MOC]]

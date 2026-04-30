@@ -1,14 +1,18 @@
 ---
 title: Joan Westenberg
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-28
-modification date: 2024-06-12
-fileClass: Quotes
-source: ''
-topics: Healthcare
+updated: 2024-01-28
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Joan Westenberg
+url:
+topics:
+  - healthcare
 ---
 
 # Joan Westenberg

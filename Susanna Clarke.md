@@ -1,18 +1,19 @@
 ---
 title: SusAnna Clarke
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-27
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: SusAnna Clarke
+url:
 topics:
-  - Beauty
-  - Smiles
+  - beauty
+  - smiles
 ---
 
 # SusAnna Clarke

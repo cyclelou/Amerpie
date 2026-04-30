@@ -1,19 +1,21 @@
 ---
 title: Alexander Solzhenitsyn
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-13
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Alexander Solzhenitsyn
+url:
 topics:
-- Truth
-- Honesty
-- Courage
-- Evil
+  - truth
+  - honesty
+  - courage
+  - evil
 ---
 
 [[+Quotes MOC|Quotes]]
@@ -26,4 +28,4 @@ quote:: You can resolve to live your life with integrity. Let your credo be this
 
 quote:: The simple step of a courageous individual is not to take part in the lie. One word of truth outweighs the world. ^courage
 
-quote:: "In keeping silent about evil, in burying it so deep within us that no sign of it appears on the surface, we are implanting it, and it will rise up a thousand fold in the future. When we neither punish nor reproach evildoers, we are not simply protecting their trivial old age, we are thereby ripping the foundations of justice from beneath new generations."  
+quote:: "In keeping silent about evil, in burying it so deep within us that no sign of it appears on the surface, we are implanting it, and it will rise up a thousand fold in the future. When we neither punish nor reproach evildoers, we are not simply protecting their trivial old age, we are thereby ripping the foundations of justice from beneath new generations."

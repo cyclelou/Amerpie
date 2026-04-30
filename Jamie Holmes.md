@@ -1,17 +1,18 @@
 ---
 title: Jamie Holmes
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-15
-author:
-fileClass: Quotes
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
 source: https://www.goodreads.com/book/show/22822855-nonsense
+author: Jamie Holmes
+url:
 topics:
-  - Restraint
+  - restraint
 ---
 
 # Jamie Holmes

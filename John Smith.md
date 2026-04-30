@@ -1,16 +1,18 @@
 ---
 title: John Smith
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-29
-modification date: 2024-02-09
-fileClass:
-- Quotes
-source: ''
+updated: 2024-01-29
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: John Smith
+url:
 topics:
-- Philosophy
+  - philosophy
 ---
 
 # John Smith

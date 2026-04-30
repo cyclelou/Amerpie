@@ -1,17 +1,18 @@
 ---
 title: Warren Buffett
-author: null
-url: null
-tags:
-- kind/quote
 created: 2024-01-31
-modification date: 2024-02-09
-fileClass:
-- Quotes
-quote: “It’s only when the tide goes out that you learn who’s been swimming naked.”
-source: ''
+updated: 2024-01-31
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Warren Buffett
+url:
 topics:
-- Finance
+  - finance
 ---
 
 # Warren Buffett

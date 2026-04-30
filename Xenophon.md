@@ -1,17 +1,18 @@
 ---
 title: Xenophon
-author:
-url:
+created: 2026-01-31
+updated: 2026-01-31
 tags:
   - kind/quote
-created: 2026-01-31
-modification date: 2026-01-31
-
-fileClass:
-  - Quotes
+kind: quote
+status:
+area:
+tool:
 source:
+author: Xenophon
+url:
 topics:
-  - Praise
+  - praise
 ---
 
 # Xenophon

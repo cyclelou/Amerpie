@@ -1,16 +1,16 @@
 ---
 title: Phillip Dick
-category:
-author: 
-url: null
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-24
-author: null
-fileClass: Quotes
-source: ''
-topics: ''
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Phillip Dick
+url:
 ---
 
 # Phillip Dick

@@ -1,17 +1,19 @@
 ---
 title: Maureen Dowd
-author: null
-url: null
-tags:
-- kind/quote
 created: 2023-12-20
-modification date: 2025-05-24
-fileClass:
-- Quotes
-source: ''
+updated: 2023-12-20
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Maureen Dowd
+url:
 topics:
-- Politics
-- Trump
+  - politics
+  - trump
 ---
 
 # Maureen Dowd

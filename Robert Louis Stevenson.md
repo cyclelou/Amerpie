@@ -1,17 +1,18 @@
 ---
 title: Robert Louis Stevenson
-category:
-author: 
-url:
-tags:
-  - quote
 created: 2024-02-09
-modification date: 2026-04-25
-author:
-fileClass: Quotes
-source: ""
+updated: 2024-02-09
+tags:
+  - kind/quote
+kind: quote
+status:
+area:
+tool:
+source:
+author: Robert Louis Stevenson
+url:
 topics:
-  - Preparation
+  - preparation
 ---
 
 # Robert Louis Stevenson

@@ -1,18 +1,18 @@
 ---
 title: Oswald Chambers
-category:
-author:
-url:
+created: 2026-04-06
+updated: 2026-04-06
 tags:
   - kind/quote
-created: 2026-04-06
-modification date: 2026-04-23
-dv_quote:
-fileClass:
-  - Quotes
+kind: quote
+status:
+area:
+tool:
 source:
+author: Oswald Chambers
+url:
 topics:
-  - Action
+  - action
 ---
 
 # Oswald Chambers
