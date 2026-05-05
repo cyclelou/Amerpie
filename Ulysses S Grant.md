@@ -13,7 +13,7 @@ url: https://social.lol/deck/@davemark@mastodon.social/111743591001253777
 tags:
 - area/quotes
 - kind/note
-- status/active
+- delete/active
 topics:
 - war
 - civics

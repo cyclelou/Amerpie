@@ -13,7 +13,7 @@ url: http://a.co/9cJo4jg
 tags:
 - area/quotes
 - kind/note
-- status/active
+- delete/active
 topics:
 - thru-hiking
 ---

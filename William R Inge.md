@@ -13,7 +13,7 @@ url: ''
 tags:
 - area/quotes
 - kind/note
-- status/active
+- delete/active
 ---
 
 [[maps-of-content/MOC Quotes]]

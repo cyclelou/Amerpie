@@ -14,7 +14,7 @@ url: https://archive.ph/PCsft
 tags:
 - area/quotes
 - kind/reference
-- status/active
+- delete/active
 ---
 
 [[maps-of-content/MOC Quotes]]

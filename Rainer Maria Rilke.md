@@ -15,7 +15,7 @@ tags:
 - area/ai
 - area/quotes
 - kind/note
-- status/active
+- delete/active
 topics:
 - love
 - philosophy
