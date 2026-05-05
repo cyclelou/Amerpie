@@ -1,20 +1,24 @@
 ---
-title: Joe Scanlon (@jscanlon@mastodon.world)
-created: 2025-03-14
-updated: 2025-03-14
-tags:
-  - kind/reference/quotes
-  - media/readitlater/article
-  - media/readitlater/clippings
-kind: reference
-status:
+title: Joe Scanlon  @jscanlon@mastodon.world
+created: '2026-05-02'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source: https://mastodon.world/@jscanlon/114152728212861049
-author:
-  - "[[@jscanlon@mastodon.world]]"
-url: https://mastodon.world/@jscanlon@mastodon.world
+- quotes
+tool: []
+source: ''
+author: ''
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Joe Scanlon (@jscanlon@mastodon.world)
 

@@ -1,19 +1,25 @@
 ---
 title: Margaret Lyons
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - New York Times
+- quotes
+tool: []
+source: New York Times
 author: Margaret Lyons
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - disappointment
+- disappointment
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Margaret Lyons

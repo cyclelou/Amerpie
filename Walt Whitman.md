@@ -1,19 +1,26 @@
 ---
 title: Walt Whitman
-created: 2024-03-16
-updated: 2024-03-16
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-03-16'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Walt Whitman
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - friendship
+- friendship
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Walt Whitman
 

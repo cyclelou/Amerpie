@@ -1,19 +1,26 @@
 ---
 title: Eden Phillpotts
-created: 2023-12-20
-updated: 2023-12-20
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2023-12-20'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Eden Phillpotts
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - intellect
+- intellect
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Eden Phillpotts
 

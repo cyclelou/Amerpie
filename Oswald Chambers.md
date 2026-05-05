@@ -1,19 +1,26 @@
 ---
 title: Oswald Chambers
-created: 2026-04-06
-updated: 2026-04-06
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2026-04-06'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Oswald Chambers
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - action
+- action
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Oswald Chambers
 

@@ -1,19 +1,26 @@
 ---
 title: Rutherford B Hayes
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Rutherford B Hayes
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - beginning
+- beginning
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Rutherford B Hayes
 

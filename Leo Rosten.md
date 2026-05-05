@@ -1,20 +1,27 @@
 ---
 title: Leo Rosten
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Leo Rosten
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - growth
-  - maturity
+- growth
+- maturity
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Leo Rosten
 

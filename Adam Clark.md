@@ -1,20 +1,26 @@
 ---
 title: Adam Clark
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - The Gently Mad
+- quotes
+tool: []
+source: The Gently Mad
 author: Adam Clark
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - risk
+- risk
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Adam Clark
 

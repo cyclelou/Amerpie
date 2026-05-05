@@ -1,28 +1,35 @@
 ---
 title: Albert Einstein
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Albert Einstein
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - education
-  - relativity
-  - answers
-  - clutter
-  - simplicity
-  - problems
-  - genius
-  - speech
-  - truth
-  - philosophy
+- education
+- relativity
+- answers
+- clutter
+- simplicity
+- problems
+- genius
+- speech
+- truth
+- philosophy
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 quote:: Life is like riding a bicycle. To keep your balance you must keep moving.
 

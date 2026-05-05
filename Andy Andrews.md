@@ -1,21 +1,28 @@
 ---
 title: Andy Andrews
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Andy Andrews
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - leadership
-  - struggle
-  - action
+- leadership
+- struggle
+- action
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Andy Andrews
 

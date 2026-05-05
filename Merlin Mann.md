@@ -1,27 +1,34 @@
 ---
 title: Merlin Mann
-created: 2024-01-12
-updated: 2024-01-12
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-12'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- quotes
+tool: []
 source: Github
 author: Merlin Mann
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - language
-  - manners
-  - diet
-  - tradition
-  - sleep
-  - goals
-  - empathy
-  - obligation
-  - technology
+- language
+- manners
+- diet
+- tradition
+- sleep
+- goals
+- empathy
+- obligation
+- technology
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Merlin Mann
 

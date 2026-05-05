@@ -1,20 +1,27 @@
 ---
 title: Warren G. Harding
-created: 2026-04-17
-updated: 2026-04-17
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2026-04-17'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Warren G. Harding
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - foresight
-  - planning
+- foresight
+- planning
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Warren G. Harding
 

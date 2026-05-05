@@ -1,22 +1,28 @@
 ---
 title: Lou Plummer
-created: 2024-01-23
-updated: 2024-01-23
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-23'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - micro.blog
+- quotes
+tool: []
+source: micro.blog
 author: Lou Plummer
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - military
-  - technology
-  - veterans-day
+- military
+- technology
+- veterans-day
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Lou Plummer
 

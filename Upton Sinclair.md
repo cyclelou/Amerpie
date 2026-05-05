@@ -1,21 +1,31 @@
 ---
 title: Upton Sinclair
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- ai
+- quotes
+tool: []
 source: https://signalvnoise.com
 author: Upton Sinclair
-url:
+url: ''
+tags:
+- area/ai
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - philosophy
-  - journalism
-  - understanding
+- philosophy
+- journalism
+- understanding
 ---
+
+[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Upton Sinclair
 

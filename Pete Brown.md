@@ -1,20 +1,26 @@
 ---
 title: Pete Brown
-created: 2024-01-17
-updated: 2024-01-17
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-17'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - Exploding Comma
+- quotes
+tool: []
+source: Exploding Comma
 author: Pete Brown
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - technology
+- technology
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Pete Brown
 

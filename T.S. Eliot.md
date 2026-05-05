@@ -1,19 +1,26 @@
 ---
 title: T.S. Eliot
-created: 2024-03-28
-updated: 2026-04-28
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-03-28'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: T.S. Eliot
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - risk
+- risk
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # T.S. Eliot
 

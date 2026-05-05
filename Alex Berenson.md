@@ -1,19 +1,26 @@
 ---
 title: Alex Berenson
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Alex Berenson
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - hope
+- hope
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Alex Berenson
 

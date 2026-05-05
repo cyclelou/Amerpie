@@ -1,21 +1,28 @@
 ---
 title: Lucius Annaeus Seneca
-created: 2024-01-24
-updated: 2024-01-24
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-24'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Lucius Annaeus Seneca
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - kindness
-  - learning
-  - opportunity
+- kindness
+- learning
+- opportunity
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Lucius Annaeus Seneca
 

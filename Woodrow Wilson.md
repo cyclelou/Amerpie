@@ -1,19 +1,26 @@
 ---
 title: Woodrow Wilson
-created: 2026-01-29
-updated: 2026-01-29
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2026-01-29'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Woodrow Wilson
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - conformity
+- conformity
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Woodrow Wilson
 

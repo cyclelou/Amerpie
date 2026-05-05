@@ -1,20 +1,26 @@
 ---
 title: Macklemore
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- mac
+tool: []
+source: ''
 author: Macklemore
-url:
+url: ''
+tags:
+- area/mac
+- kind/note
+- status/active
 topics:
-  - artists
-  - greatness
+- artists
+- greatness
 ---
+
+[[maps-of-content/MOC Mac]]
+
 
 # Macklemore
 

@@ -1,21 +1,28 @@
 ---
 title: Esther Abraham Hicks
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Esther Abraham Hicks
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - gratitude
-  - joy
-  - life
+- gratitude
+- joy
+- life
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Esther Abraham Hicks
 

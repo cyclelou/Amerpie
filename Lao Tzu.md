@@ -1,19 +1,26 @@
 ---
 title: Lao Tzu
-created: 2023-12-20
-updated: 2023-12-20
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2023-12-20'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Lao Tzu
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - accomplishment
+- accomplishment
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Lao Tzu
 

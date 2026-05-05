@@ -1,21 +1,28 @@
 ---
 title: Socrates
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Socrates
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - exercise
-  - self-improvement
-  - strength
+- exercise
+- self-improvement
+- strength
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Socrates
 

@@ -1,21 +1,31 @@
 ---
-title: Anaïs Nin
-created: 2024-01-22
-updated: 2024-01-22
-tags:
-  - kind/quote
-kind: quote
-status:
+title: Anas Nin
+created: '2024-01-22'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-author: Anaïs Nin
-url:
+- ai
+- quotes
+tool: []
+source: ''
+author: Anas Nin
+url: ''
+tags:
+- area/ai
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - self
-  - philosophy
-  - dreams
+- self
+- philosophy
+- dreams
 ---
+
+[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC|Quotes]]
 

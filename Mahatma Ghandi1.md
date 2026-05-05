@@ -1,19 +1,26 @@
 ---
 title: Mahatma Gandhi
-created: 2026-04-12
-updated: 2026-04-12
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2026-04-12'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Mahatma Gandhi
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - thoughts
+- thoughts
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Mahatma Gandhi
 

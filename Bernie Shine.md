@@ -1,20 +1,26 @@
 ---
 title: Bernie Shine
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - Huffington Post
+- quotes
+tool: []
+source: Huffington Post
 author: Bernie Shine
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - politics
+- politics
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Bernie Shine
 

@@ -1,20 +1,27 @@
 ---
 title: Laozi
-created: 2024-01-24
-updated: 2024-01-24
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-24'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Laozi
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - contentment
-  - happiness
+- contentment
+- happiness
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC]]
 

@@ -1,25 +1,35 @@
 ---
 title: Voltaire
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- ai
+- quotes
+tool: []
+source: ''
 author: Voltaire
-url:
+url: ''
+tags:
+- area/ai
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - courage
-  - feelings
-  - propaganda
-  - judgement
-  - belief
-  - doubt
-  - writing
+- courage
+- feelings
+- propaganda
+- judgement
+- belief
+- doubt
+- writing
 ---
+
+[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Voltaire
 

@@ -1,20 +1,27 @@
 ---
 title: George Washington
-created: 2024-01-26
-updated: 2024-01-26
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-26'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: George Washington
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - happiness
-  - morality
+- happiness
+- morality
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # George Washington
 

@@ -1,19 +1,26 @@
 ---
 title: Paul Tournier
-created: 2024-03-17
-updated: 2024-03-17
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-03-17'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Paul Tournier
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - vulnerability
+- vulnerability
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC]]
 

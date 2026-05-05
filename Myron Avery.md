@@ -1,19 +1,25 @@
 ---
 title: Myron Avery
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - In the Maine Woods
+- quotes
+tool: []
+source: In the Maine Woods
 author: Myron Avery
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - appalachian-trail
+- appalachian-trail
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Myron Avery

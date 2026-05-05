@@ -1,20 +1,30 @@
 ---
 title: Craig Mod
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- ai
+- quotes
+tool: []
+source: ''
 author: Craig Mod
-url:
+url: ''
+tags:
+- area/ai
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - art
-  - work
+- art
+- work
 ---
+
+[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Craig Mod
 

@@ -1,20 +1,26 @@
 ---
 title: Paul Krugman
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - New York Times
+- quotes
+tool: []
+source: New York Times
 author: Paul Krugman
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - politics
+- politics
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Paul Krugman
 

@@ -1,20 +1,30 @@
 ---
-title: Antoine de Saint-Exupéry
-created: 2024-01-17
-updated: 2024-01-17
-tags:
-  - kind/quote
-kind: quote
-status:
+title: Antoine de Saint-Exupry
+created: '2024-01-17'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- ai
+- quotes
+tool: []
 source: Wind, Sand and Stars
-author: Antoine de Saint-Exupéry
-url:
+author: Antoine de Saint-Exupry
+url: ''
+tags:
+- area/ai
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - love
-  - goals
+- love
+- goals
 ---
+
+[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC|Quotes]]
 

@@ -1,22 +1,29 @@
 ---
 title: Alexander Solzhenitsyn
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Alexander Solzhenitsyn
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - truth
-  - honesty
-  - courage
-  - evil
+- truth
+- honesty
+- courage
+- evil
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC|Quotes]]
 

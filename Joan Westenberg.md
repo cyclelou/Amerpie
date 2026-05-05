@@ -1,19 +1,26 @@
 ---
 title: Joan Westenberg
-created: 2024-01-28
-updated: 2024-01-28
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-28'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Joan Westenberg
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - healthcare
+- healthcare
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Joan Westenberg
 

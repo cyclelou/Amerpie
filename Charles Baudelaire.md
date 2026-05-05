@@ -1,19 +1,29 @@
 ---
 title: Charles Baudelaire
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- ai
+- quotes
+tool: []
+source: ''
 author: Charles Baudelaire
-url:
+url: ''
+tags:
+- area/ai
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - devil
+- devil
 ---
+
+[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Charles Baudelaire
 

@@ -1,24 +1,34 @@
 ---
 title: Mark Twain
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- ai
+- quotes
+tool: []
+source: ''
 author: Mark Twain
-url:
+url: ''
+tags:
+- area/ai
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - belief
-  - courage
-  - dreams
-  - judgement
-  - knowledge
-  - work
+- belief
+- courage
+- dreams
+- judgement
+- knowledge
+- work
 ---
+
+[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Mark Twain
 

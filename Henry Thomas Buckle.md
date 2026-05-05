@@ -1,17 +1,24 @@
 ---
 title: Henry Thomas Buckle
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Henry Thomas Buckle
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Henry Thomas Buckle
 

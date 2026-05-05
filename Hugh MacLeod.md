@@ -1,17 +1,23 @@
 ---
 title: Hugh MacLeod
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- mac
+tool: []
+source: ''
 author: Hugh MacLeod
-url:
+url: ''
+tags:
+- area/mac
+- kind/note
+- status/active
 ---
+
+[[maps-of-content/MOC Mac]]
+
 
 # Hugh MacLeod
 

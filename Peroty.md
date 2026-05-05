@@ -1,20 +1,26 @@
 ---
 title: Peroty
-created: 2023-12-25
-updated: 2023-12-25
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2023-12-25'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - micro.blog
+- quotes
+tool: []
+source: micro.blog
 author: Peroty
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - flying
+- flying
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Peroty
 

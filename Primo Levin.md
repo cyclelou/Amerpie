@@ -1,19 +1,26 @@
 ---
 title: Primo Levin
-created: 2023-12-20
-updated: 2023-12-20
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2023-12-20'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- quotes
+tool: []
 source: If This is a Man
 author: Primo Levin
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - civilization
+- civilization
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Primo Levin
 

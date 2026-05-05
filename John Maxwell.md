@@ -1,19 +1,26 @@
 ---
 title: John Maxwell
-created: 2024-02-26
-updated: 2024-02-26
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-26'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: John Maxwell
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - importance
+- importance
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # John Maxwell
 

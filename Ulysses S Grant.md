@@ -1,20 +1,27 @@
 ---
 title: Ulysses S Grant
-created: 2024-01-12
-updated: 2024-01-12
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-12'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Ulysses S Grant
 url: https://social.lol/deck/@davemark@mastodon.social/111743591001253777
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - war
-  - civics
+- war
+- civics
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC]]
 

@@ -1,19 +1,26 @@
 ---
 title: Robin Jones Gunn
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Robin Jones Gunn
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - teamwork
+- teamwork
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Robin Jones Gunn
 

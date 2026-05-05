@@ -1,19 +1,25 @@
 ---
 title: Matt Gemmell
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - His Blog
+- quotes
+tool: []
+source: His Blog
 author: Matt Gemmell
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - technology
+- technology
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Matt Gemmell

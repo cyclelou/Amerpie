@@ -1,19 +1,26 @@
 ---
 title: Carl Sagan,
-created: 2024-02-07
-updated: 2024-02-07
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-07'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- quotes
+tool: []
 source: The Ascent of Man
 author: Carl Sagan,
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - sport
+- sport
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC]]
 

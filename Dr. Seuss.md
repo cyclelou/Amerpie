@@ -1,23 +1,30 @@
 ---
 title: Dr. Seuss
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Dr. Seuss
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - time
-  - decisions
-  - knowledge
-  - learning
-  - meaning
+- time
+- decisions
+- knowledge
+- learning
+- meaning
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Dr. Seuss
 

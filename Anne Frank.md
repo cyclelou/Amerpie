@@ -1,20 +1,27 @@
 ---
 title: Anne Frank
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- quotes
+tool: []
 source: The Diary Of Anne Frank
 author: Anne Frank
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - peace
-  - hope
+- peace
+- hope
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC|Quotes]]
 

@@ -1,19 +1,26 @@
 ---
 title: Dr. Drang (quotes)
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- quotes
+tool: []
 source: Twitter
 author: Dr. Drang (quotes)
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - humor
+- humor
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Dr. Drang
 

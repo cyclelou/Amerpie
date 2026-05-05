@@ -1,19 +1,26 @@
 ---
 title: Harbhajan Singh
-created: 2024-02-26
-updated: 2024-02-26
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-26'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Harbhajan Singh
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - friendship
+- friendship
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Harbhajan Singh
 

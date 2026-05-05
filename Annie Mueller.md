@@ -1,20 +1,27 @@
 ---
 title: Annie Mueller
-created: 2024-01-23
-updated: 2024-01-23
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-23'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Annie Mueller
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - understanding
-  - empathy
+- understanding
+- empathy
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC|Quotes]]
 

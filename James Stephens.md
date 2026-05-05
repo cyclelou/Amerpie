@@ -1,19 +1,26 @@
 ---
 title: James Stephens
-created: 2024-02-10
-updated: 2024-02-10
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-10'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: James Stephens
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - curiousity
+- curiousity
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # James Stephens
 

@@ -1,20 +1,27 @@
 ---
 title: Mahatma Ghandi
-created: 2024-03-17
-updated: 2024-03-17
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-03-17'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Mahatma Ghandi
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - thinking
-  - thoughts
+- thinking
+- thoughts
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC]]
 

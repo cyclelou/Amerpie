@@ -1,19 +1,26 @@
 ---
 title: Richard Wright
-created: 2024-01-28
-updated: 2024-01-28
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-28'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Richard Wright
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - self-realization
+- self-realization
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Richard Wright
 

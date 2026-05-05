@@ -1,22 +1,29 @@
 ---
 title: Pat McCrory
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Pat McCrory
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - lgbt
-  - north-carolina
-  - politics
-  - republicans
+- lgbt
+- north-carolina
+- politics
+- republicans
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Pat McCrory
 

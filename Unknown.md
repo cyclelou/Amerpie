@@ -1,22 +1,29 @@
 ---
 title: Unknown
-created: 2023-12-20
-updated: 2023-12-20
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2023-12-20'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Unknown
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - speech
-  - peace
-  - idiocy
-  - assertiveness
+- speech
+- peace
+- idiocy
+- assertiveness
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Unknown
 

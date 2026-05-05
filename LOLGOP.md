@@ -1,20 +1,27 @@
 ---
 title: LOLGOP
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- quotes
+tool: []
 source: Twitter
 author: LOLGOP
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - humor
-  - republicans
+- humor
+- republicans
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # LOLGOP
 

@@ -1,20 +1,27 @@
 ---
 title: Joseph Brodsky
-created: 2024-01-23
-updated: 2024-01-23
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-23'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Joseph Brodsky
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - reading
-  - knowledge
+- reading
+- knowledge
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Joseph Brodsky
 

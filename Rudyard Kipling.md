@@ -1,19 +1,26 @@
 ---
 title: Rudyard Kipling
-created: 2026-03-30
-updated: 2026-03-30
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2026-03-30'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Rudyard Kipling
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - language
+- language
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Rudyard Kipling
 

@@ -1,20 +1,27 @@
 ---
 title: Adam Savage
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Adam Savage
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - science
-  - management
+- science
+- management
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Adam Savage
 

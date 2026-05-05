@@ -1,19 +1,26 @@
 ---
 title: Robert Arnold
-created: 2026-01-30
-updated: 2026-01-30
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2026-01-30'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: Robert Arnold
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - fascism
+- fascism
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Robert Arnold
 

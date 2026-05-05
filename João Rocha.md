@@ -1,19 +1,25 @@
 ---
-title: João Rocha
-created: 2024-01-31
-updated: 2024-01-31
-tags:
-  - kind/quote
-kind: quote
-status:
+title: Joo Rocha
+created: '2024-01-31'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
-  - Beautiful, clever blog
-author: João Rocha
-url:
+- quotes
+tool: []
+source: Beautiful, clever blog
+author: Joo Rocha
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - humor
+- humor
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # João Rocha

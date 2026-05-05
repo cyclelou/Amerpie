@@ -1,19 +1,26 @@
 ---
 title: Cousin Violet
-created: 2024-02-09
-updated: 2024-02-09
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-02-09'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
+- quotes
+tool: []
 source: Downton Abbey
 author: Cousin Violet
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - life
+- life
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 # Cousin Violet
 

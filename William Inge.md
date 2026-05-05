@@ -1,19 +1,26 @@
 ---
 title: William Inge
-created: 2024-01-29
-updated: 2024-01-29
-tags:
-  - kind/quote
-kind: quote
-status:
+created: '2024-01-29'
+updated: '2026-05-03'
+kind: note
+status: active
 area:
-tool:
-source:
+- quotes
+tool: []
+source: ''
 author: William Inge
-url:
+url: ''
+tags:
+- area/quotes
+- kind/note
+- status/active
 topics:
-  - happiness
+- happiness
 ---
+
+[[maps-of-content/MOC Quotes]]
+
+
 
 [[+Quotes MOC]]
 
