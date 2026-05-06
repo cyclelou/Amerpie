@@ -15,7 +15,7 @@ tags:
 - area/ai
 - area/quotes
 - kind/note
-- delete/active
+
 topics:
 - self
 ---

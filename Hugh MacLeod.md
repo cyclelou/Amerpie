@@ -13,7 +13,7 @@ url: ''
 tags:
 - area/mac
 - kind/note
-- delete/active
+
 ---
 
 [[maps-of-content/MOC Mac]]

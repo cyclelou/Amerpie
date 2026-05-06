@@ -13,7 +13,7 @@ url: https://twitter.com/goddeketal/status/1728997671179018243
 tags:
 - area/quotes
 - kind/note
-- delete/active
+
 ---
 
 [[maps-of-content/MOC Quotes]]

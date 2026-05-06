@@ -13,7 +13,7 @@ url: ''
 tags:
 - area/quotes
 - kind/note
-- delete/active
+
 topics:
 - morality
 ---

@@ -13,7 +13,7 @@ url: ''
 tags:
 - area/quotes
 - kind/note
-- delete/active
+
 topics:
 - civil-disobedience
 - government
