@@ -1,22 +1,22 @@
 ---
 title: Gloria Steinem
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Gloria Steinem
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- anger
-- truth
+  - anger
+  - truth
+dv_quote: The truth will set you free, but first it will piss you off.
 ---
 
 [[maps-of-content/MOC Quotes]]

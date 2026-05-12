@@ -1,22 +1,22 @@
 ---
 title: David Viscott
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: David Viscott
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- courage
-- success
+  - courage
+  - success
+dv_quote: If you have the courage to begin, you have the courage to succeed.
 ---
 
 [[maps-of-content/MOC Quotes]]

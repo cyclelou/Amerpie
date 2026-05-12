@@ -1,35 +1,40 @@
 ---
 title: C. S. Lewis
-created: '2024-01-29'
-updated: '2026-05-03'
+created: 2024-01-29
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: C. S. Lewis
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- writing
-- sanity
-- vice`
-- torment
-- tyranny
-- adulthood
-- boredom
-- originality
-- integrity
-- self-image
-- death
-- hell
-- humility
-- friendship
-- progress
+  - writing
+  - sanity
+  - vice`
+  - torment
+  - tyranny
+  - adulthood
+  - boredom
+  - originality
+  - integrity
+  - self-image
+  - death
+  - hell
+  - humility
+  - friendship
+  - progress
+dv_quote:
+  - The way for a person to develop a writing style is (a) to know exactly what he wants to say, and (b) to be sure he is saying exactly that. The reader, we must remember, does not start by knowing what we mean. If our words are ambiguous, our meaning will escape him. I sometimes think that writing is like driving sheep down a road. If there is any gate open to the left or the right the readers will most certainly go into it.
+  - When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.
+  - Nearly all vices are rooted in the future. Gratitude looks to the past and love to the present; fear, avarice, lust and ambition look ahead. (Screwtape)
+  - Those who torment us for our own good will torment us without end for they do so with the approval of their own conscience.
+  - Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies.
 ---
 
 [[maps-of-content/MOC Quotes]]

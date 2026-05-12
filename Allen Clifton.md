@@ -1,23 +1,23 @@
 ---
 title: Allen Clifton
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: Forward Progressives
 author: Allen Clifton
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- labor
-- capitalism
-- work
+  - labor
+  - capitalism
+  - work
+dv_quote: If their workers are underpaid, overworked, lack benefits or safe working conditions, in the mind of a sociopath—who cares? Quit and get another job or stop complaining because they don't owe workers anything. They only have an obligation to themselves and their own self interests. If workers want better pay, safer working conditions or benefits—find another job. If you can't find a job which offers any of that—too bad.
 ---
 
 [[maps-of-content/MOC Quotes]]

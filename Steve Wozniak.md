@@ -1,21 +1,21 @@
 ---
 title: Steve Wozniak
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Steve Wozniak
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- effort
+  - effort
+dv_quote: The way I did it, every job was A+.
 ---
 
 [[maps-of-content/MOC Quotes]]

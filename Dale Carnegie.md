@@ -1,22 +1,24 @@
 ---
 title: Dale Carnegie
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Dale Carnegie
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- action
-- forgiveness
+  - action
+  - forgiveness
+dv_quote:
+  - Any fool can criticize, condemn, and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.
+  - Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy. ^courage
 ---
 
 [[maps-of-content/MOC Quotes]]

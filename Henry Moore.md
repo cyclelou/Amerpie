@@ -1,21 +1,21 @@
 ---
 title: Henry Moore
-created: '2024-03-17'
-updated: '2026-05-03'
+created: 2024-03-17
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Henry Moore
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- retirement
+  - retirement
+dv_quote: There is no retirement for an artist, it's your way of living so there is no end to it.
 ---
 
 [[maps-of-content/MOC Quotes]]

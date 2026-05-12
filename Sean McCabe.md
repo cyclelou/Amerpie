@@ -1,21 +1,21 @@
 ---
 title: Sean McCabe
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Sean McCabe
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- comparison
+  - comparison
+dv_quote: Comparison is the thief of joy. ^joy
 ---
 
 [[maps-of-content/MOC Quotes]]

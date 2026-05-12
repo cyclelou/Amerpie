@@ -1,21 +1,21 @@
 ---
 title: David Allen
-created: '2024-02-10'
-updated: '2026-05-03'
+created: 2024-02-10
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: David Allen
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- ideas
+  - ideas
+dv_quote: Your mind is for having ideas, not holding them.
 ---
 
 [[maps-of-content/MOC Quotes]]

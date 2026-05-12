@@ -1,21 +1,21 @@
 ---
 title: Adam Clark
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: The Gently Mad
 author: Adam Clark
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- risk
+  - risk
+dv_quote: The greatest risk is not taking one.
 ---
 
 [[maps-of-content/MOC Quotes]]

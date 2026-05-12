@@ -1,21 +1,21 @@
 ---
 title: Edwin Philpots
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Edwin Philpots
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- growth
+  - growth
+dv_quote: The universe is full of magical things patiently waiting for our wits to grow sharper.
 ---
 
 [[maps-of-content/MOC Quotes]]

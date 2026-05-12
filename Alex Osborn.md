@@ -1,22 +1,22 @@
 ---
 title: Alex Osborn
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Alex Osborn
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- worry
-- imagination
+  - worry
+  - imagination
+dv_quote: Worry is essentially a misuse of imagination.
 ---
 
 [[maps-of-content/MOC Quotes]]

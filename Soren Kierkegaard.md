@@ -1,21 +1,21 @@
 ---
 title: Soren Kierkegaard
-created: '2026-01-29'
-updated: '2026-05-03'
+created: 2026-01-29
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Soren Kierkegaard
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- reality
+  - reality
+dv_quote: The mystery of life is not a problem to be solved, but a reality to be experienced
 ---
 
 [[maps-of-content/MOC Quotes]]

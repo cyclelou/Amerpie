@@ -1,21 +1,21 @@
 ---
 title: John Burroughs
-created: '2024-03-17'
-updated: '2026-05-03'
+created: 2024-03-17
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: John Burroughs
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- happiness
+  - happiness
+dv_quote: The secret of happiness is something to do.
 ---
 
 [[maps-of-content/MOC Quotes]]

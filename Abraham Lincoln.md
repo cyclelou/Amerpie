@@ -1,24 +1,28 @@
 ---
 title: Abraham Lincoln
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Abraham Lincoln
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- responsibility
-- wisdom
-- character
-- success
+  - responsibility
+  - wisdom
+  - character
+  - success
+dv_quote:
+  - You cannot escape the responsibility of tomorrow by evading it today.
+  - I have been driven many times upon my knees by the overwhelming conviction that I had no where else to go. My own wisdom and that of all about me seemed insufficient for that day.
+  - Character is like a tree and reputation is like a shadow. The shadow is what we think of it; the tree is the real thing.
+  - Always bear in mind that your resolution to succeed is more important than any one thing.
 ---
 
 [[maps-of-content/MOC Quotes]]

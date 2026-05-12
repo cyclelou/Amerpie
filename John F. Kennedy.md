@@ -1,23 +1,26 @@
 ---
 title: John F. Kennedy
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: John F. Kennedy
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- opinion
-- philosophy
-- comfort
+  - opinion
+  - philosophy
+  - comfort
+dv_quote:
+  - A nation that is afraid to let its people judge the truth and falsehood in an open market is a nation that is afraid of its people. ^freespeech
+  - The great enemy of truth is very often not the lie—deliberate, contrived and dishonest, but the myth, persistent, persuasive, and unrealistic. Belief in myths allows the comfort of opinion without the discomfort of thought.
+  - Too often we enjoy the comfort of opinion without the discomfort of thought.
 ---
 
 [[maps-of-content/MOC Quotes]]

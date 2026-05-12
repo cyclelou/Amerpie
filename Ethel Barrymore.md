@@ -1,21 +1,21 @@
 ---
 title: Ethel Barrymore
-created: '2024-03-17'
-updated: '2026-05-03'
+created: 2024-03-17
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Ethel Barrymore
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- growth
+  - growth
+dv_quote: You grow up the day you have the first real laugh at yourself.
 ---
 
 [[maps-of-content/MOC Quotes]]

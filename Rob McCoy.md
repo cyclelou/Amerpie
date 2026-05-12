@@ -1,21 +1,21 @@
 ---
 title: Rob McCoy
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Rob McCoy
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- peace
+  - peace
+dv_quote: Pastors by nature are peacemakers. But they don't understand that peace isn't the absence of conflict, it's the presence of God in the midst of conflict.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -1,21 +1,21 @@
 ---
 title: Franklin Delano Roosevelt
-created: '2024-02-26'
-updated: '2026-05-03'
+created: 2024-02-26
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Franklin Delano Roosevelt
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- progress
+  - progress
+dv_quote: There are many ways of going forward, but only one way of standing still.
 ---
 
 [[maps-of-content/MOC Quotes]]

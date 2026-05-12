@@ -1,19 +1,19 @@
 ---
 title: Petronius
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Petronius
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
+dv_quote: Moderation in all things, including moderation.
 ---
 
 [[maps-of-content/MOC Quotes]]

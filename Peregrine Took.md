@@ -1,21 +1,21 @@
 ---
 title: Peregrine Took
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Peregrine Took
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- danger
+  - danger
+dv_quote: The closer we are to danger, the farther we are from harm. It's the last thing he'll expect.
 ---
 
 [[maps-of-content/MOC Quotes]]

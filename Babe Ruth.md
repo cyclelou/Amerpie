@@ -1,21 +1,21 @@
 ---
 title: Babe Ruth
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Babe Ruth
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- perseverance
+  - perseverance
+dv_quote: Every strike brings me closer to the next home run.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -1,21 +1,21 @@
 ---
 title: Doug Larson
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Doug Larson
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- philosophy
+  - philosophy
+dv_quote: If people concentrated on the really important things in life, there'd be a shortage of fishing poles.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -1,22 +1,22 @@
 ---
 title: Laozi
-created: '2024-01-24'
-updated: '2026-05-03'
+created: 2024-01-24
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Laozi
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- contentment
-- happiness
+  - contentment
+  - happiness
+dv_quote: He who is contented is rich.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -1,21 +1,21 @@
 ---
 title: Edmund Burke
-created: '2024-03-17'
-updated: '2026-05-03'
+created: 2024-03-17
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Edmund Burke
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- future
+  - future
+dv_quote: You can never plan the future by the past.
 ---
 
 [[maps-of-content/MOC Quotes]]

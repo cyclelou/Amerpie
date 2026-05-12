@@ -1,21 +1,21 @@
 ---
 title: Paul Tournier
-created: '2024-03-17'
-updated: '2026-05-03'
+created: 2024-03-17
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Paul Tournier
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- vulnerability
+  - vulnerability
+dv_quote: The more refined and subtle our minds, the more vulnerable they are.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -1,21 +1,21 @@
 ---
 title: Chris Coyier
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Chris Coyier
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- technology
+  - technology
+dv_quote: Keep them dreams big and just build websites.
 ---
 
 [[maps-of-content/MOC Quotes]]

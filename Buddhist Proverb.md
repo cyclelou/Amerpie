@@ -1,21 +1,21 @@
 ---
 title: Buddhist Proverb
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Buddhist Proverb
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- morality
+  - morality
+dv_quote: If we are facing the right direction, all we have to do is keep walking.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -1,21 +1,21 @@
 ---
 title: William Inge
-created: '2024-01-29'
-updated: '2026-05-03'
+created: 2024-01-29
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: William Inge
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- happiness
+  - happiness
+dv_quote: The happiest people seem to be those who have no particular cause for being happy except that they are so.
 ---
 
 [[maps-of-content/MOC Quotes]]

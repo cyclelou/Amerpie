@@ -1,22 +1,22 @@
 ---
 title: Jean Anouilh
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Jean Anouilh
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- acceptance
-- self-improvement
+  - acceptance
+  - self-improvement
+dv_quote: Our entire life - consists ultimately in accepting ourselves as we are.
 ---
 
 [[maps-of-content/MOC Quotes]]
