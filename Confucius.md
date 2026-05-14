@@ -3,19 +3,16 @@ title: Confucius
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Confucius
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - progress
-dv_quote: It does not matter how slowly you go as long as you do not stop.
 ---
 
 [[maps-of-content/MOC Quotes]]

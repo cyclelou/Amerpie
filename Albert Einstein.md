@@ -3,28 +3,16 @@ title: Albert Einstein
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Albert Einstein
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - education
-- relativity
-- answers
-- clutter
-- simplicity
-- problems
-- genius
-- speech
-- truth
-- philosophy
 ---
 
 [[maps-of-content/MOC Quotes]]

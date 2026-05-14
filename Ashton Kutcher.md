@@ -1,27 +1,21 @@
 ---
 title: Ashton Kutcher
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-14
+tags: []
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Ashton Kutcher
 url: ''
-tags:
-- area/quotes
-- kind/note
-
 topics:
 - vulnerability
-- relationships
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 [[+Quotes MOC|Quotes]]
 

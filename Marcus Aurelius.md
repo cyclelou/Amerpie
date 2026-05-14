@@ -3,20 +3,16 @@ title: Marcus Aurelius
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Marcus Aurelius
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - happiness
-- harmony
 ---
 
 [[maps-of-content/MOC Quotes]]

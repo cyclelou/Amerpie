@@ -3,19 +3,14 @@ title: Alain de Botton
 created: '2023-12-20'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: ''
 author: Alain de Botton
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - personality
 ---

@@ -3,19 +3,16 @@ title: Amy Chua
 created: 2024-01-31
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Amy Chua
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - courage
-dv_quote: A foreign accent is a sign of bravery.
 ---
 
 [[maps-of-content/MOC Quotes]]

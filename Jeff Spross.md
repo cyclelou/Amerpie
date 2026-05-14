@@ -3,20 +3,16 @@ title: Jeff Spross
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: The Week
 author: Jeff Spross
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - politics
-- 2016-election
 ---
 
 [[maps-of-content/MOC Quotes]]

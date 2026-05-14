@@ -3,17 +3,14 @@ title: Robert Arnold
 created: '2026-01-30'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Robert Arnold
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - fascism
 ---

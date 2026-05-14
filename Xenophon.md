@@ -3,17 +3,14 @@ title: Xenophon
 created: '2026-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Xenophon
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - praise
 ---

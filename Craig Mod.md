@@ -3,22 +3,16 @@ title: Craig Mod
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: ''
 author: Craig Mod
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - art
-- work
 ---
 
 [[maps-of-content/MOC Ai]]

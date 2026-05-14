@@ -3,16 +3,14 @@ title: Merlin Mann
 created: 2024-01-12
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: Github
 author: Merlin Mann
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - language
   - manners
@@ -23,7 +21,6 @@ topics:
   - empathy
   - obligation
   - technology
-dv_quote:
   - There are no "bad words." Apart from "moist, "succulent," and "craveable."
   - Avoid vegetarian dishes that aspire to approximate a recipe that's typically based on meat.
   - While it's weird to *invent* a tradition, start noticing the things that have made you happy when (or because) they've happened more than once. Then, consider acknowledging those things as a tradition.

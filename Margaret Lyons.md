@@ -3,17 +3,14 @@ title: Margaret Lyons
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: New York Times
 author: Margaret Lyons
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - disappointment
 ---

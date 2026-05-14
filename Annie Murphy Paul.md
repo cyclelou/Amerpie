@@ -3,20 +3,16 @@ title: Annie Murphy Paul
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Annie Murphy Paul
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - enrichment
-- thinking
 ---
 
 [[maps-of-content/MOC Quotes]]

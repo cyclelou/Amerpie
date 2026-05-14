@@ -3,19 +3,16 @@ title: Dostoyevsky
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Dostoyevsky
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - life
-dv_quote: To live is to suffer.
 ---
 
 [[maps-of-content/MOC Quotes]]

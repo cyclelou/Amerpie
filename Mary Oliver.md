@@ -3,20 +3,16 @@ title: Mary Oliver
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Mary Oliver
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - courage
-- gratitude
 ---
 
 [[maps-of-content/MOC Quotes]]

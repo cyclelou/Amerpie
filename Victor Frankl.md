@@ -3,17 +3,14 @@ title: Victor Frankl
 created: '2026-05-02'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Victor Frankl
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -4,17 +4,14 @@ title: The 365 Most Famous Quotes of All Time (Backed by Data & Verified) | Book
 created: '2024-09-17'
 updated: '2026-05-03'
 kind: reference
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: ''
 url: https://archive.ph/PCsft
-tags:
-- area/quotes
-- kind/reference
-
+tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]

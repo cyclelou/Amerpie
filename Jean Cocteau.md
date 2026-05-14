@@ -3,20 +3,16 @@ title: Jean Cocteau
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Jean Cocteau
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - comfort
-- fear
 ---
 
 [[maps-of-content/MOC Quotes]]

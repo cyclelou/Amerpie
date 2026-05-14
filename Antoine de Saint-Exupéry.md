@@ -3,22 +3,16 @@ title: Antoine de Saint-Exupry
 created: '2024-01-17'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: Wind, Sand and Stars
 author: Antoine de Saint-Exupry
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - love
-- goals
 ---
 
 [[maps-of-content/MOC Ai]]

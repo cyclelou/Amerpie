@@ -3,17 +3,14 @@ title: Bob Dylan
 created: '2023-12-10'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Bob Dylan
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - freedom
 ---

@@ -3,19 +3,16 @@ title: Mike Tyson
 created: 2024-01-31
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Mike Tyson
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - philosophy
-dv_quote: Everybody has a plan until they get punched in the face.
 ---
 
 [[maps-of-content/MOC Quotes]]

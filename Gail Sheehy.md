@@ -3,19 +3,14 @@ title: Gail Sheehy
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: ''
 author: Gail Sheehy
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 ---
 
 [[maps-of-content/MOC Ai]]

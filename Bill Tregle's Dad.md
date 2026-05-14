@@ -3,17 +3,14 @@ title: Bill Tregle's Dad
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Bill Tregle's Dad
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - action
 ---

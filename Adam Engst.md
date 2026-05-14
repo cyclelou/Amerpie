@@ -3,20 +3,17 @@ title: Adam Engst
 created: 2024-01-31
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: Tidbits
 author: Adam Engst
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - learning
   - education
-dv_quote: We should never turn down an opportunity to learn — that's the secret to eternal youth.
 ---
 
 [[maps-of-content/MOC Quotes]]

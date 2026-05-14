@@ -3,20 +3,16 @@ title: Ruth Bader Ginsburg
 created: '2024-02-07'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: Hobby Lobby Dissent
 author: Ruth Bader Ginsburg
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - perseverance
-- religion
 ---
 
 [[maps-of-content/MOC Quotes]]

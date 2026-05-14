@@ -3,22 +3,16 @@ title: Oscar Wilde
 created: '2023-12-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Oscar Wilde
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - desire
-- dinner
-- emotions
-- experience
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -3,20 +3,16 @@ title: Macklemore
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - mac
 tool: []
 source: ''
 author: Macklemore
 url: ''
-tags:
-- area/mac
-- kind/note
-
+tags: []
 topics:
 - artists
-- greatness
 ---
 
 [[maps-of-content/MOC Mac]]

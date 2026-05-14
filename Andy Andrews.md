@@ -3,21 +3,16 @@ title: Andy Andrews
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Andy Andrews
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - leadership
-- struggle
-- action
 ---
 
 [[maps-of-content/MOC Quotes]]

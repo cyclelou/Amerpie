@@ -1,27 +1,23 @@
 ---
-title: Ben and Jerry's
-created: '2023-12-20'
-updated: '2026-05-03'
+title: "Ben and Jerry's"
+created: 2026-05-02
+updated: 2026-05-12
+tags: []
 kind: note
-status: active
+status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
 source: ''
 author: Ben and Jerry's
 url: ''
-tags:
-- area/quotes
-- kind/note
 
 topics:
-- racism
-- privilege
+  - privilege
+  - racism
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 [[+Quotes MOC]]
 

@@ -3,20 +3,16 @@ title: Anne Lamott
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Anne Lamott
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - marriage
-- self-confidence
 ---
 
 [[maps-of-content/MOC Quotes]]

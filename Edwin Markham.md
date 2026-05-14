@@ -3,17 +3,14 @@ title: Edwin Markham
 created: '2024-01-22'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Edwin Markham
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - defeat
 ---

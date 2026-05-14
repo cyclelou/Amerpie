@@ -3,19 +3,16 @@ title: Stephen Hawking
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Stephen Hawking
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - thinking
-dv_quote: Quiet people have the loudest minds.
 ---
 
 [[maps-of-content/MOC Quotes]]

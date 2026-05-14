@@ -3,17 +3,14 @@ title: Primo Levin
 created: '2023-12-20'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: If This is a Man
 author: Primo Levin
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - civilization
 ---

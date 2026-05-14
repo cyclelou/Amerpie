@@ -3,21 +3,16 @@ title: Esther Abraham Hicks
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Esther Abraham Hicks
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - gratitude
-- joy
-- life
 ---
 
 [[maps-of-content/MOC Quotes]]

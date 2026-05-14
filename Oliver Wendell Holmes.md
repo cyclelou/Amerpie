@@ -3,17 +3,14 @@ title: Oliver Wendell Holmes
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Oliver Wendell Holmes
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - philosophy
 ---

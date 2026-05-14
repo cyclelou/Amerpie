@@ -3,19 +3,16 @@ title: Ned Piemaker
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Ned Piemaker
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - starting
-dv_quote: The problem with starting fresh is that something old might go stale.
 ---
 
 [[maps-of-content/MOC Quotes]]

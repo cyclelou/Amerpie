@@ -3,20 +3,17 @@ title: Bret McKay
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Bret McKay
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - choice
   - responsibility
-dv_quote: A man does as he chooses, while a boy does as he should.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -3,19 +3,16 @@ title: Lao Tzu
 created: 2023-12-20
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Lao Tzu
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - accomplishment
-dv_quote: Nature does not hurry, yet everything is accomplished.
 ---
 
 [[maps-of-content/MOC Quotes]]

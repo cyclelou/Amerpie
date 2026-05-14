@@ -3,20 +3,16 @@ title: James Baldwin
 created: '2023-12-20'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: James Baldwin
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - love
-- patriotism
 ---
 
 [[maps-of-content/MOC Quotes]]

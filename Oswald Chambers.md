@@ -3,17 +3,14 @@ title: Oswald Chambers
 created: '2026-04-06'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Oswald Chambers
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - action
 ---

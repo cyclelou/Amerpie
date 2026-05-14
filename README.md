@@ -3,17 +3,14 @@ title: Quotes README
 created: '2026-04-28'
 updated: '2026-05-03'
 kind: reference
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: ''
 url: ''
-tags:
-- area/quotes
-- kind/reference
-
+tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -3,19 +3,14 @@ title: Charles Baudelaire
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: ''
 author: Charles Baudelaire
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - devil
 ---

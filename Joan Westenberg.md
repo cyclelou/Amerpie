@@ -3,17 +3,14 @@ title: Joan Westenberg
 created: '2024-01-28'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Joan Westenberg
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - healthcare
 ---

@@ -3,23 +3,16 @@ title: Upton Sinclair
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: https://signalvnoise.com
 author: Upton Sinclair
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - philosophy
-- journalism
-- understanding
 ---
 
 [[maps-of-content/MOC Ai]]

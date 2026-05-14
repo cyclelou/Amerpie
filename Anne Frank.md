@@ -3,20 +3,16 @@ title: Anne Frank
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: The Diary Of Anne Frank
 author: Anne Frank
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - peace
-- hope
 ---
 
 [[maps-of-content/MOC Quotes]]

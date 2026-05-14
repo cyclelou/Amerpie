@@ -3,20 +3,16 @@ title: Joseph Brodsky
 created: '2024-01-23'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Joseph Brodsky
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - reading
-- knowledge
 ---
 
 [[maps-of-content/MOC Quotes]]

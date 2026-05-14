@@ -3,19 +3,14 @@ title: David Maister
 created: '2024-01-24'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: The Trusted Advisor
 author: David Maister
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - work
 ---

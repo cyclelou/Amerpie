@@ -3,7 +3,7 @@ title: Mark Twain
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - ai
   - quotes
@@ -11,10 +11,7 @@ tool: []
 source: ""
 author: Mark Twain
 url: ""
-tags:
-  - area/ai
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - belief
   - courage
@@ -22,7 +19,6 @@ topics:
   - judgement
   - knowledge
   - work
-dv_quote:
   - I am an old man and have known a great many troubles, but most of them never happened.
   - It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
   - So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.

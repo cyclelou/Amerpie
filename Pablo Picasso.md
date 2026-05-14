@@ -3,20 +3,16 @@ title: Pablo Picasso
 created: '2024-02-07'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Pablo Picasso
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - art
-- imagination
 ---
 
 [[maps-of-content/MOC Quotes]]

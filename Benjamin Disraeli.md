@@ -3,17 +3,14 @@ title: Benjamin Disraeli
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Benjamin Disraeli
 url: ""
-tags:
-  - area/quotes
-  - kind/note
-dv_quote: The greatest good you can do for others is not to just share your riches, but to reveal to them their own.
+tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]

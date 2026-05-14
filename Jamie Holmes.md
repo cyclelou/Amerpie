@@ -3,17 +3,14 @@ title: Jamie Holmes
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: https://www.goodreads.com/book/show/22822855-nonsense
 author: Jamie Holmes
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - restraint
 ---

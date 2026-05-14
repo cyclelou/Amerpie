@@ -3,19 +3,14 @@ title: Henry J. Kaiser
 created: '2024-02-07'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: ''
 author: Henry J. Kaiser
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - work
 ---

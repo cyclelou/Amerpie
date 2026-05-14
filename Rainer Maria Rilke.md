@@ -3,22 +3,16 @@ title: Rainer Maria Rilke
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: Tim Ferris Newsletter
 author: Rainer Maria Rilke
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - love
-- philosophy
 ---
 
 [[maps-of-content/MOC Ai]]

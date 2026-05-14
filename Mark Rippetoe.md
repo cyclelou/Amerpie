@@ -3,20 +3,17 @@ title: Mark Rippetoe
 created: 2024-01-31
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: Strong Enough
 author: Mark Rippetoe
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - fitness
   - strength
-dv_quote: Strong people are harder to kill then weak people and generally more useful.
 ---
 
 [[maps-of-content/MOC Quotes]]

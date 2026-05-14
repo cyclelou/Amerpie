@@ -3,22 +3,16 @@ title: Denis Waitley
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: ''
 author: Denis Waitley
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - acceptance
-- responsibility
 ---
 
 [[maps-of-content/MOC Ai]]

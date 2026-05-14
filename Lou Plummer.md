@@ -3,21 +3,16 @@ title: Lou Plummer
 created: '2024-01-23'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: micro.blog
 author: Lou Plummer
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - military
-- technology
-- veterans-day
 ---
 
 [[maps-of-content/MOC Quotes]]

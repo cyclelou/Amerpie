@@ -3,17 +3,14 @@ title: Henrik Ibsen
 created: '2024-01-28'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Henrik Ibsen
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - truth
 ---

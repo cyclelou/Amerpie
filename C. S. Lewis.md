@@ -3,16 +3,14 @@ title: C. S. Lewis
 created: 2024-01-29
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: C. S. Lewis
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - writing
   - sanity
@@ -29,7 +27,6 @@ topics:
   - humility
   - friendship
   - progress
-dv_quote:
   - The way for a person to develop a writing style is (a) to know exactly what he wants to say, and (b) to be sure he is saying exactly that. The reader, we must remember, does not start by knowing what we mean. If our words are ambiguous, our meaning will escape him. I sometimes think that writing is like driving sheep down a road. If there is any gate open to the left or the right the readers will most certainly go into it.
   - When the whole world is running towards a cliff, he who is running in the opposite direction appears to have lost his mind.
   - Nearly all vices are rooted in the future. Gratitude looks to the past and love to the present; fear, avarice, lust and ambition look ahead. (Screwtape)

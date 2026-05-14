@@ -3,17 +3,14 @@ title: Numb3rs
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Numb3rs
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - knowledge
 ---

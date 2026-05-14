@@ -3,20 +3,16 @@ title: SusAnna Clarke
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: SusAnna Clarke
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - beauty
-- smiles
 ---
 
 [[maps-of-content/MOC Quotes]]

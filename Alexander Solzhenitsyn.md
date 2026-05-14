@@ -3,22 +3,19 @@ title: Alexander Solzhenitsyn
 created: 2024-01-31
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Alexander Solzhenitsyn
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - truth
   - honesty
   - courage
   - evil
-dv_quote:
   - Everything you add to the truth subtracts from the truth.
   - "You can resolve to live your life with integrity. Let your credo be this: Let the lie come into the world, let it even triumph. But not through me."
   - The simple step of a courageous individual is not to take part in the lie. One word of truth outweighs the world. ^courage

@@ -1,24 +1,19 @@
 ---
 title: Dr. Simon Goddek
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-12
+tags: []
 kind: note
-status: active
+status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
 source: Twitter
 author: Dr. Simon Goddek
 url: https://twitter.com/goddeketal/status/1728997671179018243
-tags:
-- area/quotes
-- kind/note
-
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 # Dr. Simon Goddek
 

@@ -3,17 +3,14 @@ title: Hugh MacLeod
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - mac
 tool: []
 source: ''
 author: Hugh MacLeod
 url: ''
-tags:
-- area/mac
-- kind/note
-
+tags: []
 ---
 
 [[maps-of-content/MOC Mac]]

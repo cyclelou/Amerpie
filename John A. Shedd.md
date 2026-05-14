@@ -3,17 +3,14 @@ title: John A. Shedd
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: John A. Shedd
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]

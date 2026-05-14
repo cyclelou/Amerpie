@@ -3,17 +3,14 @@ title: Rudyard Kipling
 created: '2026-03-30'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Rudyard Kipling
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - language
 ---

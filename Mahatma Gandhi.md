@@ -3,20 +3,16 @@ title: Mahatma Gandhi
 created: '2024-02-20'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Mahatma Gandhi
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - learning
-- thoughts
 ---
 
 [[maps-of-content/MOC Quotes]]

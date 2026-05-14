@@ -3,17 +3,14 @@ title: Carl Sagan,
 created: '2024-02-07'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: The Ascent of Man
 author: Carl Sagan,
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - sport
 ---

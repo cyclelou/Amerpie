@@ -1,26 +1,21 @@
 ---
 title: Anthony Robbins
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-14
+tags: []
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Anthony Robbins
 url: ''
-tags:
-- area/quotes
-- kind/note
-
 topics:
 - self-improvement
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 [[+Quotes MOC|Quotes]]
 

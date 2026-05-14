@@ -3,17 +3,14 @@ title: Joseph Henry
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Joseph Henry
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -3,20 +3,16 @@ title: Petula Dvorak
 created: '2023-12-20'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Petula Dvorak
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - patriotism
-- sacrifice
 ---
 
 [[maps-of-content/MOC Quotes]]

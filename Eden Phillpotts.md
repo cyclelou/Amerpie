@@ -3,17 +3,14 @@ title: Eden Phillpotts
 created: '2023-12-20'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Eden Phillpotts
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - intellect
 ---

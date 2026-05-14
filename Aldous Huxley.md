@@ -1,26 +1,21 @@
 ---
 title: Aldous Huxley
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-14
+tags: []
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Aldous Huxley
 url: ''
-tags:
-- area/quotes
-- kind/note
-
 topics:
 - history
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 [[+Quotes MOC|Quotes]]
 

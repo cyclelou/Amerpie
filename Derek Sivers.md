@@ -3,22 +3,16 @@ title: Derek Sivers
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Derek Sivers
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - sleep
-- exclusion
-- common-sense
-- improvement
 ---
 
 [[maps-of-content/MOC Quotes]]

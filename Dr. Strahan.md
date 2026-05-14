@@ -3,19 +3,16 @@ title: Dr. Strahan
 created: 2024-02-09
 updated: 2026-05-03
 kind: note
-status: active
+status: in_progress
 area:
   - quotes
 tool: []
 source: ""
 author: Dr. Strahan
 url: ""
-tags:
-  - area/quotes
-  - kind/note
+tags: []
 topics:
   - fairness
-dv_quotes: If you aren't cheating you're not playing the game right.
 ---
 
 [[maps-of-content/MOC Quotes]]

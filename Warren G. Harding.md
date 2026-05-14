@@ -3,20 +3,16 @@ title: Warren G. Harding
 created: '2026-04-17'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Warren G. Harding
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - foresight
-- planning
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -3,7 +3,7 @@ title: Robert Frank
 created: '2024-01-31'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
@@ -11,12 +11,9 @@ source: ''
 author: Robert Frank
 url: ''
 tags:
-- area/quotes
-- kind/note
-
+  - media/photos
 topics:
 - art
-- photography
 ---
 
 [[maps-of-content/MOC Quotes]]

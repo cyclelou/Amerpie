@@ -3,20 +3,16 @@ title: Lord Baden-Powell
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Lord Baden-Powell
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - duty
-- failure
 ---
 
 [[maps-of-content/MOC Quotes]]

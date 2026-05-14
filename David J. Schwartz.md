@@ -3,20 +3,16 @@ title: David J. Schwartz
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: The Magic of Thinking Big
 author: David J. Schwartz
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - action
-- correctness
 ---
 
 [[maps-of-content/MOC Quotes]]

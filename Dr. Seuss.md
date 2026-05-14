@@ -3,23 +3,16 @@ title: Dr. Seuss
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Dr. Seuss
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - time
-- decisions
-- knowledge
-- learning
-- meaning
 ---
 
 [[maps-of-content/MOC Quotes]]

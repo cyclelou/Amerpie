@@ -3,19 +3,14 @@ title: Thomas Paine
 created: '2024-01-17'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - ai
-- quotes
 tool: []
 source: ''
 author: Thomas Paine
 url: ''
-tags:
-- area/ai
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - simplicity
 ---

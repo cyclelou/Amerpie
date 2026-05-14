@@ -3,20 +3,16 @@ title: Ludwig Van Beethoven
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Ludwig Van Beethoven
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - art
-- practice
 ---
 
 [[maps-of-content/MOC Quotes]]

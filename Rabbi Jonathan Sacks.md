@@ -3,20 +3,16 @@ title: Rabbi Jonathan Sacks
 created: '2024-02-09'
 updated: '2026-05-03'
 kind: note
-status: active
+status: in_progress
 area:
 - quotes
 tool: []
 source: ''
 author: Rabbi Jonathan Sacks
 url: ''
-tags:
-- area/quotes
-- kind/note
-
+tags: []
 topics:
 - morality
-- tolerance
 ---
 
 [[maps-of-content/MOC Quotes]]
