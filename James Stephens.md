@@ -12,8 +12,7 @@ author: James Stephens
 url: ''
 tags: []
 topics:
-- curiousity
----
+- curiosity---
 
 [[maps-of-content/MOC Quotes]]
 

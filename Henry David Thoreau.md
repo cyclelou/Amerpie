@@ -25,9 +25,9 @@ topics:
 
 [[+Quotes MOC|Quotes]]
 
-Quote:: Simplify simplify– Money is not required to buy one necessity of the soul.
+quote:: Simplify simplify– Money is not required to buy one necessity of the soul.
 
-Quote::What is the price—current of an honest man and patriot today? They hesitate, and they regret, and sometimes they petition; but they do nothing in earnest and with effect. They will wait, well disposed, for others to remedy the evil, that they may no longer have it to regret.  
+quote::What is the price—current of an honest man and patriot today? They hesitate, and they regret, and sometimes they petition; but they do nothing in earnest and with effect. They will wait, well disposed, for others to remedy the evil, that they may no longer have it to regret.  
 (From Civil Disobedience)
 
-Quote:: If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.
+quote:: If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away.

@@ -21,4 +21,4 @@ topics:
 
 # Kevin Drum
 
-Quote:: Maybe what the GOP really needs is an institutional-size Prozac. Or Viagra. Or something.
+quote:: Maybe what the GOP really needs is an institutional-size Prozac. Or Viagra. Or something.

@@ -12,29 +12,20 @@ author: Merlin Mann
 url: ""
 tags: []
 topics:
-  - language
-  - manners
-  - diet
-  - tradition
-  - sleep
-  - goals
-  - empathy
-  - obligation
-  - technology
-  - There are no "bad words." Apart from "moist, "succulent," and "craveable."
-  - Avoid vegetarian dishes that aspire to approximate a recipe that's typically based on meat.
-  - While it's weird to *invent* a tradition, start noticing the things that have made you happy when (or because) they've happened more than once. Then, consider acknowledging those things as a tradition.
-  - "Related: you definitely need more sleep."
-  - "Stay focused on the outcome, not your original strategy. Viz.: if you're looking for *a* USB cable, don't fixate on finding a *specific* box that might contain a *specific* USB cable. Just find *a* goddamned cable."
-  - Flirt with all elderly women.
-  - Tip more.
-  - "\"Experience\" is rarely the verb you're looking for. Reword your sentence with a more clear and muscular focus on what actually happened—and who or what caused it to happen. So, maybe don't say \"I am experiencing technical difficulties\" if you really mean \"I broke the internet.\" You're not fooling anyone."
-  - If you have a small household responsibility—no matter how lame or quotidian—just do it now and without being asked. If you think the trash may need to go out, do not "check" to see if the trash needs to go out. Just take out the fucking trash. And quit reminding everybody you took the trash out. This is not Vietnam, and you are not a forgotten hero.
-  - Always make ***all*** the bacon.
-  - Just because you know something doesn't mean everybody knows it. Every day, somebody's born who's never seen *The Flintstones*.
-  - If you can afford the dinner, you can afford the tip.
-  - Never argue on the internet. No one will remember whether you won or lost the argument; they'll just remember that you are the sort of person who argues on the internet.
----
+- language
+- manners
+- diet
+- tradition
+- sleep
+- goals
+- empathy
+- obligation
+- technology
+- Related: you definitely need more sleep.
+- Flirt with all elderly women.
+- Tip more.
+- Always make ***all*** the bacon.
+- If you can afford the dinner, you can afford the tip.---
 
 [[maps-of-content/MOC Quotes]]
 

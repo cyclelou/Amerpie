@@ -12,8 +12,7 @@ source: ''
 author: Arthur Korstler
 url: ''
 topics:
-- creatvity
----
+- creativity---
 
 [[maps-of-content/MOC Quotes]]
 

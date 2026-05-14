@@ -12,8 +12,7 @@ author: Dorothy Parker
 url: ''
 tags: []
 topics:
-- curiousity
----
+- curiosity---
 
 [[maps-of-content/MOC Quotes]]
 
