@@ -19,7 +19,7 @@ tags: []
 
 # Victor Hugo
 
-[[+Quotes MOC|Quotes]]
+
 
 The beautiful is as useful as the useful. More so, perhaps.
 

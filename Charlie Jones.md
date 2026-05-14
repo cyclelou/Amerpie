@@ -21,6 +21,6 @@ topics:
 
 # Charlie Jones
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: You are the same today as you'll be in five years except for two things: the books you read and the people you meet.

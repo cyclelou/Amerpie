@@ -21,6 +21,6 @@ topics:
 
 # Robert Frost
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: You have freedom when you're easy in your harness.

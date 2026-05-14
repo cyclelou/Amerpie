@@ -21,6 +21,6 @@ topics:
 
 # Saul Bellow
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: A man should be able to hear, and to bear, the worst that could be said of him.

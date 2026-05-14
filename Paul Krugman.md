@@ -21,6 +21,6 @@ topics:
 
 # Paul Krugman
 
-[[+Quotes MOC]]
+
 
 quote:: Politics determines who has the power, not who has the truth.

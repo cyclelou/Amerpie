@@ -19,6 +19,6 @@ tags: []
 
 # Walter Bender
 
-[[+Quotes MOC|Quotes]]
+
 
 I don't think I've ever seen a piece of commercial software where the next version is simpler rather than more complex.

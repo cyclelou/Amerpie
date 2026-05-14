@@ -21,6 +21,6 @@ topics:
 
 # Rutherford B Hayes
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Every expert was once a beginner.

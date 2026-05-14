@@ -19,6 +19,6 @@ tags: []
 
 # Jerzy Kosinski
 
-[[+Quotes MOC|Quotes]]
+
 
 Going around under an umbrella interferes with one's looking up at the sky.

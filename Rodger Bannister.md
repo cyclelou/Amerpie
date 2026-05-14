@@ -21,6 +21,6 @@ topics:
 
 # Rodger Bannister
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The man who can drive himself further once the effort gets painful is the man who will win.

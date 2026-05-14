@@ -18,7 +18,7 @@ tags: []
 
 # Hugh MacLeod
 
-[[+Quotes MOC|Quotes]]
+
 
 The price of being a sheep is boredom. The price of being a wolf is loneliness. Choose one or the other with great care.
 

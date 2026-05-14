@@ -21,7 +21,7 @@ topics:
 
 # Bill Waterson
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: If your friends are contractual, you don't have any.
 

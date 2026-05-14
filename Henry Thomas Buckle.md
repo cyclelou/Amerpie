@@ -19,6 +19,6 @@ tags: []
 
 # Henry Thomas Buckle
 
-[[+Quotes MOC|Quotes]]
+
 
 Great minds discuss ideas. Average minds discuss events. Small minds discuss people.

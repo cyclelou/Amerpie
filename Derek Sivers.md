@@ -21,7 +21,7 @@ topics:
 
 # Derek Sivers
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: I'm not bad at sleeping. I'm just really good at staying awake. ^awake
 

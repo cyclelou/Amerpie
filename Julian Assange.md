@@ -19,6 +19,6 @@ tags: []
 
 # Julian Assange
 
-[[+Quotes MOC|Quotes]]
+
 
 Nearly every war that has started in the past 50 years has been a result of media lies. ^war

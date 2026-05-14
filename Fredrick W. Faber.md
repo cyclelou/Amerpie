@@ -19,6 +19,6 @@ tags: []
 
 # Fredrick W. Faber
 
-[[+Quotes MOC|Quotes]]
+
 
 Kindness has converted more souls than zeal, eloquence, or learning.

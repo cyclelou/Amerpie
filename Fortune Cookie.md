@@ -19,6 +19,6 @@ tags: []
 
 # Fortune Cookie
 
-[[+Quotes MOC|Quotes]]
+
 
 No one would remember the good Samaritan if all he had were good intentions.

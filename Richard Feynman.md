@@ -21,7 +21,7 @@ topics:
 
 # Richard Feynman
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Science is the belief in the ignorance of experts. When someone says "science teaches such and such", he is using the word incorrectly.
 

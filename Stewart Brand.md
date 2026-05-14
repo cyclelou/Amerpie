@@ -21,6 +21,6 @@ topics:
 
 # Stewart Brand
 
-[[+Quotes MOC]]
+
 
 quote:: On average, bad things happen fast and good things happen slow.

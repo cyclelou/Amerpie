@@ -20,6 +20,6 @@ tags: []
 
 # Gail Sheehy
 
-[[+Quotes MOC|Quotes]]
+
 
 Creativity can be described as letting go of certainty.

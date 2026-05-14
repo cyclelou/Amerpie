@@ -21,7 +21,7 @@ topics:
 
 # Maya Angelou
 
-[[+Quotes MOC]]
+
 
 quote:: If you find it in your heart to care for somebody else, you will have succeeded.
 

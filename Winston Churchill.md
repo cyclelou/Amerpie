@@ -21,7 +21,7 @@ topics:
 
 # Winston Churchill
 
-[[+Quotes MOC|Quotes]]
+
 
 Democracy is the worst form of government—except for all the others.
 

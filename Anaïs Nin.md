@@ -20,7 +20,7 @@ topics:
 
 
 
-[[+Quotes MOC|Quotes]]
+
 
 # Anaïs Nin
 

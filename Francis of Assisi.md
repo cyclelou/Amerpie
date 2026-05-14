@@ -19,6 +19,6 @@ tags: []
 
 # Francis of Assisi
 
-[[+Quotes MOC|Quotes]]
+
 
 Preach the gospel at all times and when necessary use words.

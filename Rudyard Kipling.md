@@ -21,6 +21,6 @@ topics:
 
 # Rudyard Kipling
 
-[[+Quotes MOC]]
+
 
 quote::"Words are, of course, the most powerful drug used by mankind."

@@ -21,6 +21,6 @@ topics:
 
 # Christopher Alexander
 
-[[+Quotes MOC]]
+
 
 quote:: It is hard, so terribly hard, to please yourself. Far from being the easy thing that it sounds like, it is almost the hardest thing in the world, because we are not always comfortable with that true self that lies deep within us.

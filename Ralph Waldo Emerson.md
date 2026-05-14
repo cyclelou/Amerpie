@@ -21,7 +21,7 @@ topics:
 
 # Ralph Waldo Emerson
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Once you make a decision, the universe conspires to make it happen.
 

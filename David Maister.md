@@ -22,6 +22,6 @@ topics:
 
 # David Maister
 
-[[+Quotes MOC]]
+
 
 quote:: It is not enough for a professional to be right: An advisor's job is to be helpful."

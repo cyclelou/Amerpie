@@ -21,6 +21,6 @@ topics:
 
 # Rumi
 
-[[+Quotes MOC]]
+
 
 quote:: A thousand half-loves must be forsaken to take one whole heart home.

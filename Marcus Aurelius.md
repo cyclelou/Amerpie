@@ -21,7 +21,7 @@ topics:
 
 # Marcus Aurelius
 
-[[+Quotes MOC]]
+
 
 quote:: Remember this: that very little is needed to make a happy life.
 

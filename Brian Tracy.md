@@ -21,6 +21,6 @@ topics:
 
 # Brian Tracy
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Don't be reluctant to give of yourself generously. It's the mark of caring and compassion and personal greatness.

@@ -21,7 +21,7 @@ topics:
 
 # Gustave Flaubert
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Anything becomes interesting if you look at it long enough.
 

@@ -19,7 +19,7 @@ tags: []
 
 # Moses
 
-[[+Quotes MOC|Quotes]]
+
 
 The Lord will fight for you; you need only to be still.  
 (Ex. 14:14)

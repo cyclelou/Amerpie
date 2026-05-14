@@ -19,6 +19,6 @@ tags: []
 
 # John A. Shedd
 
-[[+Quotes MOC|Quotes]]
+
 
 A ship in a harbor is safe, but that is not what ships are built for.

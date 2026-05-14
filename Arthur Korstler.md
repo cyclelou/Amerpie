@@ -16,7 +16,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-[[+Quotes MOC|Quotes]]
+
 
 # Arthur Korstler
 

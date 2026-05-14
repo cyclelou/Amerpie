@@ -21,7 +21,7 @@ topics:
 
 # David J. Schwartz
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Make sure that what you plan to do is right. Then do it. No one ever does anything worthwhile for which he is not criticized. ^doright
 

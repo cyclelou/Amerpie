@@ -21,7 +21,7 @@ topics:
 
 # Andy Andrews
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: It is never the duty of a leader to struggle for someone else; a leader must encourage others to struggle and assure them that the struggles are worthwhile.
 

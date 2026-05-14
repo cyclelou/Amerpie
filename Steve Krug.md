@@ -21,7 +21,7 @@ topics:
 
 # Steve Krug
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Experts are rarely insulted by something clear enough for beginners. Everybody appreciates clarity.
 

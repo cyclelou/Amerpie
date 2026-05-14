@@ -21,6 +21,6 @@ topics:
 
 # Saeed Abedini
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: When I think that all of these trials and persecutions are being recorded in heaven for me, my heart is filled with complete joy.

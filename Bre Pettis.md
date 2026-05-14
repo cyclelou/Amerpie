@@ -21,6 +21,6 @@ topics:
 
 # Bre Pettis
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Pretending you know what you're doing is almost the same as knowing what you are doing, so accept that you know what you're doing even if you don't and do it. (Linchpin)

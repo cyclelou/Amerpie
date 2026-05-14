@@ -21,6 +21,6 @@ topics:
 
 # Octavia Butler
 
-[[+Quotes MOC]]
+
 
 quote:: The only lasting truth is Change.

@@ -19,7 +19,7 @@ tags: []
 
 # King Hezekiah
 
-[[+Quotes MOC|Quotes]]
+
 
 Surely it was for my benefit that I suffered such anguish.  
 (Isaiah 38:17) ^benefit

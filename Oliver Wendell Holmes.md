@@ -21,6 +21,6 @@ topics:
 
 # Oliver Wendell Holmes
 
-[[+Quotes MOC]]
+
 
 quote:: Most of us go to our graves with our music still inside us, unplayed.

@@ -21,6 +21,6 @@ topics:
 
 # Dick Cavett
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: It's a rare person who wants to hear what he doesn't want to hear.

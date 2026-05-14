@@ -19,6 +19,6 @@ tags: []
 
 # Phillip Dick
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Reality is that which, when you stop believing in it, doesn't go away.

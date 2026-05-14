@@ -21,6 +21,6 @@ topics:
 
 # Numb3rs
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Larry, I'm about to tell you what I've told every genius I've known. Don't be an idiot.

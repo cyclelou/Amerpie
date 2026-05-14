@@ -21,6 +21,6 @@ topics:
 
 # Stan Dale
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Comfort zones are plush lined coffins. When you stay in your plush lined coffins, you die.

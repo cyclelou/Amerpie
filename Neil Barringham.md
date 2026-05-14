@@ -21,6 +21,6 @@ topics:
 
 # Neil Barringham
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The grass is greener where you water it.

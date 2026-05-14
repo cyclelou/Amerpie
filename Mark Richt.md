@@ -21,6 +21,6 @@ topics:
 
 # Mark Richt
 
-[[+Quotes MOC|Quotes]]
+
 
 People tend to rise to the expectations you set for them.

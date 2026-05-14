@@ -22,6 +22,6 @@ topics:
 
 # Dan Savage
 
-[[+Quotes MOC]]
+
 
 quote:: Judaism, Christianity, Islam and almost every other faith have constantly tried to insert themselves between your genitals and your salvation, because then they can regulate and control you. Then you need them to intercede with God, so they target your junk and stigmatize your sexual desire. If you have somebody by the balls or the ovaries, you've got them.

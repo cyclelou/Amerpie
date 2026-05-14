@@ -19,7 +19,7 @@ tags: []
 
 # Jerome K. Jerome
 
-[[+Quotes MOC|Quotes]]
+
 
 I like work—it fascinates me—I can sit and look at it for hours.
 

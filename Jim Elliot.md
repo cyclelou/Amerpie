@@ -19,6 +19,6 @@ tags: []
 
 # Jim Elliot
 
-[[+Quotes MOC|Quotes]]
+
 
 He is no fool who gives what he cannot keep to gain what he cannot lose.

@@ -21,6 +21,6 @@ topics:
 
 # Swedish Proverb
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Shared joy is double joy. Shared sorrow is half sorrow.

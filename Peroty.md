@@ -21,7 +21,7 @@ topics:
 
 # Peroty
 
-[[+Quotes MOC]]
+
 
 quote:: I agree with every crying child in the airport. This is terrible. Nobody wants to do this.  
 peroty on micro.blog

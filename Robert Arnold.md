@@ -21,6 +21,6 @@ topics:
 
 # Robert Arnold
 
-[[+Quotes MOC]]
+
 
 quote:: "You will surrender every right you claim to cherish as long as it happens to someone else first."

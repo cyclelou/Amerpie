@@ -21,9 +21,9 @@ topics:
 
 # Henry David Thoreau
 
-[[+Quotes MOC]]
 
-[[+Quotes MOC|Quotes]]
+
+
 
 quote:: Simplify simplify– Money is not required to buy one necessity of the soul.
 

@@ -21,6 +21,6 @@ topics:
 
 # LOLGOP
 
-[[+Quotes MOC]]
+
 
 quote:: Still waiting for the first openly scientific Republican.

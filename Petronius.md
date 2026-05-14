@@ -19,6 +19,6 @@ tags: []
 
 # Petronius
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Moderation in all things, including moderation.

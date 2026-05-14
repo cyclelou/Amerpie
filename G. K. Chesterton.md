@@ -19,7 +19,7 @@ tags: []
 
 # G. K. Chesterton
 
-[[+Quotes MOC|Quotes]]
+
 
 Hope is the power of being cheerful in circumstances that we know to be desperate.
 

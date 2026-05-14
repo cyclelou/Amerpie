@@ -19,6 +19,6 @@ tags: []
 
 # Walter Scott
 
-[[+Quotes MOC|Quotes]]
+
 
 The man who is deserving the name is the one whose thoughts and exertions are for others rather than for himself.

@@ -21,6 +21,6 @@ topics:
 
 # Dean Smith
 
-[[+Quotes MOC]]
+
 
 quote:: If you make every game a life-and-death thing, you're going to have problems. You'll be dead a lot.

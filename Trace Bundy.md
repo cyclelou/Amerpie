@@ -19,6 +19,6 @@ tags: []
 
 # Trace Bundy
 
-[[+Quotes MOC|Quotes]]
+
 
 I am always most inspired by those who do what they do with excellence and creativity.

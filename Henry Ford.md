@@ -21,6 +21,6 @@ topics:
 
 # Henry Ford
 
-[[+Quotes MOC|Quotes]]
+
 
 Thinking is the hardest work there is, which is probably the reason why so few engage in it.

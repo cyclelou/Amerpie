@@ -37,7 +37,7 @@ Man cannot do without beauty, and this is what our era pretends to want to disre
 
 # Unknown
 
-[[+Quotes MOC|Quotes]]
+
 
 When I die, I want to go quietly and peacefully in my sleep like my grandfather did—not screaming and shouting like the passengers in his car at the time.  
 (Words I Wish I Wrote)

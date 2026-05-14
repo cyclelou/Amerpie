@@ -21,6 +21,6 @@ topics:
 
 # Sophia Speiker
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: My superpower is cuteness.

@@ -19,7 +19,7 @@ tags: []
 
 # Gertrude Stein
 
-[[+Quotes MOC|Quotes]]
+
 
 There ain't no answer.  
 There ain't going to be any answer.  

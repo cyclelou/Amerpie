@@ -19,7 +19,7 @@ tags: []
 
 # Gandhi
 
-[[+Quotes MOC|Quotes]]
+
 
 Live simply so that others may simply live.
 

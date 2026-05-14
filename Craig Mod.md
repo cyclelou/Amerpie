@@ -22,6 +22,6 @@ topics:
 
 # Craig Mod
 
-[[+Quotes MOC]]
+
 
 quote:: Giving a shit does not require capital, simply attention and humility and diligence. Giving a shit is the best feeling you can imbue craft with.

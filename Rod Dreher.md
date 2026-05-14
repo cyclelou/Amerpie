@@ -21,6 +21,6 @@ topics:
 
 # Rod Dreher
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The ordinary man may not be able to overturn the kingdom of lies, but he can at least say that he is not going to be its loyal subject.

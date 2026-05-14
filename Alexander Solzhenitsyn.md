@@ -22,7 +22,7 @@ topics:
 
 
 
-[[+Quotes MOC|Quotes]]
+
 
 # Alexander Solzhenitsyn
 

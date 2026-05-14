@@ -21,6 +21,6 @@ topics:
 
 # Chris Coyier
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Keep them dreams big and just build websites.

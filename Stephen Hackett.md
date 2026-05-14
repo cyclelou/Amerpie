@@ -21,6 +21,6 @@ topics:
 
 # Stephen Hackett
 
-[[+Quotes MOC]]
+
 
 quote:: Seriously. LOL at Apple fans who are changing pharmacies because they can't use week-old technology the way they want.

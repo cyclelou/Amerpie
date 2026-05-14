@@ -21,6 +21,6 @@ topics:
 
 # Roald Dahl
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.

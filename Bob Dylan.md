@@ -21,7 +21,7 @@ topics:
 
 # Bob Dylan
 
-[[+Quotes MOC]]
+
 
 quote:: "I think of a hero as someone who understands the degree of responsibility that comes with his freedom." Bob Dylan
 

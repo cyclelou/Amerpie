@@ -21,6 +21,6 @@ topics:
 
 # Chris Brogan
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Don't settle: Don't finish bad books. If you don't like the menu, leave the restaurant. If you're not on the right path, get off it.

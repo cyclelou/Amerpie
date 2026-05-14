@@ -19,7 +19,7 @@ tags: []
 
 # Seth Godin
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Irritated is a choice.
 

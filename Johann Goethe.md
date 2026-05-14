@@ -19,7 +19,7 @@ tags: []
 
 # Johann Goethe
 
-[[+Quotes MOC|Quotes]]
+
 
 The hardest thing to see is what is in front of your eyes.
 

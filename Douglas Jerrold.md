@@ -21,6 +21,6 @@ topics:
 
 # Douglas Jerrold
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The superior man is he who develops, in harmonious proportions, his moral, intellectual, and physical nature. It is this only which constitutes real greatness.

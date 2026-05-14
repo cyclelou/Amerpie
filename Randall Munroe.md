@@ -21,7 +21,7 @@ topics:
 
 # Randall Munroe
 
-[[+Quotes MOC|Quotes]]
+
 
 Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing "look over there".
 

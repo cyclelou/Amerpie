@@ -21,6 +21,6 @@ topics:
 
 # Orson Welles
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: If you want a happy ending, that depends, of course, on where you stop your story.

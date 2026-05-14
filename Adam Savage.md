@@ -21,7 +21,7 @@ topics:
 
 # Adam Savage
 
-[[+Quotes MOC|Quotes]]  
+  
 
 quote:: The only difference between science and screwing around is writing it down.  
 ^science

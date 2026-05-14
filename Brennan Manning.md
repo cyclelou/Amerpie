@@ -21,6 +21,6 @@ topics:
 
 # Brennan Manning
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Our disappointments arise from presuming to know the outcome of a particular endeavor.

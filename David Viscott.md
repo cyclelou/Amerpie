@@ -22,6 +22,6 @@ topics:
 
 # David Viscott
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: If you have the courage to begin, you have the courage to succeed.

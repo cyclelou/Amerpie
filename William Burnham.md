@@ -19,7 +19,7 @@ tags: []
 
 # William Burnham
 
-[[+Quotes MOC|Quotes]]
+
 
 The most drastic and usually the most effective remedy for fear is direct action.
 

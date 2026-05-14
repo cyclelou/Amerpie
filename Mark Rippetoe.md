@@ -22,6 +22,6 @@ topics:
 
 # Mark Rippetoe
 
-[[+Quotes MOC]]
+
 
 quote:: Strong people are harder to kill then weak people and generally more useful.

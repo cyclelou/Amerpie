@@ -19,6 +19,6 @@ tags: []
 
 # Hannibal (in A-Team)
 
-[[+Quotes MOC|Quotes]]
+
 
 Overkill is underrated, my friend.

@@ -23,6 +23,6 @@ topics:
 
 John Maxwell
 
-[[+Quotes MOC]]
+
 
 quote:: You cannot overestimate the unimportance of practically everything.

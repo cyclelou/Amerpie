@@ -21,6 +21,6 @@ topics:
 
 # African Proverb
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: If you want to go fast, go alone. If you want to go far, go together.

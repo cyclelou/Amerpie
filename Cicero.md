@@ -21,6 +21,6 @@ topics:
 
 # Cicero
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: You have no choice between having a philosophy and not having one, only between having a good one and having a bad one.

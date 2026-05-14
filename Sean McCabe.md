@@ -21,6 +21,6 @@ topics:
 
 # Sean McCabe
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Comparison is the thief of joy. ^joy

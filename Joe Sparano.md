@@ -19,6 +19,6 @@ tags: []
 
 # Joe Sparano
 
-[[+Quotes MOC|Quotes]]
+
 
 Good design is obvious. Great design is transparent.

@@ -1,7 +1,8 @@
 ---
-title: Missing Quotes
+title: 00-missing_quotes
 created: 2026-05-14
 updated: 2026-05-14
+tags: []
 kind: moc
 status: in_progress
 area:
@@ -10,7 +11,6 @@ tool: []
 source: ''
 author: ''
 url: ''
-tags: []
 ---
 
 # Missing Quotes

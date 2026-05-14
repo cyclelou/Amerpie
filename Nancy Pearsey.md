@@ -21,6 +21,6 @@ topics:
 
 # Nancy Pearsey
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Young people whose faith is mostly emotional are likely to retain it only as long as it is making them happy. As soon as a difficult crisis comes along, it will evaporate.

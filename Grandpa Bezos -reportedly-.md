@@ -19,6 +19,6 @@ tags: []
 
 # Grandpa Bezos (reportedly)
 
-[[+Quotes MOC|Quotes]]
+
 
 One day you'll understand that it's harder to be kind than clever.

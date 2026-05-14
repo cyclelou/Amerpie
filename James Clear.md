@@ -25,7 +25,7 @@ The most invisible form of wasted time is doing a good job on an unimportant tas
 
 # James Clear
 
-[[+Quotes MOC|Quotes]]
+
 
 Anyone connected to the internet has the education power of a university and the distribution power of a media company at their fingertips.
 

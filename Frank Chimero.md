@@ -19,6 +19,6 @@ tags: []
 
 # Frank Chimero
 
-[[+Quotes MOC|Quotes]]
+
 
 It's easier to turn time into money, but doing the reverse is shaky alchemy.

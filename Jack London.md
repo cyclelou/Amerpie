@@ -19,7 +19,7 @@ tags: []
 
 # Jack London
 
-[[+Quotes MOC|Quotes]]
+
 
 You can't wait for inspiration. You have to go after it with a club.
 

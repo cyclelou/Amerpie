@@ -19,6 +19,6 @@ tags: []
 
 # Marcin Jakubowski
 
-[[+Quotes MOC|Quotes]]
+
 
 I finished my 20s with a PhD in fusion energy, and I discovered I was useless.

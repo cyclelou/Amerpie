@@ -21,6 +21,6 @@ topics:
 
 # Neal A Maxwell
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Faith in God includes faith in God's timing.

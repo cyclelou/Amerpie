@@ -21,6 +21,6 @@ topics:
 
 # Peregrine Took
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The closer we are to danger, the farther we are from harm. It's the last thing he'll expect.

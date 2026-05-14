@@ -19,7 +19,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-[[+Quotes MOC]]
+
 
 # Ben and Jerry's
 

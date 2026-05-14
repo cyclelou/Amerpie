@@ -19,6 +19,6 @@ tags: []
 
 # Gandalf
 
-[[+Quotes MOC|Quotes]]
+
 
 Courage is the best defense you have now.

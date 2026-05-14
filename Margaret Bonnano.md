@@ -19,7 +19,7 @@ tags: []
 
 # Margaret Bonanno
 
-[[+Quotes MOC|Quotes]]
+
 
 Being rich is having money, being wealthy is having time.  
 The few who DO are the people who only watch.

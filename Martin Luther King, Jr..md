@@ -20,7 +20,7 @@ topics:
 
 
 
-[[+Quotes MOC]]
+
 
 # Martin Luther King, Jr
 

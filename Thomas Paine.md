@@ -26,7 +26,7 @@ topics:
 
 # Thomas Paine
 
-[[+Quotes MOC|Quotes]]
+
 
 The harder the conflict, the more glorious the triumph.
 

@@ -21,6 +21,6 @@ topics:
 
 # Lucille Ball
 
-[[+Quotes MOC]]
+
 
 quote:: "I'd rather regret the things I've done than regret the things I haven't done.

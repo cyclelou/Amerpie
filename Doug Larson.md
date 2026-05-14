@@ -21,6 +21,6 @@ topics:
 
 # Doug Larson
 
-[[+Quotes MOC]]
+
 
 quote:: If people concentrated on the really important things in life, there'd be a shortage of fishing poles.

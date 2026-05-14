@@ -18,7 +18,7 @@ topics:
 
 
 
-[[+Quotes MOC]]
+
 
 # Ben Lovejoy
 

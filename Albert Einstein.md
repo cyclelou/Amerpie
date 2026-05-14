@@ -23,7 +23,7 @@ quote:: Life is like riding a bicycle. To keep your balance you must keep moving
 
 # Albert Einstein
 
-[[+Quotes MOC|Quotes]]  
+  
 
 The only thing that interferes with my learning is my education.  
 ^ed

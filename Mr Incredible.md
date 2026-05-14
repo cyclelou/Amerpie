@@ -19,6 +19,6 @@ tags: []
 
 # Mr Incredible
 
-[[+Quotes MOC|Quotes]]
+
 
 I'm Mr. incredible! Not Mr. Average or Mr. Mediocre Man.

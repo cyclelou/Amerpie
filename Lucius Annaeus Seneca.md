@@ -21,7 +21,7 @@ topics:
 
 # Lucius Annaeus Seneca
 
-[[+Quotes MOC]]
+
 
 quote:: Wherever there is a human being, there is an opportunity for a kindness.
 

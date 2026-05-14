@@ -21,6 +21,6 @@ topics:
 
 # Stephen Covey
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: You have to decide what your highest priorities are and have the courage - pleasantly, smilingly, unapologetically - to say 'no' to other things. And the way to do that is by having a bigger 'yes' burning inside.

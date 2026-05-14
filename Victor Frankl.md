@@ -19,7 +19,7 @@ tags: []
 
 # Victor Frankl
 
-[[+Quotes MOC|Quotes]]
+
 
 Every day, every hour, offered the opportunity to make a decision, a decision which determined whether you would or would not submit to those powers which threatened to rob you of your very self, your inner freedom; which determined whether or not you would become the plaything of circumstance, renouncing freedom and dignity to become molded into the form of a typical inmate.
 

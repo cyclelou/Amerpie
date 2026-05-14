@@ -19,6 +19,6 @@ tags: []
 
 # Woody Allen
 
-[[+Quotes MOC|Quotes]]
+
 
 The best an idea gets is when it's in your head.

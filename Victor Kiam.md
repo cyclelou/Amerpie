@@ -19,6 +19,6 @@ tags: []
 
 # Victor Kiam
 
-[[+Quotes MOC|Quotes]]
+
 
 Even if you fall on your face, you're still moving forward.

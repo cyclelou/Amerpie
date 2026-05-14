@@ -21,6 +21,6 @@ topics:
 
 # Barbara Bush
 
-[[+Quotes MOC]]
+
 
 quote:: What happens in your house is a lot more important than what happens in the White House.

@@ -19,6 +19,6 @@ tags: []
 
 # Jamie Foxx
 
-[[+Quotes MOC|Quotes]]
+
 
 What's on the other side of fear? Nothing.

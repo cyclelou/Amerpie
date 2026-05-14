@@ -21,6 +21,6 @@ topics:
 
 # Dick Van Dyke
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: I've made peace with insecurity, because there is no security of any kind.

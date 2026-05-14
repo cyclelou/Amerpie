@@ -21,6 +21,6 @@ topics:
 
 # Franklin Delano Roosevelt
 
-[[+Quotes MOC]]
+
 
 quote:: "There are many ways of going forward, but only one way of standing still."

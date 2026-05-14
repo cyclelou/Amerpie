@@ -19,6 +19,6 @@ tags: []
 
 # Thomas Hardy
 
-[[+Quotes MOC|Quotes]]
+
 
 Time changes everything except something within us which is always surprised by change.

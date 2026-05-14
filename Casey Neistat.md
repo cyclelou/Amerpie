@@ -21,6 +21,6 @@ topics:
 
 # Casey Neistat
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The most dangerous thing you can do in life is play it safe.

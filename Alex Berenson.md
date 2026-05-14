@@ -21,6 +21,6 @@ topics:
 
 # Alex Berenson
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Against hysteria, satire. Against storytelling, data. Against groupthink, reporting. Against authoritarianism, bravery. Most of all: against millennialism, realism. And hope.

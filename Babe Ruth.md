@@ -21,6 +21,6 @@ topics:
 
 # Babe Ruth
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Every strike brings me closer to the next home run.

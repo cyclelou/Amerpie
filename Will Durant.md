@@ -27,6 +27,6 @@ topics:
 
 # Will Durant
 
-[[+Quotes MOC|Quotes]]
+
 
 We are what we repeatedly do. Excellence, then, is not an act, but a habit.

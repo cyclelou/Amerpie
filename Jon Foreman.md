@@ -19,7 +19,7 @@ tags: []
 
 # Jon Foreman
 
-[[+Quotes MOC|Quotes]]
+
 
 Hope waits in the shadows. And it shines brightest in the dark and broken places.
 

@@ -21,7 +21,7 @@ topics:
 
 # Stephen Wright
 
-[[+Quotes MOC]]
+
 
 quote:: Anywhere is within walking distance, if you've got the time
 

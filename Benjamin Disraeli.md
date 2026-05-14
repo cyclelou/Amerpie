@@ -33,6 +33,6 @@ topics:
 
 # Benjamin Disraeli
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The greatest good you can do for others is not to just share your riches, but to reveal to them their own.

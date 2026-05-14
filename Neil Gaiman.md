@@ -22,6 +22,6 @@ topics:
 
 # Neil Gaiman
 
-[[+Quotes MOC]]
+
 
 quote:: "The biggest problem we run into is going, 'This is who I am, this is what I'm like, this is how I function' while failing to notice that you don't do that anymore."

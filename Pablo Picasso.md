@@ -21,7 +21,7 @@ topics:
 
 # Pablo Picasso
 
-[[+Quotes MOC]]
+
 
 quote:: Everything you can imagine is real.
 

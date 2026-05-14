@@ -21,6 +21,6 @@ topics:
 
 # Bernie Shine
 
-[[+Quotes MOC]]
+
 
 quote:: Trump claims he has a great memory. I agree. Unfortunately, like Mark Twain, he seems to be able to remember things whether they happened or not.

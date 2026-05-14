@@ -19,6 +19,6 @@ tags: []
 
 # Tony Robbins
 
-[[+Quotes MOC|Quotes]]
+
 
 There are only two options: make progress or make excuses.

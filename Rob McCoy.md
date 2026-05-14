@@ -21,7 +21,7 @@ topics:
 
 # Rob McCoy
 
-[[+Quotes MOC]]
+
 
 quote:: Pastors by nature are peacemakers. But they don't understand that peace isn't the absence of conflict, it's the presence of God in the midst of conflict.  
 (Prager Fireside 188)

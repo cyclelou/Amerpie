@@ -19,7 +19,7 @@ tags: []
 
 # Matt Giovanisci
 
-[[+Quotes MOC|Quotes]]
+
 
 We should be striving to make something that's so good that people can't help but share it.  
 (The Gently Mad)

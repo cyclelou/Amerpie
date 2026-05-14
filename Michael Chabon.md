@@ -19,7 +19,7 @@ tags: []
 
 # Michael Chabon
 
-[[+Quotes MOC|Quotes]]
+
 
 He's very stubborn. I've never known a genius who was not.  
 (Amazing Adventures of Kabalier and Clay)

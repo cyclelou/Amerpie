@@ -21,7 +21,7 @@ topics:
 
 # Soren Kierkegaard
 
-[[+Quotes MOC]]
+
 
 # Quote Template
 

@@ -21,6 +21,6 @@ topics:
 
 # Charles Kettering
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: A problem well stated is a problem half solved.

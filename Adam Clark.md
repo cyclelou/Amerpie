@@ -21,6 +21,6 @@ topics:
 
 # Adam Clark
 
-[[+Quotes MOC|Quotes]]  
+  
 
 quote:: The greatest risk is not taking one.

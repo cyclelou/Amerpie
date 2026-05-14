@@ -21,6 +21,6 @@ topics:
 
 # Nelson Bates
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Serendipity favors the fearless.

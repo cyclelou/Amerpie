@@ -21,7 +21,7 @@ topics:
 
 # Billy Schwartz
 
-[[+Quotes MOC|Quotes]]  
+  
 %% tags: quote memorize %%
 
 quote:: Lee-la, lee-la, this life is but a game.  

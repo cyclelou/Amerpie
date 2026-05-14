@@ -21,7 +21,7 @@ topics:
 
 # Seymour Papert
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: One learns that the most powerful idea of all is the idea of powerful ideas.
 

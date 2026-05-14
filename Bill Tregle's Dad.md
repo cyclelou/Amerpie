@@ -21,6 +21,6 @@ topics:
 
 # Bill Tregle's Dad
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: It's amazing how much you can get done in a day if you just sit and you do it.

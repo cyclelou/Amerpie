@@ -21,7 +21,7 @@ topics:
 
 # Socrates
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The unexamined life is not worth living.
 

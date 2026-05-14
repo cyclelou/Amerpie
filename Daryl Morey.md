@@ -21,6 +21,6 @@ topics:
 
 # Daryl Morey
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: {A nerd is} a person who knows his own mind well enough to mistrust it.

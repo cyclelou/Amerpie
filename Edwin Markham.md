@@ -21,6 +21,6 @@ topics:
 
 # Edwin Markham
 
-[[+Quotes MOC]]
+
 
 quote:: Defeat may serve as well as victory to shake the soul and let the glory out.

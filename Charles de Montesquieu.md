@@ -21,6 +21,6 @@ topics:
 
 # Charles De Montesquieu
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: I have never known any distress that an hour's reading did not relieve.

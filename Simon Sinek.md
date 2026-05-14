@@ -21,6 +21,6 @@ topics:
 
 # Simon Sinek
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: There is no decision that we can make that doesn't come with some sort of balance or sacrifice.

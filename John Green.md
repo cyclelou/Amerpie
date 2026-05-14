@@ -19,7 +19,7 @@ tags: []
 
 # John Green
 
-[[+Quotes MOC|Quotes]]
+
 
 What I actually needed was someone to tell me that it hurt because it mattered. I have found it very useful to think about over the years, and I find that it is a lot easier and more bearable to be sad when you aren't constantly berating yourself for being sad.
 

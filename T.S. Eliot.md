@@ -21,6 +21,6 @@ topics:
 
 # T.S. Eliot
 
-[[+Quotes MOC]]
+
 
 quote:: Only those who will risk going too far can possibly find out how far one can go.

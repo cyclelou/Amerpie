@@ -21,7 +21,7 @@ topics:
 
 # Brene Brown
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Just show up and be seen.
 

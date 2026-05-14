@@ -19,6 +19,6 @@ tags: []
 
 # Henry Young
 
-[[+Quotes MOC|Quotes]]
+
 
 Americans are getting stronger. Twenty years ago, it took two people to carry ten dollars worth of groceries. Today, a five year old could do it.

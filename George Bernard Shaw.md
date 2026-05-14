@@ -19,7 +19,7 @@ tags: []
 
 # George Bernard Shaw
 
-[[+Quotes MOC|Quotes]]
+
 
 [+Quotes MOC](+Quotes%20MOC.md)
 

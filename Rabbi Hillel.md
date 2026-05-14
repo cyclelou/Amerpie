@@ -21,6 +21,6 @@ topics:
 
 # Rabbi Hillel
 
-[[+Quotes MOC]]
+
 
 quote:: That which is hateful to you, do not do to your neighbor. The rest is commentary.

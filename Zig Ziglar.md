@@ -19,6 +19,6 @@ tags: []
 
 # Zig Ziglar
 
-[[+Quotes MOC|Quotes]]  
+  
 
 Expect the best. Prepare for the worst. Capitalize on what comes.

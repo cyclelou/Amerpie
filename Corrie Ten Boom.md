@@ -21,7 +21,7 @@ topics:
 
 # Corrie Ten Boom
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Worrying does not empty tomorrow of its troubles. It empties today of its strength.
 

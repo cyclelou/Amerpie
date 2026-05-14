@@ -21,7 +21,7 @@ topics:
 
 # Louis Pasteur
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The greatest aberration of the mind is to believe a thing to be, because we desire it.
 

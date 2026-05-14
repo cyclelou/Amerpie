@@ -21,6 +21,6 @@ topics:
 
 # Rene Descartes
 
-[[+Quotes MOC]]
+
 
 qyote:: To know what people really think, pay attention to what they do, rather than what they say.

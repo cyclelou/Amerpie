@@ -21,7 +21,7 @@ topics:
 
 # Dale Carnegie
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Any fool can criticize, condemn, and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.
 

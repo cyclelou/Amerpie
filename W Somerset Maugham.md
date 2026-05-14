@@ -19,6 +19,6 @@ tags: []
 
 # W Somerset Maugham
 
-[[+Quotes MOC|Quotes]]
+
 
 I write only when inspiration strikes. Fortunately it strikes every morning at nine o'clock sharp.

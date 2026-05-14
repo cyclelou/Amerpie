@@ -19,6 +19,6 @@ tags: []
 
 # Milton Berle
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: If opportunity doesn't knock, build a door.

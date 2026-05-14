@@ -21,7 +21,7 @@ topics:
 
 # Ned Piemaker
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The problem with starting fresh is that something old might go stale.  
 (Pushing Daisies)

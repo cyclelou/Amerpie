@@ -19,6 +19,6 @@ tags: []
 
 # George Eliot
 
-[[+Quotes MOC|Quotes]]
+
 
 There are many victories worse than defeat.

@@ -21,6 +21,6 @@ topics:
 
 # Oswald Chambers
 
-[[+Quotes MOC]]
+
 
 quote:: The whole point of getting things done is knowing what to leave undone.

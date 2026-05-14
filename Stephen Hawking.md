@@ -21,6 +21,6 @@ topics:
 
 # Stephen Hawking
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Quiet people have the loudest minds.

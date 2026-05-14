@@ -17,7 +17,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-[[+Quotes MOC|Quotes]]
+
 
 # Annie Mueller
 

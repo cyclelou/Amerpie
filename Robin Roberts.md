@@ -21,6 +21,6 @@ topics:
 
 # Robin Roberts
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Be patient and persistent. Life is not so much what you accomplish as what you overcome.

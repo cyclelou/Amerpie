@@ -19,6 +19,6 @@ tags: []
 
 # Ernestine Ulmer
 
-[[+Quotes MOC|Quotes]]
+
 
 Life is uncertain. Eat dessert first.

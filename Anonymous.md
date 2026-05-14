@@ -19,7 +19,7 @@ topics:
 
 
 
-[[+Quotes MOC|Quotes]]
+
 
 # Anonymous
 
@@ -27,6 +27,6 @@ quote:: Arguing with an idiot is like playing chess with a pigeon. It'll just kn
 
 # Anonymous
 
-[[+Quotes MOC|Quotes]]  
+  
 
 quote:: To most people, the sky is the limit. To aviation, the sky is home.

@@ -21,6 +21,6 @@ topics:
 
 # Edwin Philpots
 
-[[+Quotes MOC]]
+
 
 quote:: The universe is full of magical things patiently waiting for our wits to grow sharper.

@@ -22,7 +22,7 @@ topics:
 
 # Charles Dickens
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: It is a pleasant thing to reflect upon, and furnishes a complete answer to those who contend for the gradual degeneration of the human species, that every baby born into the world is a finer one than the last.
 

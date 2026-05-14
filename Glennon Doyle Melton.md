@@ -21,6 +21,6 @@ topics:
 
 # Glennon Doyle Melton
 
-[[+Quotes MOC]]
+
 
 quote:: Be messy and complicated and afraid and show up anyways.

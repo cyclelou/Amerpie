@@ -19,6 +19,6 @@ tags: []
 
 # William Barclay
 
-[[+Quotes MOC|Quotes]]
+
 
 There are two great days in a person's life - the day we are born and the day we discover why.

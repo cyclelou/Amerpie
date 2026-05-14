@@ -19,6 +19,6 @@ tags: []
 
 # Matt Walsch
 
-[[+Quotes MOC|Quotes]]
+
 
 Christians in the Middle East would literally rather die than identify, even in words, as a Muslim. You do so just because it's trendy.

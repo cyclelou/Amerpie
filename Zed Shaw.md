@@ -19,6 +19,6 @@ tags: []
 
 # Zed Shaw
 
-[[+Quotes MOC|Quotes]]
+
 
 Programming is a constant stream of failures thrown at you by a computer that does not care how you feel.

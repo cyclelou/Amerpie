@@ -21,6 +21,6 @@ topics:
 
 # Buddhist Proverb
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: If we are facing the right direction, all we have to do is keep walking.

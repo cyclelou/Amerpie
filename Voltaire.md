@@ -22,7 +22,7 @@ topics:
 
 # Voltaire
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Those who can make you believe absurdities, can make you commit atrocities.
 

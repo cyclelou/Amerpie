@@ -21,6 +21,6 @@ topics:
 
 # Ludwig Van Beethoven
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Don't only practice your art, but force your way into its Secrets, for it and knowledge can raise men to the Divine.

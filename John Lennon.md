@@ -26,6 +26,6 @@ John Lennon
 
 # John Lennon
 
-[[+Quotes MOC|Quotes]]
+
 
 I believe time wounds all heals.

@@ -19,6 +19,6 @@ tags: []
 
 # W P Kinsella
 
-[[+Quotes MOC|Quotes]]
+
 
 Success is getting what you want. Happiness is wanting what you get.

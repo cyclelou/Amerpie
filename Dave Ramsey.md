@@ -21,7 +21,7 @@ topics:
 
 # Dave Ramsey
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: A good rule of thumb on decision making is this: the small, dinky little decisions you make in life, make 'em fast. That leaves you bandwidth, emotionally and time-wise, to spend time on the large decisions.
 

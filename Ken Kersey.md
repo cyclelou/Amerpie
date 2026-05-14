@@ -19,6 +19,6 @@ tags: []
 
 # Ken Kersey
 
-[[+Quotes MOC|Quotes]]
+
 
 You can count how many seeds are in the apple, but not how many apples are in the seed.

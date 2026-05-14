@@ -21,6 +21,6 @@ topics:
 
 # William Arthur Ward
 
-[[+Quotes MOC]]
+
 
 quote:: "A cloudy day is no match for a sunny disposition."

@@ -21,6 +21,6 @@ topics:
 
 # Woodrow Wilson
 
-[[+Quotes MOC]]
+
 
 quote:: "The man who is swimming against the stream knows the strength of it."

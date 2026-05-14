@@ -21,6 +21,6 @@ topics:
 
 # Ben Stein
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The first step to getting the things you want out of life is this: Decide what you want.

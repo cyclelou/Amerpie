@@ -21,6 +21,6 @@ topics:
 
 # Dostoyevsky
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: To live is to suffer.

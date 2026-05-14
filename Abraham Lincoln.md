@@ -21,7 +21,7 @@ topics:
 
 
 
-[[+Quotes MOC]]
+
 
 # Abraham Lincoln
 

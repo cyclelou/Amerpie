@@ -21,7 +21,7 @@ topics:
 
 # Robert Bringhurst
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Good typography is like bread: ready to be admired, appraised and dissected before it is consumed.
 

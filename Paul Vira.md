@@ -21,6 +21,6 @@ topics:
 
 # Paul Vira
 
-[[+Quotes MOC]]
+
 
 quote:: The invention of the ship was also the invention of the shipwreck.

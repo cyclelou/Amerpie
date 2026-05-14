@@ -21,7 +21,7 @@ topics:
 
 # Douglas Adams
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Time is an illusion, lunchtime doubly so.
 

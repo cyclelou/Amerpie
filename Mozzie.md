@@ -19,6 +19,6 @@ tags: []
 
 # Mozzie
 
-[[+Quotes MOC|Quotes]]
+
 
 Paranoia is a skill. The secret to longevity.

@@ -21,6 +21,6 @@ topics:
 
 # Billy Sunday
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: More fail through a lack of purpose than lack of talent.

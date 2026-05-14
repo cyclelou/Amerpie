@@ -19,7 +19,7 @@ tags: []
 
 # George E.P. Box
 
-[[+Quotes MOC|Quotes]]
+
 
 All models are wrong, but some are useful.
 

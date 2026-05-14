@@ -19,7 +19,7 @@ tags: []
 
 # Michael Maya Charles
 
-[[+Quotes MOC|Quotes]]
+
 
 The more I fly, the less I know—and the more questions I have. May we never be so sure that we don't have any questions.  
 (Artful Flying)

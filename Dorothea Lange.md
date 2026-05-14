@@ -21,6 +21,6 @@ topics:
 
 # Dorothea Lange
 
-[[+Quotes MOC]]
+
 
 quote:: The camera is an instrument that teaches people how to see without a camera.

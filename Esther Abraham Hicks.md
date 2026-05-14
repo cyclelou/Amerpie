@@ -21,6 +21,6 @@ topics:
 
 # Esther Abraham Hicks
 
-[[+Quotes MOC]]
+
 
 quote:: If all you did was just looked for things to appreciate, you would live a joyously spectacular life.

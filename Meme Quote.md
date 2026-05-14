@@ -19,7 +19,7 @@ tags: []
 
 # Meme Quote
 
-[[+Quotes MOC|Quotes]]
+
 
 I'm right 97% of the time. Who cares about the other 4%?  
 — A Guy's Shirt

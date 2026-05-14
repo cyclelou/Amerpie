@@ -21,6 +21,6 @@ topics:
 
 # Samuel Becket
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.

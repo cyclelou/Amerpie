@@ -21,7 +21,7 @@ topics:
 
 # Chris Gillebeau
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: To increase happiness, do something fun. To increase meaning, do something challenging.
 

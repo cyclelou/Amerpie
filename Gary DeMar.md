@@ -19,6 +19,6 @@ tags: []
 
 # Gary DeMar
 
-[[+Quotes MOC|Quotes]]
+
 
 A vote is not a valentine, you aren't confessing your love for the candidate. It's a chess move for the world you want to live in.

@@ -19,7 +19,7 @@ tags: []
 
 # Teddy Roosevelt
 
-[[+Quotes MOC|Quotes]]
+
 
 Precept is a very good thing, but to my thinking an ounce of practical energy is worth any amount of precept without action.
 

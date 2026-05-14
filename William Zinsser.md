@@ -19,6 +19,6 @@ tags: []
 
 # William Zinsser
 
-[[+Quotes MOC|Quotes]]
+
 
 Clutter is the disease of American writing. We are a society strangling in unnecessary words, circular constructions, pompous frills and meaningless jargon.

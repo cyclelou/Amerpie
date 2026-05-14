@@ -19,6 +19,6 @@ tags: []
 
 # Flannery O'Connor
 
-[[+Quotes MOC|Quotes]]
+
 
 You will know the reconciling truth, and that reconciling truth will make you odd.

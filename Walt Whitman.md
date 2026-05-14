@@ -21,6 +21,6 @@ topics:
 
 # Walt Whitman
 
-[[+Quotes MOC]]
+
 
 quote:: I have learned that to be with those I like is enough.

@@ -19,6 +19,6 @@ tags: []
 
 # Tim Ferriss
 
-[[+Quotes MOC|Quotes]]
+
 
 The opposite of love is indifference, the opposite of happiness is boredom. ^boredom

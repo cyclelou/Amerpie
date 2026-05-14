@@ -19,6 +19,6 @@ tags: []
 
 # Henry Petroski
 
-[[+Quotes MOC|Quotes]]
+
 
 The most amazing achievement of the computer software industry is its continued cancellation of the steady and staggering gains made by the computer hardware industry.

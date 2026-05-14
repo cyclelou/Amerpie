@@ -21,6 +21,6 @@ topics:
 
 # Shaker Philosophy
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Don't make something unless it is both necessary and useful; but if it is both necessary and useful, don't hesitate to make it beautiful.

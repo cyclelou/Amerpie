@@ -21,6 +21,6 @@ topics:
 
 # Valarie Kaur
 
-[[+Quotes MOC]]
+
 
 quote:: Forgiveness is not forgetting. Forgiveness is freedom from hate.

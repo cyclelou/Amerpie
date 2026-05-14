@@ -19,6 +19,6 @@ tags: []
 
 # Hazrat Ali
 
-[[+Quotes MOC|Quotes]]
+
 
 Like your body your mind also gets tired so refresh it by wise sayings.

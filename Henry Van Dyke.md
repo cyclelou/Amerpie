@@ -19,6 +19,6 @@ tags: []
 
 # Henry Van Dyke
 
-[[+Quotes MOC|Quotes]]
+
 
 Genius is talent set on fire by courage.

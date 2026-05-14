@@ -22,6 +22,6 @@ topics:
 
 # Charles Baudelaire
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The greatest trick the Devil ever played was convincing the world that he did not exist.

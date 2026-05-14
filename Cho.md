@@ -21,6 +21,6 @@ topics:
 
 # Cho
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: No it isn't (complicated). You just need mental help.

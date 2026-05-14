@@ -21,6 +21,6 @@ topics:
 
 # Lord Baden-Powell
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: We never fail when we try to do our duty, we always fail when we neglect to do it.

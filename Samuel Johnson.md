@@ -21,7 +21,7 @@ topics:
 
 # Samuel Johnson
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Nothing will ever be attempted if all possible objections must first be overcome.
 

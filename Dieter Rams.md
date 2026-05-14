@@ -21,6 +21,6 @@ topics:
 
 # Dieter Rams
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Less, but better.

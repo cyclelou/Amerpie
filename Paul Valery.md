@@ -21,6 +21,6 @@ topics:
 
 # Paul Valery
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Books have the same enemies as people: fire, humidity, animals, weather, and their own content.

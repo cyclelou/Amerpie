@@ -19,6 +19,6 @@ tags: []
 
 # Jim Morrison
 
-[[+Quotes MOC|Quotes]]
+
 
 We fear violence less than our own feelings. Personal, private, solitary pain is more terrifying than what anyone else can inflict.

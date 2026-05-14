@@ -19,7 +19,7 @@ tags: []
 
 # Martin Luther
 
-[[+Quotes MOC|Quotes]]
+
 
 Peace if possible, truth at all costs.
 

@@ -22,6 +22,6 @@ topics:
 
 # SCOTT ERIC KAUFMAN
 
-[[+Quotes MOC]]
+
 
 quote:: Someone on Louisiana Governor Bobby Jindal's campaign staff had the brilliant idea of opening up a discussion between the Republican hopeful and Twitter. The result was a terrible idea, poorly executed.

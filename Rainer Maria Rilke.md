@@ -22,6 +22,6 @@ topics:
 
 # Rainer Maria Rilke
 
-[[+Quotes MOC]]
+
 
 quote:: For one human being to love another human being: that is perhaps the most difficult task that has been entrusted to us, the ultimate task, the final test and proof, the work for which all other work is merely preparation.

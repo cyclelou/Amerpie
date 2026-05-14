@@ -19,6 +19,6 @@ tags: []
 
 # Eric Liddel
 
-[[+Quotes MOC|Quotes]]
+
 
 When I run I feel His pleasure.

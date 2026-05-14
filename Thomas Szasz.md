@@ -19,6 +19,6 @@ tags: []
 
 # Thomas Szasz
 
-[[+Quotes MOC|Quotes]]
+
 
 Clear thinking requires courage rather than intelligence.

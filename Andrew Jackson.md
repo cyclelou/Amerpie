@@ -19,6 +19,6 @@ topics:
 
 # Andrew Jackson
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Any man worth his salt will stick up for what he believes right, but it takes a slightly better man to acknowledge instantly and without reservation that he is in error.

@@ -20,7 +20,7 @@ topics:
 
 
 
-[[+Quotes MOC|Quotes]]
+
 
 # Antoine De Saint-Exupéry
 

@@ -19,7 +19,7 @@ tags: []
 
 # Mother Julian of Norwich
 
-[[+Quotes MOC|Quotes]]
+
 
 God in your goodness, give me yourself, for you are enough for me. I can ask nothing less, if I am truly to live to your glory. If I were to ask for less, I would always remain in need for in you alone do I have all that I need.
 

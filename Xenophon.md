@@ -21,6 +21,6 @@ topics:
 
 # Xenophon
 
-[[+Quotes MOC]]
+
 
 quote:: "The sweetest of all sounds is praise."

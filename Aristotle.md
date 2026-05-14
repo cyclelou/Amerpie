@@ -25,7 +25,7 @@ quote:: It is the mark of an educated mind to be able to entertain a thought wit
 
 # Aristotle
 
-[[+Quotes MOC|Quotes]]  
+  
 
 If you want a virtue, act as if you already have it and then it will be yours.
 

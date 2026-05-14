@@ -21,6 +21,6 @@ topics:
 
 # BJ Miller
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The small things ain't so small.

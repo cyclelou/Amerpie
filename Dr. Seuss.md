@@ -21,7 +21,7 @@ topics:
 
 # Dr. Seuss
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Don't cry because it's over, smile because it happened.
 

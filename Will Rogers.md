@@ -19,6 +19,6 @@ tags: []
 
 # Will Rogers
 
-[[+Quotes MOC|Quotes]]
+
 
 There are three kinds of men. The ones that learn by readin'. The few who learn by observation. The rest of them have to pee on the electric fence for themselves.

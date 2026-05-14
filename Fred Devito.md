@@ -19,6 +19,6 @@ tags: []
 
 # Fred Devito
 
-[[+Quotes MOC|Quotes]]
+
 
 If it doesn't challenge you, it doesn't change you.

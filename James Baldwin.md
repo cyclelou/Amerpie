@@ -29,7 +29,7 @@ You think your pain and your heartbreak are unprecedented in the history of the 
 
 # James Baldwin
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Not everything that is faced can be changed, but nothing can be changed until it is faced.
 

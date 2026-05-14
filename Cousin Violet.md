@@ -21,7 +21,7 @@ topics:
 
 # Cousin Violet
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Life is a game where the player must appear ridiculous.  
 (Downton Abbey)

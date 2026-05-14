@@ -21,6 +21,6 @@ topics:
 
 # Nancy Pelosi
 
-[[+Quotes MOC]]
+
 
 quote:: Science is the answer to our prayers.

@@ -21,7 +21,7 @@ topics:
 
 # Lou Holtz
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: I can't believe that God put us on earth to be ordinary.
 

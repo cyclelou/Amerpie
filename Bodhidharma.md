@@ -1,7 +1,8 @@
 ---
 title: Bodhidharma
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-14
+tags: []
 kind: note
 status: in_progress
 area:
@@ -10,17 +11,14 @@ tool: []
 source: ''
 author: Bodhidharma
 url: ''
-tags: []
 topics:
 - action
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Bodhidharma
 
-[[+Quotes MOC|Quotes]]
 
-All know the way. Few actually walk it.
+
+quote:: All know the way. Few actually walk it.

@@ -21,6 +21,6 @@ topics:
 
 # Bradley Chambers
 
-[[+Quotes MOC]]
+
 
 quote:: I've never been a fan of pilot programs. When you are doing a technology deployment, you have to go all in. Pilots are essentially saying that we aren't sure what we are doing. Pilots are also a way to protect yourself from failure.

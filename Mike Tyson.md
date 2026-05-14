@@ -23,6 +23,6 @@ topics:
 
 # Mike Tyson
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Everybody has a plan until they get punched in the face.

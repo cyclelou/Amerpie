@@ -1,7 +1,8 @@
 ---
 title: Edith Hamilton
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-14
+tags: []
 kind: note
 status: in_progress
 area:
@@ -10,15 +11,10 @@ tool: []
 source: ''
 author: Edith Hamilton
 url: ''
-tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Edith Hamilton
 
-[[+Quotes MOC|Quotes]]
-
-When the freedom they wished for most was freedom from responsibility, then Athens ceased to be free and was never free again.
+quote:: When the freedom they wished for most was freedom from responsibility, then Athens ceased to be free and was never free again.

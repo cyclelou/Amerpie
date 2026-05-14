@@ -19,7 +19,7 @@ tags: []
 
 # George Orwell
 
-[[+Quotes MOC]]
+
 
 Some ideas are so stupid only intellectuals believe them.
 

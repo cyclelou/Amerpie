@@ -21,7 +21,7 @@ topics:
 
 # Seneca
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: A good person dyes events with his own color… And turns whatever happens to his own benefit.
 

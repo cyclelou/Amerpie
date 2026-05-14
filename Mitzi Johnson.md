@@ -21,6 +21,6 @@ topics:
 
 # Mitzi Johnson
 
-[[+Quotes MOC]]
+
 
 quote:: Blacks marching to call attention to centuries of systemic oppression, violence, and injustice is in no way analogous to white supremacists aligning themselves with Nazis and asserting that anyone who doesn't look like them is unfit to be Americans or to live in this nation. There is a huge difference between saying "We matter." And saying, "You don't matter.

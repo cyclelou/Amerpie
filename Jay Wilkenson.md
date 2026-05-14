@@ -19,6 +19,6 @@ tags: []
 
 # Jay Wilkenson
 
-[[+Quotes MOC|Quotes]]
+
 
 You can't stop the waves but you can learn to surf.

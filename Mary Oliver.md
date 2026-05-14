@@ -21,7 +21,7 @@ topics:
 
 # Mary Oliver
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Instructions for living a life. Pay attention. Be astonished. Tell about it.
 

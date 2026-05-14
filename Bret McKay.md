@@ -22,6 +22,6 @@ topics:
 
 # Bret McKay
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: A man does as he chooses, while a boy does as he should.

@@ -19,7 +19,7 @@ topics:
 
 
 
-[[+Quotes MOC]]
+
 
 # Edgar Degas
 

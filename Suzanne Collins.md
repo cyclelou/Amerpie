@@ -21,6 +21,6 @@ topics:
 
 # Suzanne Collins
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Right now is the oldest you've ever been and the youngest you'll ever be. Ever again.

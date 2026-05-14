@@ -19,7 +19,7 @@ tags: []
 
 # Michelangelo
 
-[[+Quotes MOC|Quotes]]
+
 
 It is not a schoolboy exercise, except to a schoolboy mind.  
 (The Agony and the Ecstasy)

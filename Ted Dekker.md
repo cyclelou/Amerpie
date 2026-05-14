@@ -19,6 +19,6 @@ tags: []
 
 # Ted Dekker
 
-[[+Quotes MOC|Quotes]]
+
 
 Love comes naturally for humans. Stop making it difficult.

@@ -19,6 +19,6 @@ tags: []
 
 # Karl Kraus
 
-[[+Quotes MOC|Quotes]]
+
 
 An aphorism is never exactly true. It is either a half-truth or a truth and a half.

@@ -22,6 +22,6 @@ topics:
 
 # Alex Osborn
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Worry is essentially a misuse of imagination.

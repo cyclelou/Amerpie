@@ -19,6 +19,6 @@ tags: []
 
 # Edwin Louis Cole
 
-[[+Quotes MOC|Quotes]]
+
 
 You don't drown by falling in the water, you drown by staying there.

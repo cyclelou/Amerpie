@@ -19,6 +19,6 @@ tags: []
 
 # Thucydides
 
-[[+Quotes MOC|Quotes]]
+
 
 The bravest are surely those who have the clearest vision of what is before them, glory and danger alike, and yet notwithstanding, go out and meet it.

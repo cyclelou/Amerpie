@@ -19,6 +19,6 @@ tags: []
 
 # Emerson Cod
 
-[[+Quotes MOC|Quotes]]
+
 
 The truth ain't like puppies; a bunch of them running around, you pick your favorite. One truth. ^truth

@@ -19,7 +19,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-[[+Quotes MOC|Quotes]]
+
 
 # Allen Clifton
 

@@ -21,6 +21,6 @@ topics:
 
 # Bret Victor
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The most dangerous thought you can have as a creative person is to think that you know what you're doing.

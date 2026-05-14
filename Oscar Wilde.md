@@ -21,7 +21,7 @@ topics:
 
 # Oscar Wilde
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: A man who does not think for himself does not think at all.
 

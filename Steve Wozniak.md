@@ -21,6 +21,6 @@ topics:
 
 # Steve Wozniak
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The way I did it, every job was A+.

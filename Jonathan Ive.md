@@ -19,6 +19,6 @@ tags: []
 
 # Jonathan Ive
 
-[[+Quotes MOC|Quotes]]
+
 
 It's very easy to be different, but very difficult to be better.

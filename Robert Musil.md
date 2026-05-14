@@ -21,6 +21,6 @@ topics:
 
 # Robert Musil
 
-[[+Quotes MOC]]
+
 
 quote:: "Today I start a diary; it is against my usual habits, but out of a clearly felt need."

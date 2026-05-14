@@ -21,6 +21,6 @@ topics:
 
 # Sam Harris
 
-[[+Quotes MOC]]
+
 
 quote:: Your mind is the basis of everything you experience and of every contribution you make to the lives of others. Given this fact, it makes sense to train it.

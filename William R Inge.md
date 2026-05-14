@@ -19,7 +19,7 @@ tags: []
 
 # William R Inge
 
-[[+Quotes MOC|Quotes]]
+
 
 "He who will live for others shall have great troubles, but they shall seem to him small.
 

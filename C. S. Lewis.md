@@ -32,7 +32,7 @@ topics:
 
 
 
-[[+Quotes MOC]]
+
 
 # C. S. Lewis
 

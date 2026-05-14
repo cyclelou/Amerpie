@@ -22,6 +22,6 @@ topics:
 
 # Brian Christian
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The Arts in America are strange that way: we seem to care what our vision falls upon, but not whose vision it is.

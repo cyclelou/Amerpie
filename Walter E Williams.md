@@ -19,7 +19,7 @@ tags: []
 
 # Walter E Williams
 
-[[+Quotes MOC|Quotes]]
+
 
 Social Security is unsustainable because it is not meeting the first order condition of a Ponzi scheme, namely expanding the pool of suckers.
 

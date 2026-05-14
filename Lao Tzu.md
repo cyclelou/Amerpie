@@ -21,7 +21,7 @@ topics:
 
 # Lao Tzu
 
-[[+Quotes MOC]]
+
 
 quote:: Nature does not hurry, yet everything is accomplished.
 

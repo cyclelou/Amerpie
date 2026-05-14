@@ -21,7 +21,7 @@ topics:
 
 # Shawn
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Just 'cause you put syrup on somethin' don't make it a pancake.  
 (Psych)

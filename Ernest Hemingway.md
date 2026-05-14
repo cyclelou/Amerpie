@@ -21,7 +21,7 @@ topics:
 
 # Ernest Hemingway
 
-[[+Quotes MOC|Quotes]]  
+  
 
 Man is not made for defeat.
 

@@ -19,6 +19,6 @@ tags: []
 
 # William Wordsworth
 
-[[+Quotes MOC|Quotes]]
+
 
 The best portion of a good man's life is his little, nameless, unremembered acts of kindness and love.

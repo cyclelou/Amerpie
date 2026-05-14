@@ -26,6 +26,6 @@ Henrik Ibsen
 
 # Henrik Ibsen
 
-[[+Quotes MOC|Quotes]]
+
 
 A thousand words will not leave so deep an impression as one deed.

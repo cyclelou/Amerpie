@@ -21,7 +21,7 @@ topics:
 
 # Matthew Kelly
 
-[[+Quotes MOC|Quotes]]
+
 
 Our lives change when our habits change.
 

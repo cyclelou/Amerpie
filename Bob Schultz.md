@@ -21,6 +21,6 @@ topics:
 
 # Bob Schultz
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: What seems impossible will become possible when attacked with a lot of hard work.

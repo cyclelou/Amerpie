@@ -21,6 +21,6 @@ topics:
 
 # Bruce Lee
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: The successful warrior is the average man with laser-like focus.

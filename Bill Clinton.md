@@ -21,6 +21,6 @@ topics:
 
 # Bill Clinton
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: That depends what your definition of the word 'is' is.

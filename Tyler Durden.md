@@ -19,6 +19,6 @@ tags: []
 
 # Tyler Durden
 
-[[+Quotes MOC|Quotes]]
+
 
 Without pain, without sacrifice, we would have nothing.

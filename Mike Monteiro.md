@@ -19,6 +19,6 @@ tags: []
 
 # Mike Monteiro
 
-[[+Quotes MOC|Quotes]]
+
 
 Confidence isn't about making you feel better. It's about reassuring your client that they hired the right person.

@@ -19,7 +19,7 @@ topics:
 
 
 
-[[+Quotes MOC|Quotes]]
+
 
 # Anne Lamott
 
@@ -27,6 +27,6 @@ quote:: A good marriage is one in which each spouse secretly thinks he or she go
 
 # Anne Lamott
 
-[[+Quotes MOC|Quotes]]
+
 
 You get your confidence and intuition back by trusting yourself, by being militantly on your own side.

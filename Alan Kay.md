@@ -21,6 +21,6 @@ topics:
 
 # Alan Kay
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.

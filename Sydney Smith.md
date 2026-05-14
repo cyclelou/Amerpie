@@ -21,6 +21,6 @@ topics:
 
 # Sydney Smith
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: A great deal of talent is lost to the world for want of a little courage.

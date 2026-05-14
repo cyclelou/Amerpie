@@ -21,6 +21,6 @@ topics:
 
 # Larry Holmes
 
-[[+Quotes MOC]]
+
 
 quote:: It's hard being black. You ever been black? I was black once -- when I was poor.

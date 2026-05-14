@@ -19,6 +19,6 @@ tags: []
 
 # John Mason Brown
 
-[[+Quotes MOC|Quotes]]
+
 
 A good conversationalist is not one who remembers what was said, but says what someone wants to remember.

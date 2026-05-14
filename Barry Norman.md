@@ -1,7 +1,8 @@
 ---
 title: Barry Norman
-created: '2024-02-10'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-14
+tags: []
 kind: note
 status: in_progress
 area:
@@ -10,7 +11,6 @@ tool: []
 source: ''
 author: Barry Norman
 url: ''
-tags: []
 topics:
 - censorship
 ---
@@ -18,8 +18,6 @@ topics:
 [[maps-of-content/MOC Quotes]]
 
 
-
-[[+Quotes MOC]]
 
 # Barry Norman
 

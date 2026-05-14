@@ -21,7 +21,7 @@ topics:
 
 # Andre Gide
 
-[[+Quotes MOC|Quotes]]
+
 
 quote:: Everything has been said before but because no one ever listens you always have to say it again.  
 ^again

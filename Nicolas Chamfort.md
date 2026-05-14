@@ -21,6 +21,6 @@ topics:
 
 # Nicolas Chamfort
 
-[[+Quotes MOC]]
+
 
 quote:: The most wasted day of all is that on which we have not laughed.
