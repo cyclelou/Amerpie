@@ -1,7 +1,7 @@
 ---
 title: J. S. Bach
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # J. S. Bach
-
-
 
 There's nothing remarkable about it. All one has to do is hit the right keys at the right time and the instrument plays itself.

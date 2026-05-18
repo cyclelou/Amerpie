@@ -1,24 +1,23 @@
 ---
 title: Andrew Jackson
 created: 2026-05-02
-updated: 2026-05-14
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Andrew Jackson
-url: ''
+url: ""
+tags: []
 topics:
-- humility
+  - humility
+dv_quote: Any man worth his salt will stick up for what he believes right, but it takes a slightly better man to acknowledge instantly and without reservation that he is in error.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Andrew Jackson
-
-
 
 quote:: Any man worth his salt will stick up for what he believes right, but it takes a slightly better man to acknowledge instantly and without reservation that he is in error.

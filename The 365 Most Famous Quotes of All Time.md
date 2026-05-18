@@ -1,8 +1,8 @@
 ---
-title: The 365 Most Famous Quotes of All Time (Backed by Data & Verified) | Books
+title: The 365 Most Famous Quotes of All Time
   Are Our Superpower
-created: '2024-09-17'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: reference
 status: in_progress
 area:
@@ -15,8 +15,6 @@ tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 # The 365 Most Famous Quotes of All Time (Backed by Data & Verified) | Books Are Our Superpower
 

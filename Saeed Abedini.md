@@ -1,7 +1,7 @@
 ---
 title: Saeed Abedini
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Saeed Abedini
-
-
 
 quote:: When I think that all of these trials and persecutions are being recorded in heaven for me, my heart is filled with complete joy.

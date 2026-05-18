@@ -1,25 +1,22 @@
 ---
 title: Ulysses S Grant
-created: '2024-01-12'
-updated: '2026-05-03'
+created: 2024-01-12
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Ulysses S Grant
 url: https://social.lol/deck/@davemark@mastodon.social/111743591001253777
 tags: []
+dv_quote: If we are to have another contest in the near future of our national existence I predict that the dividing line will not be Mason & Dixon … but between patriotism & intelligence on the one side & superstition, ambition & ignorance on the other.
 topics:
-- war
+  - war
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
-
-
 
 # Ulysses S Grant
 

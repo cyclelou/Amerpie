@@ -1,7 +1,7 @@
 ---
 title: Herman Goering
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Herman Goering
-
-
 
 The people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the pacifists for lack of patriotism, and exposing the country to greater danger.

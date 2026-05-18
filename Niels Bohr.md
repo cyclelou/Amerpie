@@ -1,7 +1,7 @@
 ---
 title: Niels Bohr
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Niels Bohr
-
-
 
 quote:: The opposite of a true statement is a false statement, but the opposite of a profound truth may be another profound truth.

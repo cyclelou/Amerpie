@@ -1,18 +1,19 @@
 ---
 title: Dave Wiskus
 created: 2026-05-02
-updated: 2026-05-14
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
 source: Twitter
 author: Dave Wiskus
-url: ''
+url: ""
+tags: []
+dv_quote: Life's Ebola cherries.
 topics:
-- humor
+  - humor
 ---
 
 [[maps-of-content/MOC Quotes]]

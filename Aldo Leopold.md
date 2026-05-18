@@ -1,7 +1,7 @@
 ---
 title: Aldo Leopold
-created: '2025-01-01'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Aldo Leopold
-
-
 
 quote:: Man always kills the thing he loves, and so we the pioneers have killed our wilderness. Some say we had to. Be that as it may, I am glad I shall never be young without wild country to be young in.

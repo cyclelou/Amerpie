@@ -1,7 +1,7 @@
 ---
 title: Matt Walsch
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Matt Walsch
-
-
 
 Christians in the Middle East would literally rather die than identify, even in words, as a Muslim. You do so just because it's trendy.

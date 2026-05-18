@@ -1,26 +1,23 @@
 ---
 title: Dolly Parton
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Dolly Parton
-url: ''
+url: ""
 tags: []
 topics:
-- identity
+  - identity
+dv_quote: Find out who you are and do it on purpose.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Dolly Parton
-
-
 
 quote:: Find out who you are and do it on purpose.

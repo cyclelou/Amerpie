@@ -1,7 +1,7 @@
 ---
 title: Bob Schultz
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Bob Schultz
-
-
 
 quote:: What seems impossible will become possible when attacked with a lot of hard work.

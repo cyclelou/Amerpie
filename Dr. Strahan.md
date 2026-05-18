@@ -1,8 +1,7 @@
 ---
 title: Dr. Strahan
 created: 2024-02-09
-updated: 2026-05-14
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -11,6 +10,7 @@ tool: []
 source: ""
 author: Dr. Strahan
 url: ""
+tags: []
 topics:
   - fairness
 ---
@@ -18,8 +18,6 @@ topics:
 [[maps-of-content/MOC Quotes]]
 
 # Dr. Strahan
-
-
 
 (My aviation medical examiner)
 

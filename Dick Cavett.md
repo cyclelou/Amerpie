@@ -1,7 +1,7 @@
 ---
 title: Dick Cavett
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Dick Cavett
-
-
 
 quote:: It's a rare person who wants to hear what he doesn't want to hear.

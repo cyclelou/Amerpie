@@ -1,26 +1,36 @@
 ---
-title: Martin Luther King, Jr
-created: 2024-01-17
-updated: 2026-05-03
-kind: note
-status: in_progress
+title: Martin Luther King, Jr.
+created: 2026-05-02
+updated: 2026-05-17
+kind:
+status:
 area:
-  - quotes
-tool: []
-source: ""
-author: Martin Luther King, Jr
-url: ""
-tags: []
+tool:
+source:
+author:
+url:
+tags:
+---
+
+---
+title: Martin Luther King, Jr  
+created: 2024-01-17  
+updated: 2026-05-03  
+kind: note  
+status: in_progress  
+area:
+  - quotes  
+tool: []  
+source: ""  
+author: Martin Luther King, Jr  
+url: ""  
+tags: []  
 topics:
 - capitalism
 - life
 - love---
 
 [[maps-of-content/MOC Quotes]]
-
-
-
-
 
 # Martin Luther King, Jr
 

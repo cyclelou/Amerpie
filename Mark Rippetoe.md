@@ -1,7 +1,7 @@
 ---
 title: Mark Rippetoe
 created: 2024-01-31
-updated: 2026-05-03
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -18,10 +18,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Mark Rippetoe
-
-
 
 quote:: Strong people are harder to kill then weak people and generally more useful.

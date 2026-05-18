@@ -1,7 +1,7 @@
 ---
 title: Jerome K. Jerome
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,11 +15,7 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Jerome K. Jerome
-
-
 
 I like work—it fascinates me—I can sit and look at it for hours.
 

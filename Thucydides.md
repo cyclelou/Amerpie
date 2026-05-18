@@ -1,7 +1,7 @@
 ---
 title: Thucydides
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Thucydides
-
-
 
 The bravest are surely those who have the clearest vision of what is before them, glory and danger alike, and yet notwithstanding, go out and meet it.

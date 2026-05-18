@@ -1,7 +1,7 @@
 ---
 title: Sydney Smith
 created: 2024-02-09
-updated: 2026-05-03
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Sydney Smith
-
-
 
 quote:: A great deal of talent is lost to the world for want of a little courage.

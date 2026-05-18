@@ -1,7 +1,7 @@
 ---
 title: T.S. Eliot
 created: 2024-03-28
-updated: 2026-05-03
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # T.S. Eliot
-
-
 
 quote:: Only those who will risk going too far can possibly find out how far one can go.

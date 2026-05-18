@@ -1,7 +1,7 @@
 ---
 title: Macklemore
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,9 +17,6 @@ topics:
 
 [[maps-of-content/MOC Mac]]
 
-
 # Macklemore
-
-
 
 The greats weren't great because at birth they could paint, the greats were great because they paint a lot.

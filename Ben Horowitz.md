@@ -1,7 +1,7 @@
 ---
 title: Ben Horowitz
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Ben Horowitz
-
-
 
 quote:: Perhaps the most important thing that I learned as an entrepreneur was to focus on what I needed to get right and stop worrying about all the things that I did wrong or might do wrong.

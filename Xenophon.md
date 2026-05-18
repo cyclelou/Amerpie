@@ -1,26 +1,23 @@
 ---
 title: Xenophon
-created: '2026-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Xenophon
-url: ''
+url: ""
 tags: []
 topics:
-- praise
+  - praise
+dv_quote: The sweetest of all sounds is praise.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Xenophon
-
-
 
 quote:: "The sweetest of all sounds is praise."

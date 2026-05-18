@@ -1,7 +1,7 @@
 ---
 title: Michael Maya Charles
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,11 +15,7 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Michael Maya Charles
-
-
 
 The more I fly, the less I know—and the more questions I have. May we never be so sure that we don't have any questions.  
 (Artful Flying)

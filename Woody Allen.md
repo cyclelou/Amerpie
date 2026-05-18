@@ -1,7 +1,7 @@
 ---
 title: Woody Allen
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Woody Allen
-
-
 
 The best an idea gets is when it's in your head.

@@ -1,16 +1,30 @@
 ---
 title: C. S. Lewis
-created: 2024-01-29
-updated: 2026-05-03
-kind: note
-status: in_progress
+created: 2026-05-02
+updated: 2026-05-17
+kind:
+status:
 area:
-  - quotes
-tool: []
-source: ""
-author: C. S. Lewis
-url: ""
-tags: []
+tool:
+source:
+author:
+url:
+tags:
+---
+
+---
+title: C. S. Lewis  
+created: 2024-01-29  
+updated: 2026-05-03  
+kind: note  
+status: in_progress  
+area:
+  - quotes  
+tool: []  
+source: ""  
+author: C. S. Lewis  
+url: ""  
+tags: []  
 topics:
 - writing
 - sanity
@@ -29,10 +43,6 @@ topics:
 - progress---
 
 [[maps-of-content/MOC Quotes]]
-
-
-
-
 
 # C. S. Lewis
 

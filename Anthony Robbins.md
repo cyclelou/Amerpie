@@ -1,23 +1,22 @@
 ---
 title: Anthony Robbins
 created: 2026-05-02
-updated: 2026-05-14
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Anthony Robbins
-url: ''
+url: ""
+tags: []
+dv_quote: It's not what we do once in a while that shapes our lives. It's what we do consistently.
 topics:
-- self-improvement
+  - self-improvement
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 # Anthony Robbins
 

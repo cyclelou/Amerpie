@@ -1,26 +1,23 @@
 ---
 title: Robert Arnold
-created: '2026-01-30'
-updated: '2026-05-03'
+created: 2026-01-30
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Robert Arnold
-url: ''
+url: ""
 tags: []
+dv_quote: You will surrender every right you claim to cherish as long as it happens to someone else first.
 topics:
-- fascism
+  - fascism
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Robert Arnold
-
-
 
 quote:: "You will surrender every right you claim to cherish as long as it happens to someone else first."

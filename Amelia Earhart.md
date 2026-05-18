@@ -1,7 +1,7 @@
 ---
 title: Amelia Earhart
 created: 2024-02-09
-updated: 2026-05-03
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Amelia Earhart
-
-
 
 quote:: The most difficult thing is the decision to act. The rest is merely tenacity.

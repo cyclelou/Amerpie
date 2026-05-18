@@ -1,7 +1,7 @@
 ---
 title: Robin Jones Gunn
 created: 2024-01-31
-updated: 2026-05-03
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Robin Jones Gunn
-
-
 
 quote:: If you want to go fast, go alone. If you want to go far, go together.

@@ -1,7 +1,7 @@
 ---
 title: Stephen Covey
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Stephen Covey
-
-
 
 quote:: You have to decide what your highest priorities are and have the courage - pleasantly, smilingly, unapologetically - to say 'no' to other things. And the way to do that is by having a bigger 'yes' burning inside.

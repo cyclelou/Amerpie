@@ -1,7 +1,7 @@
 ---
 title: Alan Kay
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Alan Kay
-
-
 
 quote:: Don't worry about what anybody else is going to do. The best way to predict the future is to invent it.

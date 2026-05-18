@@ -1,7 +1,7 @@
 ---
 title: Vasudev
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Vasudev
-
-
 
 The sign of intelligence is that you are constantly wondering. Idiots are always dead sure about every darn thing they are doing in their life.

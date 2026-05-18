@@ -1,7 +1,7 @@
 ---
 title: Maureen Dowd
-created: '2023-12-20'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Maureen Dowd
-
- 
 
 quote:: He needs the adoration of the mob more than he needs the acceptance of normal people.

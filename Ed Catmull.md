@@ -1,8 +1,7 @@
 ---
 title: Ed Catmull
 created: 2026-05-02
-updated: 2026-05-14
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -11,6 +10,7 @@ tool: []
 source: ""
 author: Ed Catmull
 url: ""
+tags: []
 topics:
   - art
   - responsibility

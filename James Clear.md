@@ -1,7 +1,7 @@
 ---
 title: James Clear
-created: '2024-01-23'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,15 +17,11 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # James Clear
 
 The most invisible form of wasted time is doing a good job on an unimportant task.
 
 # James Clear
-
-
 
 Anyone connected to the internet has the education power of a university and the distribution power of a media company at their fingertips.
 

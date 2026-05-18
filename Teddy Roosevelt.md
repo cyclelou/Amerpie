@@ -1,7 +1,7 @@
 ---
 title: Teddy Roosevelt
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,11 +15,7 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Teddy Roosevelt
-
-
 
 Precept is a very good thing, but to my thinking an ounce of practical energy is worth any amount of precept without action.
 

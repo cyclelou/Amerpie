@@ -1,26 +1,23 @@
 ---
 title: Benjamin Mee
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Benjamin Mee
-url: ''
+url: ""
 tags: []
 topics:
-- courage
+  - courage
+dv_quote: Sometimes all you need is twenty seconds of insane courage. Just literally twenty seconds of just embarrassing bravery. And I promise you, something great will come of it. (We Bought A Zoo)
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Benjamin Mee
-
-
 
 quote:: Sometimes all you need is twenty seconds of insane courage. Just literally twenty seconds of just embarrassing bravery. And I promise you, something great will come of it. (We Bought A Zoo)

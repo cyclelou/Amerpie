@@ -1,7 +1,7 @@
 ---
 title: Thomas Jefferson
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,11 +15,7 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Thomas Jefferson
-
-
 
 If the people let the Government decide what foods they eat, and what medicines they take, their bodies will soon be in as sorry a state as are the souls of those who live under tyranny.
 

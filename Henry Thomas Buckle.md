@@ -1,7 +1,7 @@
 ---
 title: Henry Thomas Buckle
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Henry Thomas Buckle
-
-
 
 Great minds discuss ideas. Average minds discuss events. Small minds discuss people.

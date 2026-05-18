@@ -1,7 +1,7 @@
 ---
-title: Anas Nin
-created: '2024-01-22'
-updated: '2026-05-03'
+title: Anaïs Nin
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,12 +15,8 @@ topics:
 - self
 ---
 
-[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Ai]]  
 [[maps-of-content/MOC Quotes]]
-
-
-
-
 
 # Anaïs Nin
 

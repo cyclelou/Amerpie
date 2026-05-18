@@ -1,7 +1,7 @@
 ---
 title: Unknown
-created: '2023-12-20'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -16,8 +16,6 @@ topics:
 ---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 # Unknown
 
@@ -36,8 +34,6 @@ Man cannot do without beauty, and this is what our era pretends to want to disre
 "No." is a complete sentence.
 
 # Unknown
-
-
 
 When I die, I want to go quietly and peacefully in my sleep like my grandfather did—not screaming and shouting like the passengers in his car at the time.  
 (Words I Wish I Wrote)

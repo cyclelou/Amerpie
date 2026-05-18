@@ -1,7 +1,7 @@
 ---
 title: William Burnham
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,11 +15,7 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # William Burnham
-
-
 
 The most drastic and usually the most effective remedy for fear is direct action.
 

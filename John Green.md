@@ -1,7 +1,7 @@
 ---
 title: John Green
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,11 +15,7 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # John Green
-
-
 
 What I actually needed was someone to tell me that it hurt because it mattered. I have found it very useful to think about over the years, and I find that it is a lot easier and more bearable to be sad when you aren't constantly berating yourself for being sad.
 

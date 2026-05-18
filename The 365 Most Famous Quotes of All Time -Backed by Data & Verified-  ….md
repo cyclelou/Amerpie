@@ -1,8 +1,7 @@
 ---
-title: The 365 Most Famous Quotes of All Time (Backed by Data & Verified) …
+title: The 365 Most Famous Quotes of All Time -Backed by Data & Verified-  …
 created: 2026-05-04
-updated: 2026-05-12
-tags: []
+updated: 2026-05-17
 kind: note
 status: archive
 area: personal
@@ -10,6 +9,7 @@ tool: null
 source: web-article
 author: null
 url: https://archive.ph/PCsft
+tags: []
 ---
 
 ![https://archive.ph/PCsft/da8061f68be932f3bda4e523b5326930744de58f/scr.png](https://archive.ph/PCsft/da8061f68be932f3bda4e523b5326930744de58f/scr.png)

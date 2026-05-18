@@ -1,7 +1,7 @@
 ---
 title: J.R.R. Tolkien
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,11 +15,7 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # J.R.R. Tolkien
-
-
 
 "I wish it need not have happened in my time," said Frodo.  
 "So do I," said Gandalf, "and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us."

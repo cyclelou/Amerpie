@@ -1,16 +1,30 @@
 ---
 title: Matthew B. Crawford
-created: 2024-02-09
-updated: 2026-05-03
-kind: note
-status: in_progress
+created: 2026-05-02
+updated: 2026-05-17
+kind:
+status:
 area:
-  - quotes
-tool: []
-source: The World Beyond Your Head
-author: Matthew B. Crawford
-url: ""
-tags: []
+tool:
+source:
+author:
+url:
+tags:
+---
+
+---
+title: Matthew B. Crawford  
+created: 2024-02-09  
+updated: 2026-05-03  
+kind: note  
+status: in_progress  
+area:
+  - quotes  
+tool: []  
+source: The World Beyond Your Head  
+author: Matthew B. Crawford  
+url: ""  
+tags: []  
 topics:
 - media
 - planning
@@ -18,11 +32,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Matthew B. Crawford
-
-
 
 quote:: The media have become masters at packaging stimuli in ways that our brains find irresistible, just as food engineers have become expert in creating "hyperpalatable" foods by manipulating levels of sugar, fat, and salt. Distractability might be regarded as the mental equivalent of obesity.  
 (The World Beyond Your Head)

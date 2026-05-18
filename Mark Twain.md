@@ -1,17 +1,31 @@
 ---
 title: Mark Twain
-created: 2024-02-09
-updated: 2026-05-03
-kind: note
-status: in_progress
+created: 2026-05-02
+updated: 2026-05-17
+kind:
+status:
+area:
+tool:
+source:
+author:
+url:
+tags:
+---
+
+---
+title: Mark Twain  
+created: 2024-02-09  
+updated: 2026-05-03  
+kind: note  
+status: in_progress  
 area:
   - ai
-  - quotes
-tool: []
-source: ""
-author: Mark Twain
-url: ""
-tags: []
+  - quotes  
+tool: []  
+source: ""  
+author: Mark Twain  
+url: ""  
+tags: []  
 topics:
 - belief
 - courage
@@ -20,14 +34,10 @@ topics:
 - knowledge
 - work---
 
-[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Ai]]  
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Mark Twain
-
-
 
 quote:: I am an old man and have known a great many troubles, but most of them never happened.
 

@@ -1,7 +1,7 @@
 ---
-title: Winston Churchill
-created: '2024-02-09'
-updated: '2026-05-03'
+title: Sir Winston Churchill
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Winston Churchill
-
-
 
 quote:: The power of the Executive to cast a man into prison without formulating any charge known to the law, and particularly to deny him the judgment of his peers, is in the highest degree odious and is the foundation of all totalitarian government whether Nazi or Communist.

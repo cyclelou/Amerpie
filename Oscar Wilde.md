@@ -1,7 +1,7 @@
 ---
 title: Oscar Wilde
-created: '2023-12-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,11 +17,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Oscar Wilde
-
-
 
 quote:: A man who does not think for himself does not think at all.
 

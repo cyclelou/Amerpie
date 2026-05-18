@@ -1,8 +1,7 @@
 ---
 title: Seneca
 created: 2024-01-31
-updated: 2026-05-14
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -11,6 +10,7 @@ tool: []
 source: ""
 author: Seneca
 url: ""
+tags: []
 topics:
   - philosophy
   - suffering
@@ -20,8 +20,6 @@ topics:
 [[maps-of-content/MOC Quotes]]
 
 # Seneca
-
-
 
 quote:: A good person dyes events with his own color… And turns whatever happens to his own benefit.
 

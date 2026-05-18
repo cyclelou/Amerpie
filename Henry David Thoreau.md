@@ -1,7 +1,7 @@
 ---
 title: Henry David Thoreau
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,13 +17,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Henry David Thoreau
-
-
-
-
 
 quote:: Simplify simplify– Money is not required to buy one necessity of the soul.
 

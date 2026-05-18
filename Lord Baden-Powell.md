@@ -1,26 +1,23 @@
 ---
 title: Lord Baden-Powell
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Lord Baden-Powell
-url: ''
+url: ""
 tags: []
 topics:
-- duty
+  - duty
+dv_quote: We never fail when we try to do our duty, we always fail when we neglect to do it.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Lord Baden-Powell
-
-
 
 quote:: We never fail when we try to do our duty, we always fail when we neglect to do it.

@@ -1,8 +1,7 @@
 ---
 title: Dr. Simon Goddek
 created: 2026-05-02
-updated: 2026-05-12
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -11,13 +10,12 @@ tool: []
 source: Twitter
 author: Dr. Simon Goddek
 url: https://twitter.com/goddeketal/status/1728997671179018243
+tags: []
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Dr. Simon Goddek
-
-
 
 quote:: The pharmaceutical industry is as interested in world health as the arms industry is in world peace. ^pharma
 

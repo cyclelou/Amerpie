@@ -1,7 +1,7 @@
 ---
 title: Bob Dylan
-created: '2023-12-10'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,11 +17,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Bob Dylan
-
-
 
 quote:: "I think of a hero as someone who understands the degree of responsibility that comes with his freedom." Bob Dylan
 

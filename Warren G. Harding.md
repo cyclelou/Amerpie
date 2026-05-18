@@ -1,7 +1,7 @@
 ---
 title: Warren G. Harding
-created: '2026-04-17'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Warren G. Harding
-
-
 
 quote:: Someone is sitting in the shade today because someone planted a tree a long time ago.

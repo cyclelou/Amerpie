@@ -1,7 +1,7 @@
 ---
 title: Harbhajan Singh
-created: '2024-02-26'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Harbhajan Singh
-
-
 
 I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly… that's what I call true friendship.

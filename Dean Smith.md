@@ -1,26 +1,23 @@
 ---
 title: Dean Smith
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Dean Smith
-url: ''
+url: ""
 tags: []
 topics:
-- winning
+  - winning
+dv_quote: If you make every game a life-and-death thing, you're going to have problems. You'll be dead a lot.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Dean Smith
-
-
 
 quote:: If you make every game a life-and-death thing, you're going to have problems. You'll be dead a lot.

@@ -1,7 +1,7 @@
 ---
 title: Peroty
-created: '2023-12-25'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,11 +17,7 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Peroty
-
-
 
 quote:: I agree with every crying child in the airport. This is terrible. Nobody wants to do this.  
 peroty on micro.blog

@@ -1,7 +1,7 @@
 ---
 title: Pat McCrory
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Pat McCrory
-
-
 
 quote:: Let's put aside our differences, the political rhetoric and yes, hypocrisy, and work on solutions that will make this bill better in the future. And to the people and businesses of North Carolina, we are a state of openness and diversity.

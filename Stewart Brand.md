@@ -1,7 +1,7 @@
 ---
 title: Stewart Brand
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -17,10 +17,6 @@ topics:
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Stewart Brand
-
-
 
 quote:: On average, bad things happen fast and good things happen slow.

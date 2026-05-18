@@ -1,8 +1,7 @@
 ---
 title: Jean Baptiste Henri Lacordaire
 created: 2026-05-12
-updated: 2026-05-12
-tags: []
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -11,13 +10,12 @@ tool:
 source:
 author: Jean Baptiste Henri Lacordaire
 url:
+tags: []
 topics:
   - kindness
 ---
 
 # Jean Baptiste Henri Lacordaire
-
-
 
 quote:: Neither genius, fame, nor love show the greatness of the soul.Only kindness can do that."
 

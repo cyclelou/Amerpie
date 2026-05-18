@@ -1,7 +1,7 @@
 ---
 title: Blaise Pascal
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,13 +15,9 @@ topics:
 - truth
 ---
 
-[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Ai]]  
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Blaise Pascal
-
-
 
 quote:: Truth is so obscure in these times, and falsehood so established, that unless we love the truth, we cannot know it

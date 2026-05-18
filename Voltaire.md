@@ -1,7 +1,7 @@
 ---
 title: Voltaire
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,14 +15,10 @@ topics:
 - courage
 ---
 
-[[maps-of-content/MOC Ai]]
+[[maps-of-content/MOC Ai]]  
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Voltaire
-
-
 
 quote:: Those who can make you believe absurdities, can make you commit atrocities.
 

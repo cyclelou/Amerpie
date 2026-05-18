@@ -1,26 +1,23 @@
 ---
 title: Bruce Lee
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Bruce Lee
-url: ''
+url: ""
 tags: []
 topics:
-- success
+  - success
+dv_quote: The successful warrior is the average man with laser-like focus.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Bruce Lee
-
-
 
 quote:: The successful warrior is the average man with laser-like focus.

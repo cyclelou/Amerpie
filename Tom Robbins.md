@@ -1,7 +1,7 @@
 ---
 title: Tom Robbins
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2026-05-02
+updated: 2026-05-17
 kind: note
 status: in_progress
 area:
@@ -15,10 +15,6 @@ tags: []
 
 [[maps-of-content/MOC Quotes]]
 
-
-
 # Tom Robbins
-
-
 
 You risked your life, but what else have you ever risked? Have you ever risked disapproval? Have you ever risked economic security? Have you ever risked a belief? …real courage is risking something you have to live with, real courage is risking something that might force you to rethink your thoughts and suffer change and stretch consciousness. Real courage is risking one's cliches.

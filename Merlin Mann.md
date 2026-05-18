@@ -1,16 +1,30 @@
 ---
 title: Merlin Mann
-created: 2024-01-12
-updated: 2026-05-03
-kind: note
-status: in_progress
+created: 2026-05-02
+updated: 2026-05-17
+kind:
+status:
 area:
-  - quotes
-tool: []
-source: Github
-author: Merlin Mann
-url: ""
-tags: []
+tool:
+source:
+author:
+url:
+tags:
+---
+
+---
+title: Merlin Mann  
+created: 2024-01-12  
+updated: 2026-05-03  
+kind: note  
+status: in_progress  
+area:
+  - quotes  
+tool: []  
+source: Github  
+author: Merlin Mann  
+url: ""  
+tags: []  
 topics:
 - language
 - manners
@@ -28,8 +42,6 @@ topics:
 - If you can afford the dinner, you can afford the tip.---
 
 [[maps-of-content/MOC Quotes]]
-
-
 
 # Merlin Mann
 
