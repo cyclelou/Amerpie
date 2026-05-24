@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - doubt
+dv_quote: When you doubt, abstain.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - courage
+dv_quote: A foreign accent is a sign of bravery.
 ---
 
 [[maps-of-content/MOC Quotes]]

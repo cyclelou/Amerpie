@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Charles Kettering
-url: ''
+url: ""
 tags: []
 topics:
-- language
+  - language
+dv_quote: A problem well stated is a problem half solved.
 ---
 
 [[maps-of-content/MOC Quotes]]

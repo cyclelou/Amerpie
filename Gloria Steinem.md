@@ -14,6 +14,7 @@ tags: []
 topics:
   - anger
   - truth
+dv_quote: The truth will set you free, but first it will piss you off.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Sophia Speiker
-url: ''
+url: ""
 tags: []
 topics:
-- cuteness
+  - cuteness
+dv_quote: My superpower is cuteness.
 ---
 
 [[maps-of-content/MOC Quotes]]

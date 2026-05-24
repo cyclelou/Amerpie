@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - comparison
+dv_quote: Comparison is the thief of joy. ^joy
 ---
 
 [[maps-of-content/MOC Quotes]]

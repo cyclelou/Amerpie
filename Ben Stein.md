@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Ben Stein
-url: ''
+url: ""
 tags: []
 topics:
-- decisions
+  - decisions
+dv_quote: "The first step to getting the things you want out of life is this: Decide what you want."
 ---
 
 [[maps-of-content/MOC Quotes]]

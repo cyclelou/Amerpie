@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - effort
+dv_quote: The way I did it, every job was A+.
 ---
 
 [[maps-of-content/MOC Quotes]]

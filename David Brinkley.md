@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: David Brinkley
-url: ''
+url: ""
 tags: []
 topics:
-- news
+  - news
+dv_quote: The one function TV news performs very well, is that when there is no news, we will give it to you with the same emphasis as if there were.
 ---
 
 [[maps-of-content/MOC Quotes]]

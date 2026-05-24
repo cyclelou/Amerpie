@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - risk
+dv_quote: The greatest risk is not taking one.
 ---
 
 [[maps-of-content/MOC Quotes]]

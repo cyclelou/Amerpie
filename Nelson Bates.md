@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Nelson Bates
-url: ''
+url: ""
 tags: []
 topics:
-- fear
+  - fear
+dv_quote: Serendipity favors the fearless.
 ---
 
 [[maps-of-content/MOC Quotes]]

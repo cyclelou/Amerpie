@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Chris Brogan
-url: ''
+url: ""
 tags: []
 topics:
-- standards
+  - standards
+dv_quote: "Don't settle: Don't finish bad books. If you don't like the menu, leave the restaurant. If you're not on the right path, get off it."
 ---
 
 [[maps-of-content/MOC Quotes]]

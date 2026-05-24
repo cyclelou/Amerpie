@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Orson Welles
-url: ''
+url: ""
 tags: []
 topics:
-- happiness
+  - happiness
+dv_quote: If you want a happy ending, that depends, of course, on where you stop your story.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - criticism
+dv_quote: A man should be able to hear, and to bear, the worst that could be said of him.
 ---
 
 [[maps-of-content/MOC Quotes]]

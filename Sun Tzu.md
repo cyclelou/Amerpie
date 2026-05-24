@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Sun Tzu
-url: ''
+url: ""
 tags: []
 topics:
-- strategy
+  - strategy
+dv_quote: Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.
 ---
 
 [[maps-of-content/MOC Quotes]]

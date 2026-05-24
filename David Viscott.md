@@ -14,6 +14,7 @@ tags: []
 topics:
   - courage
   - success
+dv_quote: If you have the courage to begin, you have the courage to succeed.
 ---
 
 [[maps-of-content/MOC Quotes]]

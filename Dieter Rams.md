@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Dieter Rams
-url: ''
+url: ""
 tags: []
 topics:
-- moderation
+  - moderation
+dv_quote: Less, but better.
 ---
 
 [[maps-of-content/MOC Quotes]]

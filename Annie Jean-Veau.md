@@ -14,6 +14,7 @@ tags: []
 topics:
   - decisions
   - rationality
+dv_quote: We don't make purely rational decisions about important things in our lives very often.
 ---
 
 [[maps-of-content/MOC Quotes]]

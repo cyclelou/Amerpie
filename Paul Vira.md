@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Paul Vira
-url: ''
+url: ""
 tags: []
 topics:
-- philosophy
+  - philosophy
+dv_quote: The invention of the ship was also the invention of the shipwreck.
 ---
 
 [[maps-of-content/MOC Quotes]]

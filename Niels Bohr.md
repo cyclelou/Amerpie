@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Niels Bohr
-url: ''
+url: ""
 tags: []
 topics:
-- truth
+  - truth
+dv_quote: The opposite of a true statement is a false statement, but the opposite of a profound truth may be another profound truth.
 ---
 
 [[maps-of-content/MOC Quotes]]

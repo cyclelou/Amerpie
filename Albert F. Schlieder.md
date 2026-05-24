@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Albert F. Schlieder
-url: ''
+url: ""
 tags: []
 topics:
-- judgement
+  - judgement
+dv_quote: We tend to judge others by their behavior and ourselves by our intentions.
 ---
 
 [[maps-of-content/MOC Quotes]]

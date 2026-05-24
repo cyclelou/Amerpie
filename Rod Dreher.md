@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Rod Dreher
-url: ''
+url: ""
 tags: []
 topics:
-- honesty
+  - honesty
+dv_quote: The ordinary man may not be able to overturn the kingdom of lies, but he can at least say that he is not going to be its loyal subject.
 ---
 
 [[maps-of-content/MOC Quotes]]

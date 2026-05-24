@@ -14,6 +14,7 @@ tags: []
 topics:
   - worry
   - imagination
+dv_quote: Worry is essentially a misuse of imagination.
 ---
 
 [[maps-of-content/MOC Quotes]]

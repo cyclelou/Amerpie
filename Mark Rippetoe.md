@@ -14,6 +14,7 @@ tags: []
 topics:
   - fitness
   - strength
+dv_quote: Strong people are harder to kill then weak people and generally more useful.
 ---
 
 [[maps-of-content/MOC Quotes]]

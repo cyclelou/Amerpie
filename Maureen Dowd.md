@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Maureen Dowd
-url: ''
+url: ""
 tags: []
 topics:
-- politics
+  - politics
+dv_quote: He needs the adoration of the mob more than he needs the acceptance of normal people.
 ---
 
 [[maps-of-content/MOC Quotes]]

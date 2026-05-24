@@ -14,6 +14,7 @@ tags: []
 topics:
   - choice
   - responsibility
+dv_quote: A man does as he chooses, while a boy does as he should.
 ---
 
 [[maps-of-content/MOC Quotes]]

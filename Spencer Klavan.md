@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - honor
+dv_quote: It is a bit of ancient wisdom that every society will produce more of what it honors publicly.
 ---
 
 [[maps-of-content/MOC Quotes]]

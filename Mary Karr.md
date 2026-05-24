@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - culture
+dv_quote: Propaganda seeks to destroy art in order to sanitize culture.
 ---
 
 [[maps-of-content/MOC Quotes]]

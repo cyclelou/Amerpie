@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - effort
+dv_quote: The man who can drive himself further once the effort gets painful is the man who will win.
 ---
 
 [[maps-of-content/MOC Quotes]]

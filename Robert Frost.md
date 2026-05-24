@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Robert Frost
-url: ''
+url: ""
 tags: []
 topics:
-- freedom
+  - freedom
+dv_quote: You have freedom when you're easy in your harness.
 ---
 
 [[maps-of-content/MOC Quotes]]

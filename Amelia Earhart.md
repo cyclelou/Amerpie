@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - action
+dv_quote: The most difficult thing is the decision to act. The rest is merely tenacity.
 ---
 
 [[maps-of-content/MOC Quotes]]

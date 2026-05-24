@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Joan Westenberg
-url: ''
+url: ""
 tags: []
 topics:
-- healthcare
+  - healthcare
+dv_quote: "'Ask not what your country can do for you,' because chances are, there's probably a form for that, and it's not covered by your plan"
 ---
 
 [[maps-of-content/MOC Quotes]]

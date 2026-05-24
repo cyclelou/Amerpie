@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Walt Whitman
-url: ''
+url: ""
 tags: []
 topics:
-- friendship
+  - friendship
+dv_quote: I have learned that to be with those I like is enough.
 ---
 
 [[maps-of-content/MOC Quotes]]

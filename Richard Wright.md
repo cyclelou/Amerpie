@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Richard Wright
-url: ''
+url: ""
 tags: []
 topics:
-- self-realization
+  - self-realization
+dv_quote: Men can starve from a lack of self-realization as much as they can from a lack of bread.
 ---
 
 [[maps-of-content/MOC Quotes]]

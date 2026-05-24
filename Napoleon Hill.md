@@ -14,6 +14,7 @@ tags: []
 topics:
   - action
   - knowledge
+dv_quote: Knowledge is only potential power. It becomes power only when, and if, it is organized into definite plans of action.
 ---
 
 [[maps-of-content/MOC Quotes]]

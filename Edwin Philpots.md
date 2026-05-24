@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - growth
+dv_quote: The universe is full of magical things patiently waiting for our wits to grow sharper.
 ---
 
 [[maps-of-content/MOC Quotes]]

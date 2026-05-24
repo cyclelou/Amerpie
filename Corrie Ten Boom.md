@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Corrie Ten Boom
-url: ''
+url: ""
 tags: []
 topics:
-- worry
+  - worry
+dv_quote: Worrying does not empty tomorrow of its troubles. It empties today of its strength.
 ---
 
 [[maps-of-content/MOC Quotes]]

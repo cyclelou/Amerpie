@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Neil Barringham
-url: ''
+url: ""
 tags: []
 topics:
-- work
+  - work
+dv_quote: The grass is greener where you water it.
 ---
 
 [[maps-of-content/MOC Quotes]]

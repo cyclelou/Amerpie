@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Valarie Kaur
-url: ''
+url: ""
 tags: []
 topics:
-- forgiveness
+  - forgiveness
+dv_quote: Forgiveness is not forgetting. Forgiveness is freedom from hate.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Oswald Chambers
-url: ''
+url: ""
 tags: []
 topics:
-- action
+  - action
+dv_quote: The whole point of getting things done is knowing what to leave undone.
 ---
 
 [[maps-of-content/MOC Quotes]]

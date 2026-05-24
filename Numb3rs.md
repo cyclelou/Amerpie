@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Numb3rs
-url: ''
+url: ""
 tags: []
 topics:
-- knowledge
+  - knowledge
+dv_quote: Larry, I'm about to tell you what I've told every genius I've known. Don't be an idiot.
 ---
 
 [[maps-of-content/MOC Quotes]]

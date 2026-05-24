@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - beginning
+dv_quote: Every expert was once a beginner.
 ---
 
 [[maps-of-content/MOC Quotes]]

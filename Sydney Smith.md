@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - fear
+dv_quote: A great deal of talent is lost to the world for want of a little courage.
 ---
 
 [[maps-of-content/MOC Quotes]]

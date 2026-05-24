@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Bob Schultz
-url: ''
+url: ""
 tags: []
 topics:
-- work
+  - work
+dv_quote: What seems impossible will become possible when attacked with a lot of hard work.
 ---
 
 [[maps-of-content/MOC Quotes]]

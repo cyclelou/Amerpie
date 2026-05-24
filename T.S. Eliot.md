@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - risk
+dv_quote: Only those who will risk going too far can possibly find out how far one can go.
 ---
 
 [[maps-of-content/MOC Quotes]]

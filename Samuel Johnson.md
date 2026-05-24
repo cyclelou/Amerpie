@@ -5,14 +5,17 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Samuel Johnson
-url: ''
+url: ""
 tags: []
 topics:
-- courage
+  - courage
+dv_quote:
+  - Nothing will ever be attempted if all possible objections must first be overcome.
+  - The true art of memory is the art of attention.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
 source: Mentalist
 author: Cho
-url: ''
+url: ""
 tags: []
 topics:
-- mental-health
+  - mental-health
+dv_quote: No it isn't (complicated). You just need mental help.
 ---
 
 [[maps-of-content/MOC Quotes]]

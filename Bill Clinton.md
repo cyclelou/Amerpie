@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - obfuscation
+dv_quote: That depends what your definition of the word 'is' is.
 ---
 
 [[maps-of-content/MOC Quotes]]

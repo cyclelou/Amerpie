@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Brennan Manning
-url: ''
+url: ""
 tags: []
 topics:
-- disappointment
+  - disappointment
+dv_quote: Our disappointments arise from presuming to know the outcome of a particular endeavor.
 ---
 
 [[maps-of-content/MOC Quotes]]

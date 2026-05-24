@@ -13,6 +13,7 @@ url: ""
 tags: []
 topics:
   - technology
+dv_quote: Keep them dreams big and just build websites.
 ---
 
 [[maps-of-content/MOC Quotes]]

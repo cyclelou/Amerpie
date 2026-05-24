@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Coco Channel
-url: ''
+url: ""
 tags: []
 topics:
-- advice
+  - advice
+dv_quote: Don't spend time beating on a wall, hoping to transform it into a door
 ---
 
 [[maps-of-content/MOC Quotes]]

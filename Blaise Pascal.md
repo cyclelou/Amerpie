@@ -5,14 +5,15 @@ updated: 2026-05-17
 kind: note
 status: in_progress
 area:
-- ai
+  - ai
 tool: []
-source: ''
+source: ""
 author: Blaise Pascal
-url: ''
+url: ""
 tags: []
 topics:
-- truth
+  - truth
+dv_quote: Truth is so obscure in these times, and falsehood so established, that unless we love the truth, we cannot know it
 ---
 
 [[maps-of-content/MOC Ai]]  
