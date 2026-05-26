@@ -1,23 +1,33 @@
 ---
 title: Walt Whitman
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-03-16'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
-  - quotes
+- quotes
 tool: []
-source: ""
+source: ''
 author: Walt Whitman
-url: ""
-tags: []
+url: ''
+tags:
+- area/quotes
+- kind/note
+
 topics:
-  - friendship
-dv_quote: I have learned that to be with those I like is enough.
+- friendship
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Walt Whitman
 
+[[+Quotes MOC]]
+
 quote:: I have learned that to be with those I like is enough.
+
+quote:: Resist much, obey little.
+
+quote:: Do I contradict myself? Very well then I contradict myself. I am large, I contain multitudes.

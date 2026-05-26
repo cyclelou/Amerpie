@@ -1,18 +1,30 @@
 ---
 title: Albert Einstein
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-05-07
+updated: 2026-05-25
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: ''
 author: Albert Einstein
 url: ''
-tags: []
+tags:
+  - area/quotes
+  - kind/note
+
 topics:
-- education
+  - answers
+  - clutter
+  - education
+  - genius
+  - philosophy
+  - problems
+  - relativity
+  - simplicity
+  - speech
+  - truth
 ---
 
 [[maps-of-content/MOC Quotes]]
@@ -20,6 +32,8 @@ topics:
 quote:: Life is like riding a bicycle. To keep your balance you must keep moving.
 
 # Albert Einstein
+
+[[+Quotes MOC|Quotes]]  
 
 The only thing that interferes with my learning is my education.  
 ^ed
@@ -48,3 +62,7 @@ Everybody is a genius. But if you judge a fish by its ability to climb a tree, t
 Science can flourish only in an atmosphere of free speech.
 
 Whoever is careless with the truth in small matters cannot be trusted with important matters.
+
+quote:: Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+
+quote:: Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.

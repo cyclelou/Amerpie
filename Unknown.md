@@ -1,21 +1,29 @@
 ---
 title: Unknown
-created: 2026-05-02
-updated: 2026-05-17
+created: '2023-12-20'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Unknown
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - speech
+- peace
+- idiocy
+- assertiveness
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Unknown
 
@@ -34,6 +42,8 @@ Man cannot do without beauty, and this is what our era pretends to want to disre
 "No." is a complete sentence.
 
 # Unknown
+
+[[+Quotes MOC|Quotes]]
 
 When I die, I want to go quietly and peacefully in my sleep like my grandfather did—not screaming and shouting like the passengers in his car at the time.  
 (Words I Wish I Wrote)
@@ -55,3 +65,9 @@ Theory is when you know everything but nothing works. Practice is when everythin
 When something bad happens you have three choices. You can either let it define you, let it destroy you, or let it strengthen you.
 
 In theory there is no difference between theory and practice. In practice there is.
+
+quote:: If you want a thing done well, do it yourself.
+
+quote:: History is written by the winners.
+
+quote:: That's just the tip of the iceberg.

@@ -1,23 +1,30 @@
 ---
 title: Ernest Hemingway
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Ernest Hemingway
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - photography
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Ernest Hemingway
+
+[[+Quotes MOC|Quotes]]  
 
 Man is not made for defeat.
 
@@ -30,3 +37,7 @@ If something is wrong, fix it if you can. But train yourself not to worry. Worry
 You take the most amazing pictures. What kind of camera do you use?"
 
 Adams frowned and then replied, "You write the most amazing stories. What kind of typewriter do you use?
+
+quote:: All you have to do is write one true sentence. Write the truest sentence that you know.
+
+quote:: The world breaks everyone, and afterward, many are strong at the broken places.

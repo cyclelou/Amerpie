@@ -1,22 +1,32 @@
 ---
 title: Ludwig Van Beethoven
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Ludwig Van Beethoven
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - art
+- practice
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Ludwig Van Beethoven
 
+[[+Quotes MOC|Quotes]]
+
 quote:: Don't only practice your art, but force your way into its Secrets, for it and knowledge can raise men to the Divine.
+
+quote:: Music is a higher revelation than all wisdom and philosophy.

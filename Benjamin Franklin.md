@@ -1,21 +1,30 @@
 ---
 title: Benjamin Franklin
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Benjamin Franklin
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - praise
+- safety
+- wealth
+- action
+- philosophy
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Benjamin Franklin
 
@@ -33,3 +42,5 @@ quote:: Well done is better than well said.
 
 quote:: Be studious in your profession, and you will be learned. Be industrious and frugal and you will be rich. Be sober and temperate and you will be healthy. Be in general virtuous and you will be happy.  
 ^life
+
+quote:: There are three things extremely hard: steel, a diamond, and to know one's self.

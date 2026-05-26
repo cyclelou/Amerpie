@@ -1,21 +1,29 @@
 ---
 title: Plato
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-07'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Plato
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - courage
+- fear
+- kindness
+- struggle
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Plato
 
@@ -24,3 +32,5 @@ topics:
 quote:: We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light
 
 quote:: Always be kind, for everyone is fighting a hard battle.
+
+quote:: The heaviest penalty for declining to rule is to be ruled by someone inferior to yourself.

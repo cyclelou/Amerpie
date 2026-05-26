@@ -1,21 +1,29 @@
 ---
 title: Albert Camus
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-01-31'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Albert Camus
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - philosophy
+- positive-thinking
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC|Quotes]]
 
 # Albert Camus
 
@@ -24,3 +32,5 @@ quote:: "The welfare of humanity is always the alibi of tyrants."
 
 quote:: "In the depth of winter I finally learned that within me there was an invincible summer."  
 — Albert Camus
+
+quote:: In the depths of winter, I finally learned that within me there lay an invincible summer.

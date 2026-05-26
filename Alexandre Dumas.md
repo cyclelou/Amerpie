@@ -1,23 +1,32 @@
 ---
 title: Alexandre Dumas
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Alexandre Dumas
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - philosophy
   - truth
+dv_quote: All generalizations are dangerous, even this one.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
+[[+Quotes MOC|Quotes]]
+
 # Alexandre Dumas
 
 quote:: All generalizations are dangerous, even this one.
+
+quote:: I am not proud, but I am happy; and happiness blinds, I think, more than pride.

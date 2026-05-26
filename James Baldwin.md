@@ -1,21 +1,27 @@
 ---
 title: James Baldwin
-created: 2026-05-02
-updated: 2026-05-17
+created: '2023-12-20'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: James Baldwin
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - love
+- patriotism
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # James Baldwin
 
@@ -27,6 +33,10 @@ You think your pain and your heartbreak are unprecedented in the history of the 
 
 # James Baldwin
 
+[[+Quotes MOC|Quotes]]
+
 quote:: Not everything that is faced can be changed, but nothing can be changed until it is faced.
 
 quote:: You cannot fix what you will not face.
+
+quote:: You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was Dostoevsky and Dickens who taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive.

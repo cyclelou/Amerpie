@@ -1,20 +1,29 @@
 ---
 title: George Eliot
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: George Eliot
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # George Eliot
 
+[[+Quotes MOC|Quotes]]
+
 There are many victories worse than defeat.
+
+quote:: Don't judge a book by its cover.

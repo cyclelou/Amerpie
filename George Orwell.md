@@ -1,21 +1,28 @@
 ---
 title: George Orwell
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: George Orwell
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # George Orwell
+
+[[+Quotes MOC]]
 
 Some ideas are so stupid only intellectuals believe them.
 
@@ -28,3 +35,5 @@ Free speech is my right to say what you don't want to hear. ^4
 All the war-propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting.
 
 If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them. ^aeb101
+
+quote:: Perhaps one did not want to be loved so much as to be understood.

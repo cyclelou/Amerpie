@@ -1,23 +1,34 @@
 ---
 title: Douglas Adams
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Douglas Adams
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - time
+- deadlines
+- flying
+- design
+- possibility
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Douglas Adams
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Time is an illusion, lunchtime doubly so.
 
@@ -28,3 +39,5 @@ quote:: There is an art… to flying. It lies in learning how to throw yourself 
 quote:: A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.
 
 quote:: There is no point in using the word 'impossible' to describe something that has clearly happened.
+
+quote:: I may not have gone where I intended to go, but I think I have ended up where I needed to be.

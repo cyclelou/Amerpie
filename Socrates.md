@@ -1,24 +1,35 @@
 ---
 title: Socrates
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-01-31'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Socrates
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - exercise
+- self-improvement
+- strength
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Socrates
+
+[[+Quotes MOC|Quotes]]
 
 quote:: The unexamined life is not worth living.
 
 quote:: "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to go through life without finding the true strength they are capable of."
+
+quote:: I know that I know nothing.

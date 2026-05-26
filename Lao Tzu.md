@@ -1,16 +1,18 @@
 ---
 title: Lao Tzu
 created: 2023-12-20
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Lao Tzu
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - accomplishment
 dv_quote: Nature does not hurry, yet everything is accomplished.
@@ -18,8 +20,14 @@ dv_quote: Nature does not hurry, yet everything is accomplished.
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Lao Tzu
+
+[[+Quotes MOC]]
 
 quote:: Nature does not hurry, yet everything is accomplished.
 
 — Lao Tzu
+
+quote:: The journey of a thousand miles begins with a single step.

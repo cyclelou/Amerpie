@@ -1,23 +1,31 @@
 ---
 title: Rudyard Kipling
-created: 2026-03-30
-updated: 2026-05-17
+created: '2026-03-30'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
-  - quotes
+- quotes
 tool: []
-source: ""
+source: ''
 author: Rudyard Kipling
-url: ""
-tags: []
-dv_quote: Words are, of course, the most powerful drug used by mankind.
+url: ''
+tags:
+- area/quotes
+- kind/note
+
 topics:
-  - language
+- language
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Rudyard Kipling
 
+[[+Quotes MOC]]
+
 quote::"Words are, of course, the most powerful drug used by mankind."
+
+quote:: Words are, of course, the most powerful drug used by mankind.

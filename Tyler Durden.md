@@ -1,20 +1,29 @@
 ---
 title: Tyler Durden
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Tyler Durden
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Tyler Durden
 
+[[+Quotes MOC|Quotes]]
+
 Without pain, without sacrifice, we would have nothing.
+
+quote:: The first rule of Fight Club is: You do not talk about Fight Club. The second rule of Fight Club is: You do NOT talk about Fight Club.

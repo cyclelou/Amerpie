@@ -1,0 +1,23 @@
+---
+title: Homer
+created: 2026-05-25
+updated: 2026-05-25
+kind: note
+status: in_progress
+area:
+  - quotes
+tool: []
+source: ''
+author: Homer
+url: ''
+topics: []
+tags:
+  - area/quotes
+  - kind/note
+---
+
+# Homer
+
+[[+Quotes MOC|Quotes]]
+
+quote:: Out of sight, out of mind.

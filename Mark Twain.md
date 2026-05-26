@@ -1,43 +1,44 @@
 ---
 title: Mark Twain
-created: 2026-05-02
-updated: 2026-05-17
-kind:
-status:
-area:
-tool:
-source:
-author:
-url:
-tags:
----
-
----
-title: Mark Twain  
-created: 2024-02-09  
-updated: 2026-05-03  
-kind: note  
-status: in_progress  
+created: 2024-02-09
+updated: 2026-05-03
+kind: note
+status: active
 area:
   - ai
-  - quotes  
-tool: []  
-source: ""  
-author: Mark Twain  
-url: ""  
-tags: []  
+  - quotes
+tool: []
+source: ""
+author: Mark Twain
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- belief
-- courage
-- dreams
-- judgement
-- knowledge
-- work---
+  - belief
+  - courage
+  - dreams
+  - judgement
+  - knowledge
+  - work
+dv_quote:
+  - I am an old man and have known a great many troubles, but most of them never happened.
+  - It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so.
+  - So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+  - It is curious that physical courage should be so common in the world and moral courage so rare. ^courage
+  - It's easier to fool people than to convince them that they have been fooled.
+  - If it's your job to eat a frog, it's best to do it first thing in the morning. And If it's your job to eat two frogs, it's best to eat the biggest one first.
+---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Mark Twain
+
+[[+Quotes MOC|Quotes]]
 
 quote:: I am an old man and have known a great many troubles, but most of them never happened.
 
@@ -51,3 +52,5 @@ quote:: It's easier to fool people than to convince them that they have been foo
 (note: [NOT actually](https://quoteinvestigator.com/2020/12/23/fooled/) a Mark Twain quote, but a delightful troll)
 
 quote:: "If it's your job to eat a frog, it's best to do it first thing in the morning. And If it's your job to eat two frogs, it's best to eat the biggest one first."
+
+quote:: Good friends, good books and a sleepy conscience: this is the ideal life.

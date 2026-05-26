@@ -1,21 +1,27 @@
 ---
 title: Aristotle
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-01-31'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Aristotle
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - education
+- philosophy
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Aristotle
 
@@ -23,6 +29,10 @@ quote:: It is the mark of an educated mind to be able to entertain a thought wit
 
 # Aristotle
 
+[[+Quotes MOC|Quotes]]  
+
 If you want a virtue, act as if you already have it and then it will be yours.
 
 Friendship is a single soul dwelling in two bodies.
+
+quote:: Know thyself.

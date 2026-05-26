@@ -1,20 +1,27 @@
 ---
 title: Warren Buffett
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-01-31'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Warren Buffett
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - finance
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Warren Buffett
+
+quote:: Someone's sitting in the shade today because someone planted a tree a long time ago.

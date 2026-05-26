@@ -1,27 +1,34 @@
 ---
 title: Marcus Aurelius
-created: 2024-01-31
-updated: 2026-05-17
+created: '2024-01-31'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
-  - quotes
+- quotes
 tool: []
-source: ""
+source: ''
 author: Marcus Aurelius
-url: ""
-tags: []
-dv_quote:
-  - "Remember this: that very little is needed to make a happy life."
-  - He who lives in harmony with himself lives in harmony with the world.
+url: ''
+tags:
+- area/quotes
+- kind/note
+
 topics:
-  - happiness
+- happiness
+- harmony
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Marcus Aurelius
+
+[[+Quotes MOC]]
 
 quote:: Remember this: that very little is needed to make a happy life.
 
 quote:: He who lives in harmony with himself lives in harmony with the world.
+
+quote:: You have power over your mind — not outside events. Realize this, and you will find strength.

@@ -1,21 +1,28 @@
 ---
 title: J.R.R. Tolkien
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: J.R.R. Tolkien
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # J.R.R. Tolkien
+
+[[+Quotes MOC|Quotes]]
 
 "I wish it need not have happened in my time," said Frodo.  
 "So do I," said Gandalf, "and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us."
@@ -24,3 +31,5 @@ I give hope to men, I keep none for myself. (Aragorn)
 
 One writes such a story not out of the leaves of trees still to be observed, nor by means of botany and soil-science; but it grows like a seed in the dark of the leaf-mould of the mind: out of all that has been seen or thought or read, that has long ago been forgotten, descending into the deeps.  
 (From a Biography by Humphrey Carpenter)
+
+quote:: All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost.

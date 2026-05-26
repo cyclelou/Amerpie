@@ -1,0 +1,35 @@
+---
+title: Joe Scanlon
+created: 2026-05-07
+updated: 2026-05-25
+kind: note
+status: active
+area:
+  - quotes
+tool: []
+source: ''
+author: ''
+url: ''
+tags:
+  - area/quotes
+  - kind/note
+---
+
+[[maps-of-content/MOC Quotes]]
+
+# Joe Scanlon
+
+[@amerpie](https://mastodon.world/@amerpie@social.lol "@amerpie@social.lol") These are just a few of my favorite
+
+Argue for your limitations and, sure enough, they're yours.
+
+Richard Bach  
+Illusions: The Adventures of a Reluctant Messiah
+
+Any technique, however worthy and desirable, becomes a disease when the mind is obsessed with it.
+
+— Bruce Lee
+
+It is difficult to get a man to understand something when his salary depends upon his not understanding it.
+
+\- Upton Sinclair

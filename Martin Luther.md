@@ -1,22 +1,31 @@
 ---
 title: Martin Luther
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-02-09'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Martin Luther
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Martin Luther
+
+[[+Quotes MOC|Quotes]]
 
 Peace if possible, truth at all costs.
 
 We are all mere beggars telling other beggars where to find bread.
+
+quote:: A penny saved is better than a penny earned.

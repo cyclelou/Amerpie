@@ -1,21 +1,27 @@
 ---
 title: Will Durant
-created: 2026-05-02
-updated: 2026-05-17
+created: '2024-01-12'
+updated: '2026-05-03'
 kind: note
-status: in_progress
+status: active
 area:
 - quotes
 tool: []
 source: ''
 author: Will Durant
 url: ''
-tags: []
+tags:
+- area/quotes
+- kind/note
+
 topics:
 - health
+- mental-health
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Will Durant
 
@@ -25,4 +31,8 @@ topics:
 
 # Will Durant
 
+[[+Quotes MOC|Quotes]]
+
 We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+
+quote:: We are what we repeatedly do. Excellence, then, is not an act but a habit.
