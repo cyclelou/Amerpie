@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Daniel Defoe
 url: ''
-topics: []
+topics:
+  - wisdom
+  - time
+  - age
 tags:
   - area/quotes
   - kind/note

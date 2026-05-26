@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Serena Williams
 url: ''
-topics: []
+topics:
+  - resilience
+  - recovery
+  - courage
+  - sport
 tags:
   - area/quotes
   - kind/note

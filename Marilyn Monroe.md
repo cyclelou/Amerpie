@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Marilyn Monroe
 url: ''
-topics: []
+topics:
+  - truth
+  - love
+  - identity
 tags:
   - area/quotes
   - kind/note

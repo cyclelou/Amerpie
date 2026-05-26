@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Laura Dekker
 url: ''
-topics: []
+topics:
+  - readiness
+  - truth
+  - courage
 tags:
   - area/quotes
   - kind/note

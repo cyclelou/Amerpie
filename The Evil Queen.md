@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: The Evil Queen
 url: ''
-topics: []
+topics:
+  - beauty
+  - vanity
 tags:
   - area/quotes
   - kind/note

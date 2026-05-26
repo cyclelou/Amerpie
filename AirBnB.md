@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: AirBnB
 url: ''
-topics: []
+topics:
+  - belonging
+  - travel
+  - community
 tags:
   - area/quotes
   - kind/note

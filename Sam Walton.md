@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Sam Walton
 url: ''
-topics: []
+topics:
+  - business
+  - leadership
+  - loyalty
 tags:
   - area/quotes
   - kind/note

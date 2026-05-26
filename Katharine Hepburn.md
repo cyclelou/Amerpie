@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Katharine Hepburn
 url: ''
-topics: []
+topics:
+  - love
+  - giving
 tags:
   - area/quotes
   - kind/note

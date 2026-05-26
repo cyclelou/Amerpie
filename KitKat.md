@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: KitKat
 url: ''
-topics: []
+topics:
+  - rest
+  - balance
 tags:
   - area/quotes
   - kind/note

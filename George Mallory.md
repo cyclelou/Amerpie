@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: George Mallory
 url: ''
-topics: []
+topics:
+  - conquest
+  - self
+  - determination
 tags:
   - area/quotes
   - kind/note

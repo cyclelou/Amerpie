@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Sir Francis Drake
 url: ''
-topics: []
+topics:
+  - perseverance
+  - glory
+  - achievement
 tags:
   - area/quotes
   - kind/note

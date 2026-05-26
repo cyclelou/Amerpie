@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Mariah Carey
 url: ''
-topics: []
+topics:
+  - music
+  - love
 tags:
   - area/quotes
   - kind/note

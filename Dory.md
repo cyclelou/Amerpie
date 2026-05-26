@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Dory
 url: ''
-topics: []
+topics:
+  - perseverance
+  - optimism
 tags:
   - area/quotes
   - kind/note

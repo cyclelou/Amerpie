@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Barack Obama
 url: ''
-topics: []
+topics:
+  - change
+  - action
+  - perseverance
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: William Camden
 url: ''
-topics: []
+topics:
+  - opportunity
+  - effort
+  - time
 tags:
   - area/quotes
   - kind/note

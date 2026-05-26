@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Jacques Abbadie
 url: ''
-topics: []
+topics:
+  - deception
+  - truth
+  - time
 tags:
   - area/quotes
   - kind/note

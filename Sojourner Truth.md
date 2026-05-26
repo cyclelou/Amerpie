@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Sojourner Truth
 url: ''
-topics: []
+topics:
+  - equality
+  - women
+  - strength
 tags:
   - area/quotes
   - kind/note

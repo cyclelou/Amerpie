@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Jane Austen
 url: ''
-topics: []
+topics:
+  - reading
+  - books
+  - humor
 tags:
   - area/quotes
   - kind/note

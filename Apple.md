@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Apple
 url: ''
-topics: []
+topics:
+  - creativity
+  - thinking
+  - technology
 tags:
   - area/quotes
   - kind/note

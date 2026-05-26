@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Allen Saunders
 url: ''
-topics: []
+topics:
+  - life
+  - plans
+  - present
 tags:
   - area/quotes
   - kind/note

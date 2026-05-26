@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Pablo Neruda
 url: ''
-topics: []
+topics:
+  - love
+  - poetry
+  - intimacy
 tags:
   - area/quotes
   - kind/note

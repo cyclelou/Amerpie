@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Ada Lovelace
 url: ''
-topics: []
+topics:
+  - science
+  - thinking
+  - clarity
 tags:
   - area/quotes
   - kind/note

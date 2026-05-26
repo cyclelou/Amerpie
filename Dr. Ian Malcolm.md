@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Dr. Ian Malcolm
 url: ''
-topics: []
+topics:
+  - nature
+  - science
+  - life
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Nicholas Udall
 url: ''
-topics: []
+topics:
+  - perspective
+  - problems
+  - proportion
 tags:
   - area/quotes
   - kind/note

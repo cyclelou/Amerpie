@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Robin Williams
 url: ''
-topics: []
+topics:
+  - individuality
+  - humor
+  - courage
 tags:
   - area/quotes
   - kind/note

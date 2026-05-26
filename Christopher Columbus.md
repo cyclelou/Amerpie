@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Christopher Columbus
 url: ''
-topics: []
+topics:
+  - discovery
+  - exploration
+  - travel
 tags:
   - area/quotes
   - kind/note

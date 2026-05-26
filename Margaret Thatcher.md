@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Margaret Thatcher
 url: ''
-topics: []
+topics:
+  - women
+  - politics
+  - leadership
+  - action
 tags:
   - area/quotes
   - kind/note

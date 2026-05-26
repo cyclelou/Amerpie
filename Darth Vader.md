@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Darth Vader
 url: ''
-topics: []
+topics:
+  - family
+  - revelation
+  - power
 tags:
   - area/quotes
   - kind/note

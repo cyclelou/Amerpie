@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Maria Sharapova
 url: ''
-topics: []
+topics:
+  - control
+  - truth
+  - effort
+  - sport
 tags:
   - area/quotes
   - kind/note

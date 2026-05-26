@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Hillary Clinton
 url: ''
-topics: []
+topics:
+  - freedom
+  - women
+  - speech
+  - rights
 tags:
   - area/quotes
   - kind/note

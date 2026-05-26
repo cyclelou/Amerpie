@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Claude Monet
 url: ''
-topics: []
+topics:
+  - growth
+  - learning
+  - regrets
+  - art
 tags:
   - area/quotes
   - kind/note

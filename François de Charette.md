@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: François de Charette
 url: ''
-topics: []
+topics:
+  - sacrifice
+  - creation
+  - necessity
 tags:
   - area/quotes
   - kind/note

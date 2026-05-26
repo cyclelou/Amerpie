@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: George R.R. Martin
 url: ''
-topics: []
+topics:
+  - reading
+  - life
+  - death
 tags:
   - area/quotes
   - kind/note

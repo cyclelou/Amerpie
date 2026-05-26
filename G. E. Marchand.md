@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: G. E. Marchand
 url: ''
-topics: []
+topics:
+  - life
+  - death
+  - time
 tags:
   - area/quotes
   - kind/note

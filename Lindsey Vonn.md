@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Lindsey Vonn
 url: ''
-topics: []
+topics:
+  - focus
+  - presence
+  - mindfulness
+  - sport
 tags:
   - area/quotes
   - kind/note

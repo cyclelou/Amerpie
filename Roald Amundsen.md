@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Roald Amundsen
 url: ''
-topics: []
+topics:
+  - preparation
+  - victory
+  - luck
+  - planning
 tags:
   - area/quotes
   - kind/note

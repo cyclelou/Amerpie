@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Frida Kahlo
 url: ''
-topics: []
+topics:
+  - freedom
+  - perseverance
+  - self
 tags:
   - area/quotes
   - kind/note

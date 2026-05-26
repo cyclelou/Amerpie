@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Napoleon Bonaparte
 url: ''
-topics: []
+topics:
+  - war
+  - military
+  - strategy
+  - mistakes
 tags:
   - area/quotes
   - kind/note

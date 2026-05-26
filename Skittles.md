@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Skittles
 url: ''
-topics: []
+topics:
+  - taste
+  - joy
 tags:
   - area/quotes
   - kind/note

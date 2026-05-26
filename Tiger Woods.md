@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Tiger Woods
 url: ''
-topics: []
+topics:
+  - improvement
+  - growth
+  - perseverance
+  - sport
 tags:
   - area/quotes
   - kind/note

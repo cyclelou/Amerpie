@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Raphael
 url: ''
-topics: []
+topics:
+  - art
+  - creation
+  - presence
 tags:
   - area/quotes
   - kind/note

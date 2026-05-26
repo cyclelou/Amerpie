@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Nicolaus Copernicus
 url: ''
-topics: []
+topics:
+  - science
+  - knowledge
+  - nature
 tags:
   - area/quotes
   - kind/note

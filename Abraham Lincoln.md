@@ -14,10 +14,9 @@ tags:
   - area/quotes
   - kind/note
 topics:
+  - action
+  - courage
   - responsibility
-  - wisdom
-  - character
-  - success
 dv_quote:
   - You cannot escape the responsibility of tomorrow by evading it today.
   - I have been driven many times upon my knees by the overwhelming conviction that I had no where else to go. My own wisdom and that of all about me seemed insufficient for that day.

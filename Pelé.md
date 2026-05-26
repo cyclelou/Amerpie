@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Pelé
 url: ''
-topics: []
+topics:
+  - victory
+  - happiness
+  - difficulty
+  - sport
 tags:
   - area/quotes
   - kind/note

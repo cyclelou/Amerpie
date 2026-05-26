@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Celine Dion
 url: ''
-topics: []
+topics:
+  - love
+  - music
 tags:
   - area/quotes
   - kind/note

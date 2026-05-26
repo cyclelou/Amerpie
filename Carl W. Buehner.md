@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Carl W. Buehner
 url: ''
-topics: []
+topics:
+  - feelings
+  - memory
+  - kindness
 tags:
   - area/quotes
   - kind/note

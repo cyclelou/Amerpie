@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Genghis Khan
 url: ''
-topics: []
+topics:
+  - war
+  - military
+  - punishment
+  - power
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Vyasa
 url: ''
-topics: []
+topics:
+  - work
+  - duty
+  - philosophy
 tags:
   - area/quotes
   - kind/note

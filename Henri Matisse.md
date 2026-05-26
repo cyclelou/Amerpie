@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Henri Matisse
 url: ''
-topics: []
+topics:
+  - beauty
+  - nature
+  - gratitude
+  - art
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Jeff Bezos
 url: ''
-topics: []
+topics:
+  - truth
+  - commitment
+  - energy
 tags:
   - area/quotes
   - kind/note

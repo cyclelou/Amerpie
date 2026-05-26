@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: William Jenkyn
 url: ''
-topics: []
+topics:
+  - relationships
+  - family
+  - loyalty
 tags:
   - area/quotes
   - kind/note

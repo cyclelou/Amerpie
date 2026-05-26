@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Albus Dumbledore
 url: ''
-topics: []
+topics:
+  - reality
+  - imagination
+  - wisdom
 tags:
   - area/quotes
   - kind/note

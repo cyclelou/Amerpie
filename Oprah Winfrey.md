@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Oprah Winfrey
 url: ''
-topics: []
+topics:
+  - failure
+  - wisdom
+  - experience
 tags:
   - area/quotes
   - kind/note

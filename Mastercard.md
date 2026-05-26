@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Mastercard
 url: ''
-topics: []
+topics:
+  - money
+  - value
+  - meaning
 tags:
   - area/quotes
   - kind/note

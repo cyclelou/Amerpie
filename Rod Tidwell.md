@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Rod Tidwell
 url: ''
-topics: []
+topics:
+  - money
+  - motivation
 tags:
   - area/quotes
   - kind/note

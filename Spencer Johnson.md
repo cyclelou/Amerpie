@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Spencer Johnson
 url: ''
-topics: []
+topics:
+  - fear
+  - decisions
+  - courage
 tags:
   - area/quotes
   - kind/note

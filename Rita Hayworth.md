@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Rita Hayworth
 url: ''
-topics: []
+topics:
+  - love
+  - recognition
+  - identity
 tags:
   - area/quotes
   - kind/note

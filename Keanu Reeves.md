@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Keanu Reeves
 url: ''
-topics: []
+topics:
+  - death
+  - love
+  - life
 tags:
   - area/quotes
   - kind/note

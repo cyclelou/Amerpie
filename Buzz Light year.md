@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Buzz Light year
 url: ''
-topics: []
+topics:
+  - dreams
+  - possibility
+  - infinity
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Katherine Johnson
 url: ''
-topics: []
+topics:
+  - work
+  - happiness
+  - effort
 tags:
   - area/quotes
   - kind/note

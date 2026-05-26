@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Medieval French Proverb
 url: ''
-topics: []
+topics:
+  - perseverance
+  - time
+  - achievement
 tags:
   - area/quotes
   - kind/note

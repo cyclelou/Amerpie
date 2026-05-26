@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: John 3:16
 url: ''
-topics: []
+topics:
+  - religion
+  - faith
+  - love
+  - salvation
 tags:
   - area/quotes
   - kind/note

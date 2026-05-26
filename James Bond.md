@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: James Bond
 url: ''
-topics: []
+topics:
+  - humor
+  - style
 tags:
   - area/quotes
   - kind/note

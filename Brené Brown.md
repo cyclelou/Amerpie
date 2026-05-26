@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Brené Brown
 url: ''
-topics: []
+topics:
+  - parenting
+  - love
+  - vulnerability
+  - worth
 tags:
   - area/quotes
   - kind/note

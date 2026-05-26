@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Gordon Gekko
 url: ''
-topics: []
+topics:
+  - wealth
+  - business
+  - greed
 tags:
   - area/quotes
   - kind/note

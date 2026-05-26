@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Bessie Coleman
 url: ''
-topics: []
+topics:
+  - freedom
+  - flying
+  - prejudice
 tags:
   - area/quotes
   - kind/note

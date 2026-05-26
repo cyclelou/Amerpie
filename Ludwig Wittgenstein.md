@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Ludwig Wittgenstein
 url: ''
-topics: []
+topics:
+  - language
+  - philosophy
+  - limits
 tags:
   - area/quotes
   - kind/note

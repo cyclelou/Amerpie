@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Roger Federer
 url: ''
-topics: []
+topics:
+  - reputation
+  - image
+  - perseverance
+  - sport
 tags:
   - area/quotes
   - kind/note

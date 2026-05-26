@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Usain Bolt
 url: ''
-topics: []
+topics:
+  - goals
+  - success
+  - desire
+  - sport
 tags:
   - area/quotes
   - kind/note

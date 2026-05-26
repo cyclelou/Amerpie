@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Paulo Coelho
 url: ''
-topics: []
+topics:
+  - desire
+  - destiny
+  - possibility
 tags:
   - area/quotes
   - kind/note

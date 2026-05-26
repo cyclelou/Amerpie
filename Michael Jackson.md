@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Michael Jackson
 url: ''
-topics: []
+topics:
+  - change
+  - self-improvement
+  - music
 tags:
   - area/quotes
   - kind/note

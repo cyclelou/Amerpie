@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Muhammad
 url: ''
-topics: []
+topics:
+  - religion
+  - faith
+  - kindness
+  - mercy
 tags:
   - area/quotes
   - kind/note

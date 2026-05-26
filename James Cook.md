@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: James Cook
 url: ''
-topics: []
+topics:
+  - exploration
+  - ambition
+  - goals
 tags:
   - area/quotes
   - kind/note

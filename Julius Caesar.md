@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Julius Caesar
 url: ''
-topics: []
+topics:
+  - war
+  - history
+  - military
+  - victory
 tags:
   - area/quotes
   - kind/note

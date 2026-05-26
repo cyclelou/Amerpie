@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Quintus Curtius Rufus
 url: ''
-topics: []
+topics:
+  - depth
+  - character
+  - personality
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: B.B. King
 url: ''
-topics: []
+topics:
+  - learning
+  - education
+  - music
 tags:
   - area/quotes
   - kind/note

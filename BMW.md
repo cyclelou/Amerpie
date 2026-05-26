@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: BMW
 url: ''
-topics: []
+topics:
+  - driving
+  - pleasure
+  - technology
 tags:
   - area/quotes
   - kind/note

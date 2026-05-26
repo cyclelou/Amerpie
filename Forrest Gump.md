@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Forrest Gump
 url: ''
-topics: []
+topics:
+  - life
+  - wisdom
+  - humor
 tags:
   - area/quotes
   - kind/note

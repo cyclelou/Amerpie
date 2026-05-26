@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Epictetus
 url: ''
-topics: []
+topics:
+  - philosophy
+  - perspective
+  - thinking
 tags:
   - area/quotes
   - kind/note

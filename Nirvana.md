@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Nirvana
 url: ''
-topics: []
+topics:
+  - music
+  - culture
 tags:
   - area/quotes
   - kind/note

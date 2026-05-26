@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Kentucky Fried Chicken
 url: ''
-topics: []
+topics:
+  - enjoyment
+  - food
 tags:
   - area/quotes
   - kind/note

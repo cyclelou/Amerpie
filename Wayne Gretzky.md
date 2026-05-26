@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Wayne Gretzky
 url: ''
-topics: []
+topics:
+  - sport
+  - success
+  - action
+  - risk
 tags:
   - area/quotes
   - kind/note

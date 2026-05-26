@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Rob Siltanen & Lee Clow
 url: ''
-topics: []
+topics:
+  - creativity
+  - change
+  - possibility
+  - vision
 tags:
   - area/quotes
   - kind/note

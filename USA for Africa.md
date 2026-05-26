@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: USA for Africa
 url: ''
-topics: []
+topics:
+  - togetherness
+  - giving
+  - hope
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Queen
 url: ''
-topics: []
+topics:
+  - music
+  - reality
+  - life
 tags:
   - area/quotes
   - kind/note

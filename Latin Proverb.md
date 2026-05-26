@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Latin Proverb
 url: ''
-topics: []
+topics:
+  - focus
+  - goals
+  - patience
 tags:
   - area/quotes
   - kind/note

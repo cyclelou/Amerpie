@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Lance Armstrong
 url: ''
-topics: []
+topics:
+  - pain
+  - perseverance
+  - quitting
+  - sport
 tags:
   - area/quotes
   - kind/note

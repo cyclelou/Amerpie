@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Jim Thorpe
 url: ''
-topics: []
+topics:
+  - sport
+  - play
+  - nature
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Diogenes
 url: ''
-topics: []
+topics:
+  - identity
+  - freedom
+  - philosophy
 tags:
   - area/quotes
   - kind/note

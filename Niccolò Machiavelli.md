@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Niccolò Machiavelli
 url: ''
-topics: []
+topics:
+  - leadership
+  - fear
+  - politics
+  - safety
 tags:
   - area/quotes
   - kind/note

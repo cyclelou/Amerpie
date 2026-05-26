@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Attila the Hun
 url: ''
-topics: []
+topics:
+  - war
+  - military
+  - power
 tags:
   - area/quotes
   - kind/note

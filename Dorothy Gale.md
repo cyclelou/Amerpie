@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Dorothy Gale
 url: ''
-topics: []
+topics:
+  - home
+  - journey
+  - wonder
 tags:
   - area/quotes
   - kind/note

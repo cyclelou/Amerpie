@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Welsh Proverb
 url: ''
-topics: []
+topics:
+  - health
+  - prevention
 tags:
   - area/quotes
   - kind/note

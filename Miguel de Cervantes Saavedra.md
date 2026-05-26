@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Miguel de Cervantes Saavedra
 url: ''
-topics: []
+topics:
+  - truth
+  - lies
+  - justice
 tags:
   - area/quotes
   - kind/note

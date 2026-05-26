@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Arianna Huffington
 url: ''
-topics: []
+topics:
+  - work
+  - time
+  - quality
 tags:
   - area/quotes
   - kind/note

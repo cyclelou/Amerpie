@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Don Vito Corleone
 url: ''
-topics: []
+topics:
+  - power
+  - leadership
+  - persuasion
 tags:
   - area/quotes
   - kind/note

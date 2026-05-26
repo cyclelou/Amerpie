@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Narcotics Anonymous
 url: ''
-topics: []
+topics:
+  - insanity
+  - repetition
+  - expectations
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Ancient Proverb
 url: ''
-topics: []
+topics:
+  - presentation
+  - appearance
 tags:
   - area/quotes
   - kind/note

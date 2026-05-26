@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Catherine the Great
 url: ''
-topics: []
+topics:
+  - imagination
+  - thinking
+  - leadership
 tags:
   - area/quotes
   - kind/note

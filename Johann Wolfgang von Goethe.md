@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Johann Wolfgang von Goethe
 url: ''
-topics: []
+topics:
+  - change
+  - self-improvement
+  - relationships
 tags:
   - area/quotes
   - kind/note

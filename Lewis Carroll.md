@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Lewis Carroll
 url: ''
-topics: []
+topics:
+  - change
+  - identity
+  - time
 tags:
   - area/quotes
   - kind/note

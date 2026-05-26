@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Marcus Tullius Cicero
 url: ''
-topics: []
+topics:
+  - books
+  - knowledge
+  - friendship
 tags:
   - area/quotes
   - kind/note

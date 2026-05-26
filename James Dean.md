@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: James Dean
 url: ''
-topics: []
+topics:
+  - life
+  - dreams
+  - courage
 tags:
   - area/quotes
   - kind/note

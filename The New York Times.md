@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: The New York Times
 url: ''
-topics: []
+topics:
+  - journalism
+  - news
+  - truth
 tags:
   - area/quotes
   - kind/note

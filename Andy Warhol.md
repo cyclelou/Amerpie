@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Andy Warhol
 url: ''
-topics: []
+topics:
+  - change
+  - time
+  - action
+  - art
 tags:
   - area/quotes
   - kind/note

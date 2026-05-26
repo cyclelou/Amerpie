@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: McDonald's
 url: ''
-topics: []
+topics:
+  - enjoyment
+  - food
 tags:
   - area/quotes
   - kind/note

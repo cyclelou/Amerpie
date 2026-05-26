@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Agatha Christie
 url: ''
-topics: []
+topics:
+  - love
+  - humor
+  - relationships
 tags:
   - area/quotes
   - kind/note

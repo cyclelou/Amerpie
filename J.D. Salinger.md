@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: J.D. Salinger
 url: ''
-topics: []
+topics:
+  - books
+  - reading
+  - friendship
 tags:
   - area/quotes
   - kind/note

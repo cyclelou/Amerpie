@@ -13,11 +13,8 @@ url: ''
 tags:
   - area/quotes
   - kind/note
-topics: []
----
-
-# Squire Bill Widener
-
-[[+Quotes MOC|Quotes]]
-
+topics:
+  - action
+  - possibility
+  - pragmatism
 quote:: Do what you can, with what you've got, where you are.

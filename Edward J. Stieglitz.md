@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Edward J. Stieglitz
 url: ''
-topics: []
+topics:
+  - life
+  - years
+  - quality
 tags:
   - area/quotes
   - kind/note

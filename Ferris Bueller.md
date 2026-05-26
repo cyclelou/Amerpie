@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Ferris Bueller
 url: ''
-topics: []
+topics:
+  - life
+  - time
+  - mindfulness
 tags:
   - area/quotes
   - kind/note

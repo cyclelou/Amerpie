@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Homer
 url: ''
-topics: []
+topics:
+  - memory
+  - sight
 tags:
   - area/quotes
   - kind/note

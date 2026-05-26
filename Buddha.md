@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Buddha
 url: ''
-topics: []
+topics:
+  - action
+  - religion
+  - wisdom
+  - words
 tags:
   - area/quotes
   - kind/note

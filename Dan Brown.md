@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Dan Brown
 url: ''
-topics: []
+topics:
+  - fear
+  - desire
+  - psychology
 tags:
   - area/quotes
   - kind/note

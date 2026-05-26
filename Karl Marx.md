@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Karl Marx
 url: ''
-topics: []
+topics:
+  - politics
+  - freedom
+  - revolution
+  - work
 tags:
   - area/quotes
   - kind/note

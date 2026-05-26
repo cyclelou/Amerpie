@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Tony Hawk
 url: ''
-topics: []
+topics:
+  - practice
+  - persistence
+  - sport
 tags:
   - area/quotes
   - kind/note

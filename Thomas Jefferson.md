@@ -13,6 +13,10 @@ url: ''
 tags:
 - area/quotes
 - kind/note
+topics:
+- freedom
+- equality
+- rights
 
 ---
 

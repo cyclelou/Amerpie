@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Joe E. Lewis
 url: ''
-topics: []
+topics:
+  - life
+  - wisdom
 tags:
   - area/quotes
   - kind/note

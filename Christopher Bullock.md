@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Christopher Bullock
 url: ''
-topics: []
+topics:
+  - certainty
+  - death
+  - taxes
 tags:
   - area/quotes
   - kind/note

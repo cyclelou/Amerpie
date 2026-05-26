@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Billie Jean King
 url: ''
-topics: []
+topics:
+  - vision
+  - inspiration
+  - self-realization
+  - sport
 tags:
   - area/quotes
   - kind/note

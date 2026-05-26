@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: John Adams
 url: ''
-topics: []
+topics:
+  - practice
+  - perfection
+  - improvement
 tags:
   - area/quotes
   - kind/note

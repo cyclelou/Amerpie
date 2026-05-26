@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: William Bruce Cameron
 url: ''
-topics: []
+topics:
+  - value
+  - measurement
+  - knowledge
 tags:
   - area/quotes
   - kind/note

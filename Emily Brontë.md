@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Emily Brontë
 url: ''
-topics: []
+topics:
+  - love
+  - soul
+  - identity
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Stan Lee
 url: ''
-topics: []
+topics:
+  - responsibility
+  - imagination
+  - possibility
 tags:
   - area/quotes
   - kind/note

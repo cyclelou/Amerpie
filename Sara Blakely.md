@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Sara Blakely
 url: ''
-topics: []
+topics:
+  - failure
+  - learning
+  - attitude
 tags:
   - area/quotes
   - kind/note

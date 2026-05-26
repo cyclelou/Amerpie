@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Jean-Jacques Rousseau
 url: ''
-topics: []
+topics:
+  - freedom
+  - politics
+  - philosophy
 tags:
   - area/quotes
   - kind/note

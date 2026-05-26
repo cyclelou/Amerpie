@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Richard Branson
 url: ''
-topics: []
+topics:
+  - learning
+  - failure
+  - action
 tags:
   - area/quotes
   - kind/note

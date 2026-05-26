@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Franklin D. Roosevelt
 url: ''
-topics: []
+topics:
+  - fear
+  - courage
+  - leadership
 tags:
   - area/quotes
   - kind/note

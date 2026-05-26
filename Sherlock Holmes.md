@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Sherlock Holmes
 url: ''
-topics: []
+topics:
+  - truth
+  - logic
+  - possibility
 tags:
   - area/quotes
   - kind/note

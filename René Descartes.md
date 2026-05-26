@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: René Descartes
 url: ''
-topics: []
+topics:
+  - philosophy
+  - thinking
+  - knowledge
 tags:
   - area/quotes
   - kind/note

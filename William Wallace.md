@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: William Wallace
 url: ''
-topics: []
+topics:
+  - freedom
+  - courage
+  - life
 tags:
   - area/quotes
   - kind/note

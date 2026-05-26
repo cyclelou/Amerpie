@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Arthur Brisbane
 url: ''
-topics: []
+topics:
+  - images
+  - words
+  - communication
 tags:
   - area/quotes
   - kind/note

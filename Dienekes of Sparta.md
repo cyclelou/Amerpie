@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Dienekes of Sparta
 url: ''
-topics: []
+topics:
+  - courage
+  - war
+  - military
 tags:
   - area/quotes
   - kind/note

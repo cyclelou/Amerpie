@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: John D. Rockefeller
 url: ''
-topics: []
+topics:
+  - success
+  - perseverance
+  - quality
 tags:
   - area/quotes
   - kind/note

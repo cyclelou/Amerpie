@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: William Ernest Henley
 url: ''
-topics: []
+topics:
+  - courage
+  - self
+  - strength
+  - determination
 tags:
   - area/quotes
   - kind/note

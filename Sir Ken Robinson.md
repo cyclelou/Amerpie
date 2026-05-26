@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Sir Ken Robinson
 url: ''
-topics: []
+topics:
+  - creativity
+  - education
+  - fear
+  - learning
 tags:
   - area/quotes
   - kind/note

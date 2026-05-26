@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Cristiano Ronaldo
 url: ''
-topics: []
+topics:
+  - strength
+  - motivation
+  - sport
 tags:
   - area/quotes
   - kind/note

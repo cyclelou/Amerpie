@@ -13,11 +13,8 @@ url: ''
 tags:
   - area/quotes
   - kind/note
-topics: []
----
-
-# Stephen R. Covey
-
-[[+Quotes MOC|Quotes]]
-
+topics:
+  - communication
+  - listening
+  - understanding
 quote:: Most people do not listen with the intent to understand; they listen with the intent to reply.

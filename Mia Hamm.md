@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Mia Hamm
 url: ''
-topics: []
+topics:
+  - self-knowledge
+  - focus
+  - capability
+  - sport
 tags:
   - area/quotes
   - kind/note

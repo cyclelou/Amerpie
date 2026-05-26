@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Isabella Bird
 url: ''
-topics: []
+topics:
+  - beauty
+  - nature
+  - dreams
+  - travel
 tags:
   - area/quotes
   - kind/note

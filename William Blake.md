@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: William Blake
 url: ''
-topics: []
+topics:
+  - nature
+  - wonder
+  - poetry
+  - imagination
 tags:
   - area/quotes
   - kind/note

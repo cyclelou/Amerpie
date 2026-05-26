@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Disneyland
 url: ''
-topics: []
+topics:
+  - happiness
+  - place
+  - joy
 tags:
   - area/quotes
   - kind/note

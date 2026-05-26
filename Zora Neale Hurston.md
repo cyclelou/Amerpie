@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Zora Neale Hurston
 url: ''
-topics: []
+topics:
+  - story
+  - writing
+  - suffering
 tags:
   - area/quotes
   - kind/note

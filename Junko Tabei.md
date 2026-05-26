@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Junko Tabei
 url: ''
-topics: []
+topics:
+  - perseverance
+  - determination
+  - sport
 tags:
   - area/quotes
   - kind/note

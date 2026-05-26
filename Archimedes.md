@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Archimedes
 url: ''
-topics: []
+topics:
+  - science
+  - action
+  - possibility
 tags:
   - area/quotes
   - kind/note

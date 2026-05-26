@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Aretha Franklin
 url: ''
-topics: []
+topics:
+  - music
+  - respect
+  - self
 tags:
   - area/quotes
   - kind/note

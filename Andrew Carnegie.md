@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Andrew Carnegie
 url: ''
-topics: []
+topics:
+  - optimism
+  - happiness
+  - attitude
 tags:
   - area/quotes
   - kind/note

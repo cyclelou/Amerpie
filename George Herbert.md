@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: George Herbert
 url: ''
-topics: []
+topics:
+  - determination
+  - possibility
+  - will
 tags:
   - area/quotes
   - kind/note

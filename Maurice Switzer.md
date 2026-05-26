@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Maurice Switzer
 url: ''
-topics: []
+topics:
+  - silence
+  - wisdom
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: John B. Finch
 url: ''
-topics: []
+topics:
+  - freedom
+  - rights
+  - limits
 tags:
   - area/quotes
   - kind/note

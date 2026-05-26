@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Clare Boothe Luce
 url: ''
-topics: []
+topics:
+  - simplicity
+  - design
+  - sophistication
 tags:
   - area/quotes
   - kind/note

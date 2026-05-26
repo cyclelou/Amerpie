@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Rosalind Franklin
 url: ''
-topics: []
+topics:
+  - science
+  - education
+  - knowledge
 tags:
   - area/quotes
   - kind/note

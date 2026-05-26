@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Martha Stewart
 url: ''
-topics: []
+topics:
+  - decisions
+  - planning
+  - wisdom
 tags:
   - area/quotes
   - kind/note

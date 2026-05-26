@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Epicurus
 url: ''
-topics: []
+topics:
+  - satisfaction
+  - wealth
+  - desire
+  - philosophy
 tags:
   - area/quotes
   - kind/note

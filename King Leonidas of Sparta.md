@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: King Leonidas of Sparta
 url: ''
-topics: []
+topics:
+  - courage
+  - war
+  - military
+  - death
 tags:
   - area/quotes
   - kind/note

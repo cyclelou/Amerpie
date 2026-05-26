@@ -15,19 +15,9 @@ tags:
 - kind/note
 
 topics:
-- praise
-- safety
-- wealth
-- action
-- philosophy
----
-
-[[maps-of-content/MOC Quotes]]
-
-
-
-# Benjamin Franklin
-
+  - knowledge
+  - self
+  - character
 quote:: I will speak ill of no man, and speak all the good I know of everybody.  
 ^praise
 

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Fyodor Dostoevsky
 url: ''
-topics: []
+topics:
+  - freedom
+  - self-determination
+  - philosophy
 tags:
   - area/quotes
   - kind/note

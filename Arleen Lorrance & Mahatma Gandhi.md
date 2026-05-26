@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Arleen Lorrance & Mahatma Gandhi
 url: ''
-topics: []
+topics:
+  - change
+  - action
+  - self-improvement
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Johann Sebastian Bach
 url: ''
-topics: []
+topics:
+  - work
+  - effort
+  - music
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: T. A. Borman
 url: ''
-topics: []
+topics:
+  - happiness
+  - comparison
+  - perspective
 tags:
   - area/quotes
   - kind/note

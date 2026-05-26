@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Bruce Wayne
 url: ''
-topics: []
+topics:
+  - identity
+  - action
+  - character
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Horace
 url: ''
-topics: []
+topics:
+  - life
+  - wisdom
+  - poetry
 tags:
   - area/quotes
   - kind/note

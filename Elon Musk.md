@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Elon Musk
 url: ''
-topics: []
+topics:
+  - risk
+  - importance
+  - success
 tags:
   - area/quotes
   - kind/note

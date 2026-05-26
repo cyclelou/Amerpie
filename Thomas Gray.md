@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Thomas Gray
 url: ''
-topics: []
+topics:
+  - knowledge
+  - happiness
+  - ignorance
 tags:
   - area/quotes
   - kind/note

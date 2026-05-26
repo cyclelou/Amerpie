@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Vincent van Gogh
 url: ''
-topics: []
+topics:
+  - action
+  - learning
+  - art
+  - courage
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Arthur Schopenhauer
 url: ''
-topics: []
+topics:
+  - talent
+  - genius
+  - imagination
 tags:
   - area/quotes
   - kind/note

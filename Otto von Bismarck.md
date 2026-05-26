@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Otto von Bismarck
 url: ''
-topics: []
+topics:
+  - war
+  - politics
+  - prevention
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Virgil
 url: ''
-topics: []
+topics:
+  - courage
+  - strength
+  - poetry
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Lou Gehrig
 url: ''
-topics: []
+topics:
+  - gratitude
+  - life
+  - perspective
 tags:
   - area/quotes
   - kind/note

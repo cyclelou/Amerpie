@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Whole Earth Catalog
 url: ''
-topics: []
+topics:
+  - curiosity
+  - learning
+  - hunger
 tags:
   - area/quotes
   - kind/note

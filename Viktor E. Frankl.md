@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Viktor E. Frankl
 url: ''
-topics: []
+topics:
+  - freedom
+  - meaning
+  - suffering
+  - attitude
 tags:
   - area/quotes
   - kind/note

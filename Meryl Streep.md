@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Meryl Streep
 url: ''
-topics: []
+topics:
+  - empathy
+  - humanity
+  - love
 tags:
   - area/quotes
   - kind/note

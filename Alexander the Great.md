@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Alexander the Great
 url: ''
-topics: []
+topics:
+  - courage
+  - possibility
+  - action
+  - military
 tags:
   - area/quotes
   - kind/note

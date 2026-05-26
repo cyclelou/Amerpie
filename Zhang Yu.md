@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Zhang Yu
 url: ''
-topics: []
+topics:
+  - strategy
+  - war
+  - victory
 tags:
   - area/quotes
   - kind/note

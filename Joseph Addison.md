@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Joseph Addison
 url: ''
-topics: []
+topics:
+  - gratitude
+  - feeding
 tags:
   - area/quotes
   - kind/note

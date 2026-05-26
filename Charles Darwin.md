@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Charles Darwin
 url: ''
-topics: []
+topics:
+  - time
+  - life
+  - wisdom
 tags:
   - area/quotes
   - kind/note

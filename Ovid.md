@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Ovid
 url: ''
-topics: []
+topics:
+  - perseverance
+  - effort
+  - time
 tags:
   - area/quotes
   - kind/note

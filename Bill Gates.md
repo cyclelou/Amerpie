@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Bill Gates
 url: ''
-topics: []
+topics:
+  - success
+  - failure
+  - learning
 tags:
   - area/quotes
   - kind/note

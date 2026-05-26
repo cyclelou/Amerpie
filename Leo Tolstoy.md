@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Leo Tolstoy
 url: ''
-topics: []
+topics:
+  - change
+  - self-improvement
 tags:
   - area/quotes
   - kind/note

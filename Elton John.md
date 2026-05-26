@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Elton John
 url: ''
-topics: []
+topics:
+  - music
+  - memory
+  - life
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Enid Blyton
 url: ''
-topics: []
+topics:
+  - perseverance
+  - attitude
+  - obstacles
 tags:
   - area/quotes
   - kind/note

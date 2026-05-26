@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: The Terminator
 url: ''
-topics: []
+topics:
+  - determination
+  - persistence
 tags:
   - area/quotes
   - kind/note

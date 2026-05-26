@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Maximus Decimus Meridius
 url: ''
-topics: []
+topics:
+  - war
+  - courage
+  - victory
 tags:
   - area/quotes
   - kind/note

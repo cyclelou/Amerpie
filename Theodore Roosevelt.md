@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Theodore Roosevelt
 url: ''
-topics: []
+topics:
+  - courage
+  - perseverance
+  - effort
+  - action
 tags:
   - area/quotes
   - kind/note

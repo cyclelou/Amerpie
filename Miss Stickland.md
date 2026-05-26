@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Miss Stickland
 url: ''
-topics: []
+topics:
+  - longing
+  - absence
+  - love
 tags:
   - area/quotes
   - kind/note

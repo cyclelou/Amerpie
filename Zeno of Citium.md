@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Zeno of Citium
 url: ''
-topics: []
+topics:
+  - communication
+  - wisdom
+  - listening
 tags:
   - area/quotes
   - kind/note

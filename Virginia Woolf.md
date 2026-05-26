@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Virginia Woolf
 url: ''
-topics: []
+topics:
+  - freedom
+  - reading
+  - mind
 tags:
   - area/quotes
   - kind/note

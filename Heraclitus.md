@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Heraclitus
 url: ''
-topics: []
+topics:
+  - change
+  - philosophy
+  - nature
 tags:
   - area/quotes
   - kind/note

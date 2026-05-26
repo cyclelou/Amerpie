@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Saint Ambrose of Milan
 url: ''
-topics: []
+topics:
+  - customs
+  - culture
+  - adaptation
 tags:
   - area/quotes
   - kind/note

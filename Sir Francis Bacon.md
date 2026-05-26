@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Sir Francis Bacon
 url: ''
-topics: []
+topics:
+  - knowledge
+  - science
+  - philosophy
+  - power
 tags:
   - area/quotes
   - kind/note

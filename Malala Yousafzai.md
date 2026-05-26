@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Malala Yousafzai
 url: ''
-topics: []
+topics:
+  - freedom
+  - speech
+  - resistance
+  - women
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Ray Kroc
 url: ''
-topics: []
+topics:
+  - success
+  - time
+  - perseverance
 tags:
   - area/quotes
   - kind/note

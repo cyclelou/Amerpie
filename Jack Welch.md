@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Jack Welch
 url: ''
-topics: []
+topics:
+  - leadership
+  - growth
+  - success
 tags:
   - area/quotes
   - kind/note

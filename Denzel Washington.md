@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Denzel Washington
 url: ''
-topics: []
+topics:
+  - action
+  - success
+  - goals
 tags:
   - area/quotes
   - kind/note

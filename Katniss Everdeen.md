@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Katniss Everdeen
 url: ''
-topics: []
+topics:
+  - courage
+  - resistance
+  - freedom
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Livy
 url: ''
-topics: []
+topics:
+  - time
+  - learning
+  - improvement
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Alice and the Cheshire Cat
 url: ''
-topics: []
+topics:
+  - decisions
+  - journey
+  - freedom
 tags:
   - area/quotes
   - kind/note

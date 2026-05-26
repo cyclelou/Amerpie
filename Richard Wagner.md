@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Richard Wagner
 url: ''
-topics: []
+topics:
+  - mastery
+  - music
+  - standards
 tags:
   - area/quotes
   - kind/note

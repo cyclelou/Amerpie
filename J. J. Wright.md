@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: J. J. Wright
 url: ''
-topics: []
+topics:
+  - books
+  - reading
+  - time
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Rocky Balboa
 url: ''
-topics: []
+topics:
+  - perseverance
+  - strength
+  - determination
 tags:
   - area/quotes
   - kind/note

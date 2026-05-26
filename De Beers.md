@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: De Beers
 url: ''
-topics: []
+topics:
+  - love
+  - diamonds
+  - forever
 tags:
   - area/quotes
   - kind/note

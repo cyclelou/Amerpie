@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Edvard Munch
 url: ''
-topics: []
+topics:
+  - death
+  - nature
+  - life
+  - art
 tags:
   - area/quotes
   - kind/note

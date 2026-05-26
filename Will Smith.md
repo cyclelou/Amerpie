@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Will Smith
 url: ''
-topics: []
+topics:
+  - failure
+  - learning
+  - success
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Michael Phelps
 url: ''
-topics: []
+topics:
+  - imagination
+  - possibility
+  - limits
+  - sport
 tags:
   - area/quotes
   - kind/note

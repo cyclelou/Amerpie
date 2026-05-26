@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Mother Teresa
 url: ''
-topics: []
+topics:
+  - love
+  - action
+  - kindness
 tags:
   - area/quotes
   - kind/note

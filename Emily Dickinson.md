@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Emily Dickinson
 url: ''
-topics: []
+topics:
+  - hope
+  - faith
+  - soul
+  - poetry
 tags:
   - area/quotes
   - kind/note

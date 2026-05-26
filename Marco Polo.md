@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Marco Polo
 url: ''
-topics: []
+topics:
+  - wonder
+  - experience
+  - travel
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: RedBull
 url: ''
-topics: []
+topics:
+  - energy
+  - possibility
 tags:
   - area/quotes
   - kind/note

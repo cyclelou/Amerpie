@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Dante Alighieri
 url: ''
-topics: []
+topics:
+  - hope
+  - poetry
+  - death
 tags:
   - area/quotes
   - kind/note

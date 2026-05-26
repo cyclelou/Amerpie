@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Florence Griffith Joyner
 url: ''
-topics: []
+topics:
+  - joy
+  - fun
+  - happiness
+  - sport
 tags:
   - area/quotes
   - kind/note

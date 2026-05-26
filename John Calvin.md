@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: John Calvin
 url: ''
-topics: []
+topics:
+  - faith
+  - salvation
+  - action
 tags:
   - area/quotes
   - kind/note

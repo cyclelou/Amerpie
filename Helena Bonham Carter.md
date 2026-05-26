@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Helena Bonham Carter
 url: ''
-topics: []
+topics:
+  - love
+  - kindness
 tags:
   - area/quotes
   - kind/note

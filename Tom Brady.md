@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Tom Brady
 url: ''
-topics: []
+topics:
+  - perseverance
+  - will
+  - love
+  - sport
 tags:
   - area/quotes
   - kind/note

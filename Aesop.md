@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Aesop
 url: ''
-topics: []
+topics:
+  - wisdom
+  - truth
+  - morality
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Joseph Haydn
 url: ''
-topics: []
+topics:
+  - music
+  - language
 tags:
   - area/quotes
   - kind/note

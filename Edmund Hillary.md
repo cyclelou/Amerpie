@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Edmund Hillary
 url: ''
-topics: []
+topics:
+  - luck
+  - dreams
+  - achievement
+  - travel
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Greta Thunberg
 url: ''
-topics: []
+topics:
+  - environment
+  - youth
+  - responsibility
+  - future
 tags:
   - area/quotes
   - kind/note

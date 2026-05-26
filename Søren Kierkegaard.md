@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Søren Kierkegaard
 url: ''
-topics: []
+topics:
+  - life
+  - philosophy
+  - time
+  - understanding
 tags:
   - area/quotes
   - kind/note

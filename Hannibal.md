@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Hannibal
 url: ''
-topics: []
+topics:
+  - perseverance
+  - action
+  - will
+  - military
 tags:
   - area/quotes
   - kind/note

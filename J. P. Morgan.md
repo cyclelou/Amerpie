@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: J. P. Morgan
 url: ''
-topics: []
+topics:
+  - character
+  - trust
+  - money
 tags:
   - area/quotes
   - kind/note

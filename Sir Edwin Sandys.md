@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Sir Edwin Sandys
 url: ''
-topics: []
+topics:
+  - honesty
+  - policy
+  - ethics
 tags:
   - area/quotes
   - kind/note

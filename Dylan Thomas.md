@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Dylan Thomas
 url: ''
-topics: []
+topics:
+  - death
+  - life
+  - courage
+  - poetry
 tags:
   - area/quotes
   - kind/note

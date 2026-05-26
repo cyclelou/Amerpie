@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Amerigo Vespucci
 url: ''
-topics: []
+topics:
+  - wonder
+  - exploration
+  - travel
 tags:
   - area/quotes
   - kind/note

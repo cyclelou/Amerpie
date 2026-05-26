@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Nike
 url: ''
-topics: []
+topics:
+  - action
+  - sport
+  - motivation
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Wayne Dyer
 url: ''
-topics: []
+topics:
+  - acceptance
+  - happiness
+  - attitude
 tags:
   - area/quotes
   - kind/note

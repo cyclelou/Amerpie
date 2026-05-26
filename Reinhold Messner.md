@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Reinhold Messner
 url: ''
-topics: []
+topics:
+  - exploration
+  - responsibility
+  - adventure
 tags:
   - area/quotes
   - kind/note

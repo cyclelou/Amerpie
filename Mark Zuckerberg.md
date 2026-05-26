@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Mark Zuckerberg
 url: ''
-topics: []
+topics:
+  - risk
+  - change
+  - strategy
 tags:
   - area/quotes
   - kind/note

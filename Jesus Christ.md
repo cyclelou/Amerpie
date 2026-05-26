@@ -10,7 +10,12 @@ tool: []
 source: ''
 author: Jesus Christ
 url: ''
-topics: []
+topics:
+  - religion
+  - faith
+  - ethics
+  - kindness
+  - love
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Nelson Mandela
 url: ''
-topics: []
+topics:
+  - courage
+  - fear
+  - freedom
+  - triumph
 tags:
   - area/quotes
   - kind/note

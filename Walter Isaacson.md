@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Walter Isaacson
 url: ''
-topics: []
+topics:
+  - identity
+  - heroes
+  - memory
 tags:
   - area/quotes
   - kind/note

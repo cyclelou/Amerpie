@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: L'Oréal Paris
 url: ''
-topics: []
+topics:
+  - self-worth
+  - beauty
+  - worth
 tags:
   - area/quotes
   - kind/note

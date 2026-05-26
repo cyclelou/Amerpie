@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Michael Jordan
 url: ''
-topics: []
+topics:
+  - failure
+  - success
+  - perseverance
+  - sport
 tags:
   - area/quotes
   - kind/note

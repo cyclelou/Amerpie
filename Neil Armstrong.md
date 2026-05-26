@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Neil Armstrong
 url: ''
-topics: []
+topics:
+  - exploration
+  - achievement
+  - humanity
+  - history
 tags:
   - area/quotes
   - kind/note

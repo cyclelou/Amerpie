@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: William Makepeace Thackeray
 url: ''
-topics: []
+topics:
+  - identity
+  - excellence
+  - character
 tags:
   - area/quotes
   - kind/note

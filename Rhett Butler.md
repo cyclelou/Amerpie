@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Rhett Butler
 url: ''
-topics: []
+topics:
+  - freedom
+  - indifference
 tags:
   - area/quotes
   - kind/note

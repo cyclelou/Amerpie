@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Rosa Parks
 url: ''
-topics: []
+topics:
+  - courage
+  - civil-disobedience
+  - freedom
+  - fear
 tags:
   - area/quotes
   - kind/note

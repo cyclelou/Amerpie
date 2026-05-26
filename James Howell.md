@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: James Howell
 url: ''
-topics: []
+topics:
+  - regrets
+  - mistakes
 tags:
   - area/quotes
   - kind/note

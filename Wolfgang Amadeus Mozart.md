@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Wolfgang Amadeus Mozart
 url: ''
-topics: []
+topics:
+  - courage
+  - speech
+  - music
 tags:
   - area/quotes
   - kind/note

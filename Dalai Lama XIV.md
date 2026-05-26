@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Dalai Lama XIV
 url: ''
-topics: []
+topics:
+  - religion
+  - kindness
+  - simplicity
 tags:
   - area/quotes
   - kind/note

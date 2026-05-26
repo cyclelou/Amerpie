@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Margaret Wolfe Hungerford
 url: ''
-topics: []
+topics:
+  - beauty
+  - perspective
 tags:
   - area/quotes
   - kind/note

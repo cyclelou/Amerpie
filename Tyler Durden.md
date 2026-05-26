@@ -13,6 +13,9 @@ url: ''
 tags:
 - area/quotes
 - kind/note
+topics:
+- identity
+- philosophy
 
 ---
 

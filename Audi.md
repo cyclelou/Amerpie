@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Audi
 url: ''
-topics: []
+topics:
+  - technology
+  - advancement
+  - engineering
 tags:
   - area/quotes
   - kind/note

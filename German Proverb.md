@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: German Proverb
 url: ''
-topics: []
+topics:
+  - family
+  - similarity
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Simone Biles
 url: ''
-topics: []
+topics:
+  - dreams
+  - courage
+  - discipline
+  - sport
 tags:
   - area/quotes
   - kind/note

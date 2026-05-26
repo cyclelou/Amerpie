@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Charlemagne
 url: ''
-topics: []
+topics:
+  - knowledge
+  - action
+  - morality
+  - leadership
 tags:
   - area/quotes
   - kind/note

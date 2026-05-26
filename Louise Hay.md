@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Louise Hay
 url: ''
-topics: []
+topics:
+  - self-improvement
+  - self-image
+  - acceptance
 tags:
   - area/quotes
   - kind/note

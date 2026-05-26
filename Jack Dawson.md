@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Jack Dawson
 url: ''
-topics: []
+topics:
+  - greatness
+  - victory
+  - joy
 tags:
   - area/quotes
   - kind/note

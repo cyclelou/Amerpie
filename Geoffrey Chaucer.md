@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Geoffrey Chaucer
 url: ''
-topics: []
+topics:
+  - integrity
+  - honesty
 tags:
   - area/quotes
   - kind/note

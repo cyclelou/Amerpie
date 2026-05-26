@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Augustus
 url: ''
-topics: []
+topics:
+  - action
+  - planning
+  - wisdom
+  - military
 tags:
   - area/quotes
   - kind/note

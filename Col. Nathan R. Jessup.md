@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Col. Nathan R. Jessup
 url: ''
-topics: []
+topics:
+  - truth
+  - military
 tags:
   - area/quotes
   - kind/note

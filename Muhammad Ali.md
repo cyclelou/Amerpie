@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Muhammad Ali
 url: ''
-topics: []
+topics:
+  - sport
+  - courage
+  - confidence
 tags:
   - area/quotes
   - kind/note

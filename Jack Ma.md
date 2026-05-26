@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Jack Ma
 url: ''
-topics: []
+topics:
+  - time
+  - difficulty
+  - perseverance
+  - hope
 tags:
   - area/quotes
   - kind/note

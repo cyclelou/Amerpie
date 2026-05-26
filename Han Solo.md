@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Han Solo
 url: ''
-topics: []
+topics:
+  - courage
+  - hope
+  - war
 tags:
   - area/quotes
   - kind/note

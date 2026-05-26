@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Indra Nooyi
 url: ''
-topics: []
+topics:
+  - family
+  - identity
+  - balance
 tags:
   - area/quotes
   - kind/note

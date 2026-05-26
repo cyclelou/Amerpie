@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Edgar Allan Poe
 url: ''
-topics: []
+topics:
+  - mental-health
+  - suffering
+  - sanity
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Bugs Bunny
 url: ''
-topics: []
+topics:
+  - humor
+  - curiosity
 tags:
   - area/quotes
   - kind/note

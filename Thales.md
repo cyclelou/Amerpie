@@ -13,11 +13,9 @@ url: ''
 tags:
   - area/quotes
   - kind/note
-topics: []
----
-
-# Thales
-
-[[+Quotes MOC|Quotes]]
-
+topics:
+  - self
+  - knowledge
+  - wisdom
+  - philosophy
 quote:: The most difficult thing in life is to know yourself.

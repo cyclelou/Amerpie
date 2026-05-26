@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Steffi Graf
 url: ''
-topics: []
+topics:
+  - victory
+  - loss
+  - sport
 tags:
   - area/quotes
   - kind/note

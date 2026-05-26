@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Charles Bukowski
 url: ''
-topics: []
+topics:
+  - courage
+  - action
+  - effort
+  - perseverance
 tags:
   - area/quotes
   - kind/note

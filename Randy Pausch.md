@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Randy Pausch
 url: ''
-topics: []
+topics:
+  - perseverance
+  - desire
+  - achievement
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Queen Elizabeth I
 url: ''
-topics: []
+topics:
+  - courage
+  - strength
+  - women
+  - leadership
 tags:
   - area/quotes
   - kind/note

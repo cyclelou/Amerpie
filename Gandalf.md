@@ -13,6 +13,11 @@ url: ''
 tags:
 - area/quotes
 - kind/note
+topics:
+- wisdom
+- action
+- decisions
+- time
 
 ---
 

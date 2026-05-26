@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Carl Sagan
 url: ''
-topics: []
+topics:
+  - science
+  - humanity
+  - perspective
 tags:
   - area/quotes
   - kind/note

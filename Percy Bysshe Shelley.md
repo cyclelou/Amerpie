@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Percy Bysshe Shelley
 url: ''
-topics: []
+topics:
+  - power
+  - history
+  - pride
 tags:
   - area/quotes
   - kind/note

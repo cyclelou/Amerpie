@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Bob Marley
 url: ''
-topics: []
+topics:
+  - life
+  - wealth
+  - freedom
+  - music
 tags:
   - area/quotes
   - kind/note

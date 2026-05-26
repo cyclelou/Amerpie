@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Louis Armstrong
 url: ''
-topics: []
+topics:
+  - music
+  - humor
 tags:
   - area/quotes
   - kind/note

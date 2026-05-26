@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Bing Crosby
 url: ''
-topics: []
+topics:
+  - music
+  - dreams
+  - happiness
 tags:
   - area/quotes
   - kind/note

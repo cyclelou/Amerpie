@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Rick Warren
 url: ''
-topics: []
+topics:
+  - humility
+  - self-improvement
 tags:
   - area/quotes
   - kind/note

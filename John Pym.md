@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: John Pym
 url: ''
-topics: []
+topics:
+  - action
+  - speech
+  - effectiveness
 tags:
   - area/quotes
   - kind/note

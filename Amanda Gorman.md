@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Amanda Gorman
 url: ''
-topics: []
+topics:
+  - courage
+  - hope
+  - light
+  - poetry
 tags:
   - area/quotes
   - kind/note

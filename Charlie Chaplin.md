@@ -10,7 +10,9 @@ tool: []
 source: ''
 author: Charlie Chaplin
 url: ''
-topics: []
+topics:
+  - imagination
+  - action
 tags:
   - area/quotes
   - kind/note

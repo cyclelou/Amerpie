@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Nellie Bly
 url: ''
-topics: []
+topics:
+  - optimism
+  - energy
+  - possibility
 tags:
   - area/quotes
   - kind/note

@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: The Rolling Stones
 url: ''
-topics: []
+topics:
+  - music
+  - desire
+  - satisfaction
 tags:
   - area/quotes
   - kind/note

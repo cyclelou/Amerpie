@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Laurel Thatcher Ulrich
 url: ''
-topics: []
+topics:
+  - women
+  - history
+  - behavior
 tags:
   - area/quotes
   - kind/note

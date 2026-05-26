@@ -10,7 +10,11 @@ tool: []
 source: ''
 author: Elvis Presley
 url: ''
-topics: []
+topics:
+  - patience
+  - wisdom
+  - music
+  - faith
 tags:
   - area/quotes
   - kind/note

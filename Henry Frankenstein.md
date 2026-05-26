@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Henry Frankenstein
 url: ''
-topics: []
+topics:
+  - science
+  - creation
+  - life
 tags:
   - area/quotes
   - kind/note

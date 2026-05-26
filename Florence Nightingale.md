@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Florence Nightingale
 url: ''
-topics: []
+topics:
+  - success
+  - responsibility
+  - perseverance
 tags:
   - area/quotes
   - kind/note

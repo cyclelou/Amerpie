@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Charlotte Brontë
 url: ''
-topics: []
+topics:
+  - freedom
+  - identity
+  - self
 tags:
   - area/quotes
   - kind/note

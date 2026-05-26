@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Salvador Dalí
 url: ''
-topics: []
+topics:
+  - art
+  - fear
+  - perfection
 tags:
   - area/quotes
   - kind/note

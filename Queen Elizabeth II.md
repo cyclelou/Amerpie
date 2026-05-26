@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Queen Elizabeth II
 url: ''
-topics: []
+topics:
+  - change
+  - progress
+  - patience
 tags:
   - area/quotes
   - kind/note

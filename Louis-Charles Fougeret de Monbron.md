@@ -10,7 +10,10 @@ tool: []
 source: ''
 author: Louis-Charles Fougeret de Monbron
 url: ''
-topics: []
+topics:
+  - world
+  - travel
+  - reading
 tags:
   - area/quotes
   - kind/note
