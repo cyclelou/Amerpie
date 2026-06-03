@@ -1,23 +1,29 @@
 ---
 title: LOLGOP
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: Twitter
 author: LOLGOP
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - humor
-dv_quote: Still waiting for the first openly scientific Republican.
+  - republicans
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # LOLGOP
+
+[[+Quotes MOC]]
 
 quote:: Still waiting for the first openly scientific Republican.

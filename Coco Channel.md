@@ -1,22 +1,28 @@
 ---
 title: Coco Channel
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Coco Channel
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - advice
-dv_quote: Don't spend time beating on a wall, hoping to transform it into a door
+  - life
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC]]
 
 # Coco Channel
 

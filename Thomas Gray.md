@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Thomas Gray
-url: ''
+url: ""
 topics:
   - knowledge
   - happiness

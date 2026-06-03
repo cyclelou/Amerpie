@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Ray Kroc
-url: ''
+url: ""
 topics:
   - success
   - time

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Arthur Brisbane
-url: ''
+url: ""
 topics:
   - images
   - words

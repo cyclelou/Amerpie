@@ -1,24 +1,23 @@
 ---
 title: Unknown
-created: '2023-12-20'
-updated: '2026-05-03'
+created: 2023-12-20
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Unknown
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- speech
-- peace
-- idiocy
-- assertiveness
+  - speech
+  - peace
+  - idiocy
+  - assertiveness
 ---
 
 [[maps-of-content/MOC Quotes]]

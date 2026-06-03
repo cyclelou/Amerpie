@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Franklin D. Roosevelt
-url: ''
+url: ""
 topics:
   - fear
   - courage

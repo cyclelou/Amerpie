@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Edgar Allan Poe
-url: ''
+url: ""
 topics:
   - mental-health
   - suffering

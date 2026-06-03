@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Emily Dickinson
-url: ''
+url: ""
 topics:
   - hope
   - faith

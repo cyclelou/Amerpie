@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Col. Nathan R. Jessup
-url: ''
+url: ""
 topics:
   - truth
   - military

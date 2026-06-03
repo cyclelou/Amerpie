@@ -1,34 +1,27 @@
 ---
 title: Ben Lovejoy
-created: 2026-05-02
-updated: 2026-05-17
-kind:
-status:
+created: 2024-01-23
+updated: 2026-05-03
+kind: note
+status: active
 area:
-tool:
-source:
-author:
-url:
+  - quotes
+tool: []
+source: ""
+author: Ben Lovejoy
+url: ""
 tags:
----
-
----
-title: Ben Lovejoy  
-created: 2024-01-23  
-updated: 2026-05-03  
-kind: note  
-status: in_progress  
-area:
-  - quotes  
-tool: []  
-source: ""  
-author: Ben Lovejoy  
-url: ""  
-tags: []  
+  - area/quotes
+  - kind/note
 topics:
-- technology---
+  - technology
+---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC]]
 
 # Ben Lovejoy
 

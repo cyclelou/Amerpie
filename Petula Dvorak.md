@@ -1,23 +1,30 @@
 ---
 title: Petula Dvorak
-created: 2026-05-02
-updated: 2026-05-17
+created: 2023-12-20
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Petula Dvorak
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- patriotism
+  - patriotism
+  - sacrifice
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Petula Dvorak
+
+[[+Quotes MOC]]
 
 quote:: Buying the stars-and-stripes yard art and truck decals and listening to country music aren't what define being an American. Right now? Sacrificing is American.  
 		By Petula Dvorak

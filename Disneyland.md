@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Disneyland
-url: ''
+url: ""
 topics:
   - happiness
   - place

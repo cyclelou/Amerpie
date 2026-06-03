@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Marilyn Monroe
-url: ''
+url: ""
 topics:
   - truth
   - love

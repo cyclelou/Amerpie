@@ -1,20 +1,26 @@
 ---
 title: William Graham Sumner
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: William Graham Sumner
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # William Graham Sumner
+
+[[+Quotes MOC|Quotes]]
 
 The state cannot get a cent for any man without taking it from some other man, and this latter must be a man who has produced and saved it. This latter is the Forgotten Man.

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Rick Warren
-url: ''
+url: ""
 topics:
   - humility
   - self-improvement

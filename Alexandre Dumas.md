@@ -16,7 +16,6 @@ tags:
 topics:
   - philosophy
   - truth
-dv_quote: All generalizations are dangerous, even this one.
 ---
 
 [[maps-of-content/MOC Quotes]]

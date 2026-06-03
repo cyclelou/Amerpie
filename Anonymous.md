@@ -1,22 +1,21 @@
 ---
 title: Anonymous
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Anonymous
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- idiocy
-- flying
+  - idiocy
+  - flying
 ---
 
 [[maps-of-content/MOC Quotes]]

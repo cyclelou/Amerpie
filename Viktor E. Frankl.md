@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Viktor E. Frankl
-url: ''
+url: ""
 topics:
   - freedom
   - meaning

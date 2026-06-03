@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Denzel Washington
-url: ''
+url: ""
 topics:
   - action
   - success

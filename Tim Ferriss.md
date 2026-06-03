@@ -1,20 +1,26 @@
 ---
 title: Tim Ferriss
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Tim Ferriss
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Tim Ferriss
+
+[[+Quotes MOC|Quotes]]
 
 The opposite of love is indifference, the opposite of happiness is boredom. ^boredom

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Darth Vader
-url: ''
+url: ""
 topics:
   - family
   - revelation

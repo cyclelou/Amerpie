@@ -1,25 +1,29 @@
 ---
 title: Andrew Klavan
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Andrew Klavan
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - desire
-dv_quote:
-  - Fear nothing, do right.
-  - Your past shapes your desires which shape your future.
-  - Wisdom is to love the good.
+  - wisdom
+  - fear
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC|Quotes]]
 
 # Andrew Klavan
 

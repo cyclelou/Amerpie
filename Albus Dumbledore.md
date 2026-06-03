@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Albus Dumbledore
-url: ''
+url: ""
 topics:
   - reality
   - imagination

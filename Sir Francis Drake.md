@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Sir Francis Drake
-url: ''
+url: ""
 topics:
   - perseverance
   - glory

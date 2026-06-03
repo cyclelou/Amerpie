@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Claude Monet
-url: ''
+url: ""
 topics:
   - growth
   - learning

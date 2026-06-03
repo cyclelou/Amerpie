@@ -1,22 +1,25 @@
 ---
 title: Homer Simpson
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Homer Simpson
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - understanding
-dv_quote: Just because I don't care doesn't mean I don't understand.
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Homer Simpson
 

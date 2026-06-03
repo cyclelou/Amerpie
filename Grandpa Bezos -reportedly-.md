@@ -1,20 +1,26 @@
 ---
-title: Grandpa Bezos -reportedly-
-created: 2026-05-02
-updated: 2026-05-17
+title: Grandpa Bezos (reportedly)
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Grandpa Bezos (reportedly)
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Grandpa Bezos (reportedly)
+
+[[+Quotes MOC|Quotes]]
 
 One day you'll understand that it's harder to be kind than clever.

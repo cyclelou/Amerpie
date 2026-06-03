@@ -1,23 +1,31 @@
 ---
 title: David Maister
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-24
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- ai
+  - ai
+  - quotes
 tool: []
 source: The Trusted Advisor
 author: David Maister
-url: ''
-tags: []
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- work
+  - work
 ---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
 
+
+
 # David Maister
+
+[[+Quotes MOC]]
 
 quote:: It is not enough for a professional to be right: An advisor's job is to be helpful."

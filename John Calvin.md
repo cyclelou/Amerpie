@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: John Calvin
-url: ''
+url: ""
 topics:
   - faith
   - salvation

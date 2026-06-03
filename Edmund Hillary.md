@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Edmund Hillary
-url: ''
+url: ""
 topics:
   - luck
   - dreams

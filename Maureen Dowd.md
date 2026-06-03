@@ -1,23 +1,29 @@
 ---
 title: Maureen Dowd
-created: 2026-05-02
-updated: 2026-05-17
+created: 2023-12-20
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Maureen Dowd
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - politics
-dv_quote: He needs the adoration of the mob more than he needs the acceptance of normal people.
+  - trump
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Maureen Dowd
+
+ [[+Quotes MOC]]
 
 quote:: He needs the adoration of the mob more than he needs the acceptance of normal people.

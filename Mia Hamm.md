@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Mia Hamm
-url: ''
+url: ""
 topics:
   - self-knowledge
   - focus

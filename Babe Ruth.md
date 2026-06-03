@@ -15,7 +15,6 @@ tags:
   - kind/note
 topics:
   - perseverance
-dv_quote: Every strike brings me closer to the next home run.
 ---
 
 [[maps-of-content/MOC Quotes]]

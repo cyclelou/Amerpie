@@ -1,21 +1,20 @@
 ---
 title: Immanuel Kant
-created: '2024-01-17'
-updated: '2026-05-03'
+created: 2024-01-17
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Immanuel Kant
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- action
+  - action
 ---
 
 [[maps-of-content/MOC Quotes]]

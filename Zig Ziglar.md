@@ -1,20 +1,24 @@
 ---
 title: Zig Ziglar
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-05-07
+updated: 2026-05-25
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Zig Ziglar
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Zig Ziglar
+
+[[+Quotes MOC|Quotes]]  
 
 Expect the best. Prepare for the worst. Capitalize on what comes.

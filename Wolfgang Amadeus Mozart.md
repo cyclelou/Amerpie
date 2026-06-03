@@ -7,16 +7,16 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Wolfgang Amadeus Mozart
-url: ''
-topics:
-  - courage
-  - speech
-  - music
+url: ""
 tags:
   - area/quotes
   - kind/note
+topics:
+  - courage
+  - music
+  - speech
 ---
 
 # Wolfgang Amadeus Mozart

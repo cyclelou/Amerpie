@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: T. A. Borman
-url: ''
+url: ""
 topics:
   - happiness
   - comparison

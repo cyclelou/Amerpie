@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Junko Tabei
-url: ''
+url: ""
 topics:
   - perseverance
   - determination

@@ -1,22 +1,28 @@
 ---
 title: Baltasar Gracian
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Baltasar Gracian
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - decisions
-dv_quote: It is better to sleep on things beforehand than lie awake about them afterwards.
+  - sleep
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC]]
 
 # Baltasar Gracian
 

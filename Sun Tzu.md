@@ -7,13 +7,12 @@ status: active
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Sun Tzu
-url: ''
+url: ""
 tags:
   - area/quotes
   - kind/note
-
 topics:
   - strategy
   - tactics

@@ -1,22 +1,27 @@
 ---
 title: Aldous Huxley
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Aldous Huxley
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - history
-dv_quote: That men do not learn very much from the lessons of history is the most important of all the lessons that history has to teach
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC|Quotes]]
 
 # Aldous Huxley
 

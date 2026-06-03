@@ -1,22 +1,28 @@
 ---
 title: Edwin Markham
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-22
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Edwin Markham
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- defeat
+  - defeat
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Edwin Markham
+
+[[+Quotes MOC]]
 
 quote:: Defeat may serve as well as victory to shake the soul and let the glory out.

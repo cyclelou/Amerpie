@@ -1,20 +1,26 @@
 ---
 title: Thomas Hardy
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Thomas Hardy
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Thomas Hardy
+
+[[+Quotes MOC|Quotes]]
 
 Time changes everything except something within us which is always surprised by change.

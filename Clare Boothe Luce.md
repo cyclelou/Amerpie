@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Clare Boothe Luce
-url: ''
+url: ""
 topics:
   - simplicity
   - design

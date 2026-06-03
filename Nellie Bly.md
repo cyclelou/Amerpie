@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Nellie Bly
-url: ''
+url: ""
 topics:
   - optimism
   - energy

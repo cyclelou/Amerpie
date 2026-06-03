@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: J. P. Morgan
-url: ''
+url: ""
 topics:
   - character
   - trust

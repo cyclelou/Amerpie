@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: George Herbert
-url: ''
+url: ""
 topics:
   - determination
   - possibility

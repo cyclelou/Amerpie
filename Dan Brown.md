@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Dan Brown
-url: ''
+url: ""
 topics:
   - fear
   - desire

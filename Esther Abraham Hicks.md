@@ -1,22 +1,30 @@
 ---
 title: Esther Abraham Hicks
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Esther Abraham Hicks
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- gratitude
+  - gratitude
+  - joy
+  - life
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Esther Abraham Hicks
+
+[[+Quotes MOC]]
 
 quote:: If all you did was just looked for things to appreciate, you would live a joyously spectacular life.

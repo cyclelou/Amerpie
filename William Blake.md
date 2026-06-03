@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: William Blake
-url: ''
+url: ""
 topics:
   - nature
   - wonder

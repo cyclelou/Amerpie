@@ -1,20 +1,24 @@
 ---
 title: Karl Kraus
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-05-07
+updated: 2026-05-26
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Karl Kraus
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Karl Kraus
+
+[[+Quotes MOC|Quotes]]
 
 An aphorism is never exactly true. It is either a half-truth or a truth and a half.

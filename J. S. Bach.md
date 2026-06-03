@@ -1,20 +1,26 @@
 ---
 title: J. S. Bach
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: J. S. Bach
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # J. S. Bach
+
+[[+Quotes MOC|Quotes]]
 
 There's nothing remarkable about it. All one has to do is hit the right keys at the right time and the instrument plays itself.

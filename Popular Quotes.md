@@ -5,9 +5,9 @@ updated: 2026-05-17
 kind: reference
 status: archive
 area: personal
-tool: null
+tool:
 source: web-article
-author: null
+author:
 url: https://www.goodreads.com/quotes?ref=nav_comm_quotes
 tags:
   - topic/quotes

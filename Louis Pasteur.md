@@ -1,23 +1,30 @@
 ---
 title: Louis Pasteur
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Louis Pasteur
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- desire
+  - desire
+  - origin
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Louis Pasteur
+
+[[+Quotes MOC|Quotes]]
 
 quote:: The greatest aberration of the mind is to believe a thing to be, because we desire it.
 

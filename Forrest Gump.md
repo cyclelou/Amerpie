@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Forrest Gump
-url: ''
+url: ""
 topics:
   - life
   - wisdom

@@ -1,20 +1,26 @@
 ---
 title: Jack Donovan
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Jack Donovan
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Jack Donovan
+
+[[+Quotes MOC|Quotes]]
 
 Men of ideas and men of action have much to learn from each other, and the truly great are men of both action and abstraction.

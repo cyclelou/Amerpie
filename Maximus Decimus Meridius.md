@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Maximus Decimus Meridius
-url: ''
+url: ""
 topics:
   - war
   - courage

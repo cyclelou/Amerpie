@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: L'Oréal Paris
-url: ''
+url: ""
 topics:
   - self-worth
   - beauty

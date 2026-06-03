@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Barack Obama
-url: ''
+url: ""
 topics:
   - change
   - action

@@ -1,20 +1,26 @@
 ---
 title: Michael Knowles
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Michael Knowles
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Michael Knowles
+
+[[+Quotes MOC|Quotes]]
 
 I can define my existence as a 6'4" 200lb linebacker, but if I step on the football field it won't go very well for me. ^truth

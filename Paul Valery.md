@@ -1,22 +1,28 @@
 ---
 title: Paul Valery
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Paul Valery
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- books
+  - books
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Paul Valery
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Books have the same enemies as people: fire, humidity, animals, weather, and their own content.

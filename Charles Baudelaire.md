@@ -1,23 +1,31 @@
 ---
 title: Charles Baudelaire
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- ai
+  - ai
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Charles Baudelaire
-url: ''
-tags: []
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- devil
+  - devil
 ---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Charles Baudelaire
+
+[[+Quotes MOC|Quotes]]
 
 quote:: The greatest trick the Devil ever played was convincing the world that he did not exist.

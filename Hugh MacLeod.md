@@ -1,21 +1,26 @@
 ---
 title: Hugh MacLeod
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- mac
+  - mac
 tool: []
-source: ''
+source: ""
 author: Hugh MacLeod
-url: ''
-tags: []
+url: ""
+tags:
+  - area/mac
+  - kind/note
 ---
 
 [[maps-of-content/MOC Mac]]
 
+
 # Hugh MacLeod
+
+[[+Quotes MOC|Quotes]]
 
 The price of being a sheep is boredom. The price of being a wolf is loneliness. Choose one or the other with great care.
 

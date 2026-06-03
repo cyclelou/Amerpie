@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Sir Ken Robinson
-url: ''
+url: ""
 topics:
   - creativity
   - education

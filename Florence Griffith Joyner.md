@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Florence Griffith Joyner
-url: ''
+url: ""
 topics:
   - joy
   - fun

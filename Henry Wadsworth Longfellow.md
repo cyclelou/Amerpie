@@ -1,22 +1,27 @@
 ---
 title: Henry Wadsworth Longfellow
 created: 2024-03-17
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Henry Wadsworth Longfellow
 url: ""
-tags: []
-dv_quote: It takes less time to do a thing right, than it does to explain why you did it wrong.
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - right
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC]]
 
 # Henry Wadsworth Longfellow
 

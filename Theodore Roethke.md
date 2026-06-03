@@ -1,17 +1,18 @@
 ---
 title: Theodore Roethke
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Theodore Roethke
 url: ""
-tags: []
-dv_quote: In a dark time, the eye begins to see.
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - philosophy
   - seeing
@@ -19,6 +20,8 @@ topics:
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Theodore Roethke
 

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Isabella Bird
-url: ''
+url: ""
 topics:
   - beauty
   - nature

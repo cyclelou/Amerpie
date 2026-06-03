@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Elvis Presley
-url: ''
+url: ""
 topics:
   - patience
   - wisdom

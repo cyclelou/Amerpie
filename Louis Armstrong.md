@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Louis Armstrong
-url: ''
+url: ""
 topics:
   - music
   - humor

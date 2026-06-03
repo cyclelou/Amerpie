@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Rosa Parks
-url: ''
+url: ""
 topics:
   - courage
   - civil-disobedience

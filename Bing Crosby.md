@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Bing Crosby
-url: ''
+url: ""
 topics:
   - music
   - dreams

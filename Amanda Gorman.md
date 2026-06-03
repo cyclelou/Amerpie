@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Amanda Gorman
-url: ''
+url: ""
 topics:
   - courage
   - hope

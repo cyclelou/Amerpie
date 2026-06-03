@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Dylan Thomas
-url: ''
+url: ""
 topics:
   - death
   - life

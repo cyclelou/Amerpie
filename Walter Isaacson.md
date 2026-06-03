@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Walter Isaacson
-url: ''
+url: ""
 topics:
   - identity
   - heroes

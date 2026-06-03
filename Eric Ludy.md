@@ -1,20 +1,26 @@
 ---
 title: Eric Ludy
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Eric Ludy
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Eric Ludy
+
+[[+Quotes MOC|Quotes]]
 
 The brotherhood has told us that all we need is mud on our tires and a muscular chest. But mud on a man's tires doesn't mean steel in a man's soul. And a muscular chest doesn't mean there's self-sacrificing nobility within that chest.

@@ -1,4 +1,7 @@
 ---
+{}
+---
+---
 title: Benjamin Franklin
 created: '2024-02-09'
 updated: '2026-05-03'

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Martha Stewart
-url: ''
+url: ""
 topics:
   - decisions
   - planning

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Sherlock Holmes
-url: ''
+url: ""
 topics:
   - truth
   - logic

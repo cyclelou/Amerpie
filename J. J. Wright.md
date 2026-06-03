@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: J. J. Wright
-url: ''
+url: ""
 topics:
   - books
   - reading

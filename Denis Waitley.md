@@ -1,23 +1,32 @@
 ---
 title: Denis Waitley
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- ai
+  - ai
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Denis Waitley
-url: ''
-tags: []
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- acceptance
+  - acceptance
+  - responsibility
 ---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Denis Waitley
+
+[[+Quotes MOC]]
 
 quote:: There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.

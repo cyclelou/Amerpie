@@ -1,23 +1,31 @@
 ---
 title: Dr. Seuss
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-05-07
+updated: 2026-05-25
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Dr. Seuss
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- time
+  - decisions
+  - knowledge
+  - learning
+  - meaning
+  - time
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Dr. Seuss
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Don't cry because it's over, smile because it happened.
 

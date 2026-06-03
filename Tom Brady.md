@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Tom Brady
-url: ''
+url: ""
 topics:
   - perseverance
   - will

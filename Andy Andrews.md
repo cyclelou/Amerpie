@@ -1,23 +1,31 @@
 ---
 title: Andy Andrews
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Andy Andrews
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- leadership
+  - leadership
+  - struggle
+  - action
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Andy Andrews
+
+[[+Quotes MOC|Quotes]]
 
 quote:: It is never the duty of a leader to struggle for someone else; a leader must encourage others to struggle and assure them that the struggles are worthwhile.
 

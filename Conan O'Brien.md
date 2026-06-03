@@ -1,21 +1,28 @@
 ---
-title: "Conan O'Brien"
-created: 2026-05-02
-updated: 2026-05-17
+title: Conan O'Brien
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Conan O'Brien
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- future
+  - future
+  - reaction
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC]]
 
 # Conan O'Brien
 

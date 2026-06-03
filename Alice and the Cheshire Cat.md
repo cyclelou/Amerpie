@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Alice and the Cheshire Cat
-url: ''
+url: ""
 topics:
   - decisions
   - journey

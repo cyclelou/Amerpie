@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Otto von Bismarck
-url: ''
+url: ""
 topics:
   - war
   - politics

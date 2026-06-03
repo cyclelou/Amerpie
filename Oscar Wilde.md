@@ -1,24 +1,23 @@
 ---
 title: Oscar Wilde
-created: '2023-12-09'
-updated: '2026-05-03'
+created: 2023-12-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Oscar Wilde
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- desire
-- dinner
-- emotions
-- experience
+  - desire
+  - dinner
+  - emotions
+  - experience
 ---
 
 [[maps-of-content/MOC Quotes]]

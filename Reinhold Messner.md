@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Reinhold Messner
-url: ''
+url: ""
 topics:
   - exploration
   - responsibility

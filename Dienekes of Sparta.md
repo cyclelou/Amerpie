@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Dienekes of Sparta
-url: ''
+url: ""
 topics:
   - courage
   - war

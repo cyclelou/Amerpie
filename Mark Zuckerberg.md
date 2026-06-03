@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Mark Zuckerberg
-url: ''
+url: ""
 topics:
   - risk
   - change

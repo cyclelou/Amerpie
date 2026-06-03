@@ -1,22 +1,28 @@
 ---
 title: Macklemore
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- mac
+  - mac
 tool: []
-source: ''
+source: ""
 author: Macklemore
-url: ''
-tags: []
+url: ""
+tags:
+  - area/mac
+  - kind/note
 topics:
-- artists
+  - artists
+  - greatness
 ---
 
 [[maps-of-content/MOC Mac]]
 
+
 # Macklemore
+
+[[+Quotes MOC|Quotes]]
 
 The greats weren't great because at birth they could paint, the greats were great because they paint a lot.

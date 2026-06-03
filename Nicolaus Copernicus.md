@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Nicolaus Copernicus
-url: ''
+url: ""
 topics:
   - science
   - knowledge

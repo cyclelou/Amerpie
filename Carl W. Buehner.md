@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Carl W. Buehner
-url: ''
+url: ""
 topics:
   - feelings
   - memory

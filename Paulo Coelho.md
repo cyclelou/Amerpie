@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Paulo Coelho
-url: ''
+url: ""
 topics:
   - desire
   - destiny

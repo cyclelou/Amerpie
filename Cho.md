@@ -1,23 +1,28 @@
 ---
 title: Cho
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: Mentalist
 author: Cho
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - mental-health
-dv_quote: No it isn't (complicated). You just need mental help.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Cho
+
+[[+Quotes MOC|Quotes]]
 
 quote:: No it isn't (complicated). You just need mental help.

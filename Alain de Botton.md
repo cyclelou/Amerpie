@@ -1,22 +1,30 @@
 ---
 title: Alain de Botton
-created: 2026-05-02
-updated: 2026-05-17
+created: 2023-12-20
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- ai
+  - ai
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Alain de Botton
-url: ''
-tags: []
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- personality
+  - personality
 ---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC|Quotes]]
 
 # Alain De Botton
 

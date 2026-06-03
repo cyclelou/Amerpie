@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: B.B. King
-url: ''
+url: ""
 topics:
   - learning
   - education

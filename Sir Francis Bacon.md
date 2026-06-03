@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Sir Francis Bacon
-url: ''
+url: ""
 topics:
   - knowledge
   - science

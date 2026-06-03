@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Dorothy Gale
-url: ''
+url: ""
 topics:
   - home
   - journey

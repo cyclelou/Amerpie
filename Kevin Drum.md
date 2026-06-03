@@ -1,22 +1,27 @@
 ---
 title: Kevin Drum
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: Mother Jones
 author: Kevin Drum
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- politics
+  - politics
+  - republicans
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Kevin Drum
 
-quote:: Maybe what the GOP really needs is an institutional-size Prozac. Or Viagra. Or something.
+Quote:: Maybe what the GOP really needs is an institutional-size Prozac. Or Viagra. Or something.

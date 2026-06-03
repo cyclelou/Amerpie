@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: John B. Finch
-url: ''
+url: ""
 topics:
   - freedom
   - rights

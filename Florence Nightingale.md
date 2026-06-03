@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Florence Nightingale
-url: ''
+url: ""
 topics:
   - success
   - responsibility

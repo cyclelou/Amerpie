@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Katniss Everdeen
-url: ''
+url: ""
 topics:
   - courage
   - resistance

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Laurel Thatcher Ulrich
-url: ''
+url: ""
 topics:
   - women
   - history

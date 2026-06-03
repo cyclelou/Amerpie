@@ -1,23 +1,28 @@
 ---
 title: Neil Barringham
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Neil Barringham
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - work
-dv_quote: The grass is greener where you water it.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Neil Barringham
+
+[[+Quotes MOC|Quotes]]
 
 quote:: The grass is greener where you water it.

@@ -1,23 +1,27 @@
 ---
 title: Eden Phillpotts
-created: 2026-05-02
-updated: 2026-05-17
+created: 2023-12-20
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Eden Phillpotts
 url: ""
-tags: []
-dv_quote: The universe is full of magical things patiently waiting for our wits to grow sharper.
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - intellect
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Eden Phillpotts
 
-quote:: The universe is full of magical things patiently waiting for our wits to grow sharper.
+"The universe is full of magical things patiently waiting for our wits to grow sharper."  
+― Eden Phillpotts

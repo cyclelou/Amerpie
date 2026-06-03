@@ -15,7 +15,6 @@ tags:
   - kind/note
 topics:
   - progress
-dv_quote: It does not matter how slowly you go as long as you do not stop.
 ---
 
 [[maps-of-content/MOC Quotes]]

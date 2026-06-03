@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Oprah Winfrey
-url: ''
+url: ""
 topics:
   - failure
   - wisdom

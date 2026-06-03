@@ -1,20 +1,26 @@
 ---
 title: Warren Buffet
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Warren Buffet
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Warren Buffet
+
+[[+Quotes MOC|Quotes]]
 
 The stock market is a device for transferring money from the impatient to the patient.

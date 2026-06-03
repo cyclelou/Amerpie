@@ -1,20 +1,26 @@
 ---
 title: Victor Kiam
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Victor Kiam
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Victor Kiam
+
+[[+Quotes MOC|Quotes]]
 
 Even if you fall on your face, you're still moving forward.

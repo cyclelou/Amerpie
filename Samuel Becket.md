@@ -1,22 +1,28 @@
 ---
 title: Samuel Becket
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Samuel Becket
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- perseverance
+  - perseverance
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Samuel Becket
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.

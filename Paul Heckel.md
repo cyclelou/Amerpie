@@ -1,22 +1,28 @@
 ---
 title: Paul Heckel
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Paul Heckel
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- effort
+  - effort
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Paul Heckel
+
+[[+Quotes MOC|Quotes]]
 
 quote:: If Ernest Hemingway, James Mitchener, Neil Simon, Frank Lloyd Wright, and Pablo Picasso could not get it right the first time, what makes you think that you will?

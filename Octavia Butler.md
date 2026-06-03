@@ -1,23 +1,28 @@
 ---
 title: Octavia Butler
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Octavia Butler
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - change
-dv_quote: The only lasting truth is Change.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Octavia Butler
+
+[[+Quotes MOC]]
 
 quote:: The only lasting truth is Change.

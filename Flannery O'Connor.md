@@ -1,20 +1,25 @@
 ---
-title: "Flannery O'Connor"
-created: 2026-05-02
-updated: 2026-05-17
+title: Flannery O'Connor
+created: 2026-05-07
+updated: 2026-05-26
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Flannery O'Connor
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
+topics:
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Flannery O'Connor
 
-You will know the reconciling truth, and that reconciling truth will make you odd.
+[[+Quotes MOC|Quotes]]
+
+quote:: You will know the reconciling truth, and that reconciling truth will make you odd.

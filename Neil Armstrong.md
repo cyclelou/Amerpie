@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Neil Armstrong
-url: ''
+url: ""
 topics:
   - exploration
   - achievement

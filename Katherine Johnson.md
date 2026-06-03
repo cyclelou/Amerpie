@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Katherine Johnson
-url: ''
+url: ""
 topics:
   - work
   - happiness

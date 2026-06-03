@@ -1,22 +1,29 @@
 ---
 title: Bradley Chambers
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: Back To School
 author: Bradley Chambers
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- education
+  - education
+  - technology
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Bradley Chambers
+
+[[+Quotes MOC]]
 
 quote:: I've never been a fan of pilot programs. When you are doing a technology deployment, you have to go all in. Pilots are essentially saying that we aren't sure what we are doing. Pilots are also a way to protect yourself from failure.

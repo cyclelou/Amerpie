@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Muhammad Ali
-url: ''
+url: ""
 topics:
   - sport
   - courage

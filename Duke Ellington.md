@@ -1,22 +1,28 @@
 ---
 title: Duke Ellington
 created: 2024-02-09
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Duke Ellington
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - time
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Duke Ellington
 
-quote:: I don't need time. What I need is a deadline.
+[[+Quotes MOC|Quotes]]
+
+quotes:: I don't need time. What I need is a deadline.

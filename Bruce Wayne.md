@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Bruce Wayne
-url: ''
+url: ""
 topics:
   - identity
   - action

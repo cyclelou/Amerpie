@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Bessie Coleman
-url: ''
+url: ""
 topics:
   - freedom
   - flying

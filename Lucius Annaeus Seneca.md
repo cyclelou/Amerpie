@@ -1,26 +1,31 @@
 ---
 title: Lucius Annaeus Seneca
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-24
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Lucius Annaeus Seneca
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - kindness
-dv_quote:
-  - Wherever there is a human being, there is an opportunity for a kindness.
-  - You should keep learning as long as there is something you do not know.
+  - learning
+  - opportunity
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Lucius Annaeus Seneca
+
+[[+Quotes MOC]]
 
 quote:: Wherever there is a human being, there is an opportunity for a kindness.
 

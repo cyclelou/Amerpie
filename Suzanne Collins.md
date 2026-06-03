@@ -1,23 +1,28 @@
 ---
 title: Suzanne Collins
 created: 2024-02-09
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Suzanne Collins
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - aging
-dv_quote: Right now is the oldest you've ever been and the youngest you'll ever be. Ever again.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Suzanne Collins
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Right now is the oldest you've ever been and the youngest you'll ever be. Ever again.

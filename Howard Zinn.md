@@ -1,22 +1,30 @@
 ---
 title: Howard Zinn
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Howard Zinn
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- civil-disobedience
+  - civil-disobedience
+  - government
+  - history
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Howard Zinn
+
+[[+Quotes MOC]]
 
 quote:: Historically, the most terrible things - war, genocide, and slavery - have resulted not from disobedience, but from obedience.

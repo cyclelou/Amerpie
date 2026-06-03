@@ -1,20 +1,26 @@
 ---
 title: William Wordsworth
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: William Wordsworth
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # William Wordsworth
+
+[[+Quotes MOC|Quotes]]
 
 The best portion of a good man's life is his little, nameless, unremembered acts of kindness and love.

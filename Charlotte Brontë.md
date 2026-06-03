@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Charlotte Brontë
-url: ''
+url: ""
 topics:
   - freedom
   - identity

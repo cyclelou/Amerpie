@@ -1,23 +1,28 @@
 ---
 title: African Proverb
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: African Proverb
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - togetherness
-dv_quote: If you want to go fast, go alone. If you want to go far, go together.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # African Proverb
+
+[[+Quotes MOC|Quotes]]
 
 quote:: If you want to go fast, go alone. If you want to go far, go together.

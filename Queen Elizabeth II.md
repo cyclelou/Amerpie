@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Queen Elizabeth II
-url: ''
+url: ""
 topics:
   - change
   - progress

@@ -1,28 +1,36 @@
 ---
 title: Thomas Paine
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- ai
+  - ai
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Thomas Paine
-url: ''
-tags: []
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- simplicity
+  - simplicity
 ---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Thomas Paine
 
  "The more simple anything is, the less liable it is to be disordered."
 
 # Thomas Paine
+
+[[+Quotes MOC|Quotes]]
 
 The harder the conflict, the more glorious the triumph.
 

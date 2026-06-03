@@ -1,27 +1,31 @@
 ---
 title: Stephen Wright
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Stephen Wright
 url: ""
-tags: []
-dv_quote:
-  - Anywhere is within walking distance, if you've got the time
-  - If at first you don't succeed, destroy all evidence that you tried.
-  - Half the people you know are below average.
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - comedy
+  - success
+  - walking
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Stephen Wright
+
+[[+Quotes MOC]]
 
 quote:: Anywhere is within walking distance, if you've got the time
 

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Roald Amundsen
-url: ''
+url: ""
 topics:
   - preparation
   - victory

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Wayne Dyer
-url: ''
+url: ""
 topics:
   - acceptance
   - happiness

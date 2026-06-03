@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Simone Biles
-url: ''
+url: ""
 topics:
   - dreams
   - courage

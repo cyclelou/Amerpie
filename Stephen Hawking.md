@@ -13,7 +13,6 @@ url: ""
 tags:
   - area/quotes
   - kind/note
-dv_quote: Quiet people have the loudest minds.
 topics:
   - thinking
 ---

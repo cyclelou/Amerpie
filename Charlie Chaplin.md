@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Charlie Chaplin
-url: ''
+url: ""
 topics:
   - imagination
   - action

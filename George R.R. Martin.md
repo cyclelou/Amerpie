@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: George R.R. Martin
-url: ''
+url: ""
 topics:
   - reading
   - life

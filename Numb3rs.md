@@ -1,23 +1,28 @@
 ---
 title: Numb3rs
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Numb3rs
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - knowledge
-dv_quote: Larry, I'm about to tell you what I've told every genius I've known. Don't be an idiot.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Numb3rs
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Larry, I'm about to tell you what I've told every genius I've known. Don't be an idiot.

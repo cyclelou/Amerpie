@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Lance Armstrong
-url: ''
+url: ""
 topics:
   - pain
   - perseverance

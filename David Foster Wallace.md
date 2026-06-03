@@ -1,21 +1,25 @@
 ---
 title: David Foster Wallace
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: David Foster Wallace
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - technology
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # David Foster Wallace
 

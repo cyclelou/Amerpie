@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: William Ernest Henley
-url: ''
+url: ""
 topics:
   - courage
   - self

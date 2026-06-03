@@ -1,20 +1,26 @@
 ---
 title: El Gato Malo
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: El Gato Malo
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # El Gato Malo
+
+[[+Quotes MOC|Quotes]]
 
 if you grant near unlimited power to governments during emergencies, they will produce an endless cavalcade of hobgoblins and crises to get at them. emergency will become the norm.

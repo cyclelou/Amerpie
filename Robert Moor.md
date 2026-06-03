@@ -1,21 +1,25 @@
 ---
 title: Robert Moor
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: On Trails An Exploration
 author: Robert Moor
 url: http://a.co/9cJo4jg
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- thru-hiking
+  - thru-hiking
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Robert Moor
 

@@ -1,22 +1,29 @@
 ---
 title: Douglas Everett
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Douglas Everett
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- dreams
+  - dreams
+  - reality
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Douglas Everett
+
+[[+Quotes MOC]]
 
 quote:: There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Jacques Abbadie
-url: ''
+url: ""
 topics:
   - deception
   - truth

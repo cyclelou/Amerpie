@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Maurice Switzer
-url: ''
+url: ""
 topics:
   - silence
   - wisdom

@@ -1,23 +1,30 @@
 ---
 title: Adam Savage
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Adam Savage
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- science
+  - science
+  - management
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Adam Savage
+
+[[+Quotes MOC|Quotes]]  
 
 quote:: The only difference between science and screwing around is writing it down.  
 ^science

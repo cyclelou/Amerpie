@@ -1,28 +1,35 @@
 ---
 title: Marcel Proust
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-05-07
+updated: 2026-05-25
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Marcel Proust
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- happiness
+  - happiness
+  - philosophy
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Marcel Proust
 
+[[+Quotes MOC|Quotes]]
+
 Come now! … were everything clear, all would seem to you vain. Your boredom would populate a shadowless universe with an impassive life made up of unleavened souls. But a measure of disquiet is a divine gift. The hope which, in your eyes, shines on a dark threshold does not have its basis in an overly certain world.  
 From By Way Of Sainte-Beuve
 
 # Marcus Aurelius
+
+[[+Quotes MOC|Quotes]]
 
 If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and thus you have the power to revoke it at any moment.
 

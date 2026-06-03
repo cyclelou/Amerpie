@@ -1,23 +1,30 @@
 ---
 title: Lou Holtz
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Lou Holtz
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- action
+  - action
+  - goals
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Lou Holtz
+
+[[+Quotes MOC|Quotes]]
 
 quote:: I can't believe that God put us on earth to be ordinary.
 

@@ -1,21 +1,20 @@
 ---
 title: Bob Dylan
-created: '2023-12-10'
-updated: '2026-05-03'
+created: 2023-12-10
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Bob Dylan
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- freedom
+  - freedom
 ---
 
 [[maps-of-content/MOC Quotes]]

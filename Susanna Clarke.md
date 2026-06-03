@@ -1,22 +1,29 @@
 ---
-title: Susanna Clarke
-created: 2026-05-02
-updated: 2026-05-17
+title: SusAnna Clarke
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: SusAnna Clarke
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- beauty
+  - beauty
+  - smiles
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # SusAnna Clarke
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Since a smile is the most becoming ornament that any lady can wear, she had been known upon occasion to outshine women who were acknowledged beauties in three countries.

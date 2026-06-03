@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Christopher Bullock
-url: ''
+url: ""
 topics:
   - certainty
   - death

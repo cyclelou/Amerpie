@@ -1,35 +1,28 @@
 ---
 title: Arthur Korstler
-created: 2026-05-02
-updated: 2026-05-17
-kind:
-status:
+created: 2024-01-31
+updated: 2026-05-03
+kind: note
+status: active
 area:
-tool:
-source:
-author:
-url:
+  - quotes
+tool: []
+source: ""
+author: Arthur Korstler
+url: ""
 tags:
-dv_quote: Language can become a screen which stands between the thinker and reality. This is the reason why true creativity often starts where language ends.
----
-
----
-title: Arthur Korstler  
-created: 2026-05-02  
-updated: 2026-05-14  
-tags: []  
-kind: note  
-status: in_progress  
-area:
-- quotes  
-tool: []  
-source: ''  
-author: Arthur Korstler  
-url: ''  
+  - area/quotes
+  - kind/note
 topics:
-- creativity---
+  - creatvity
+  - language
+---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC|Quotes]]
 
 # Arthur Korstler
 

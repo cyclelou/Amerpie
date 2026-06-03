@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Celine Dion
-url: ''
+url: ""
 topics:
   - love
   - music

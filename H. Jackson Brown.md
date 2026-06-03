@@ -1,20 +1,24 @@
 ---
 title: H. Jackson Brown
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: H. Jackson Brown
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- learning
+  - learning
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # H. Jackson Brown

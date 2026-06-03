@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Johann Sebastian Bach
-url: ''
+url: ""
 topics:
   - work
   - effort

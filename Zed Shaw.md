@@ -1,20 +1,24 @@
 ---
 title: Zed Shaw
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-05-07
+updated: 2026-05-25
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Zed Shaw
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
 # Zed Shaw
+
+[[+Quotes MOC|Quotes]]
 
 Programming is a constant stream of failures thrown at you by a computer that does not care how you feel.

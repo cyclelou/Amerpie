@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Epicurus
-url: ''
+url: ""
 topics:
   - satisfaction
   - wealth

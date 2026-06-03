@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Richard Branson
-url: ''
+url: ""
 topics:
   - learning
   - failure

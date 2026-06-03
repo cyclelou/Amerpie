@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Skittles
-url: ''
+url: ""
 topics:
   - taste
   - joy

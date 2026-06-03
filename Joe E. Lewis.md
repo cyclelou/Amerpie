@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Joe E. Lewis
-url: ''
+url: ""
 topics:
   - life
   - wisdom

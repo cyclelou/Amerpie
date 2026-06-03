@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Rob Siltanen & Lee Clow
-url: ''
+url: ""
 topics:
   - creativity
   - change

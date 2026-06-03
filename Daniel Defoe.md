@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Daniel Defoe
-url: ''
+url: ""
 topics:
   - wisdom
   - time

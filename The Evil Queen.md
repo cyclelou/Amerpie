@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: The Evil Queen
-url: ''
+url: ""
 topics:
   - beauty
   - vanity

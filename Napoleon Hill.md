@@ -1,24 +1,29 @@
 ---
 title: Napoleon Hill
 created: 2024-02-09
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Napoleon Hill
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - action
   - knowledge
-dv_quote: Knowledge is only potential power. It becomes power only when, and if, it is organized into definite plans of action.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Napoleon Hill
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Knowledge is only potential power. It becomes power only when, and if, it is organized into definite plans of action.

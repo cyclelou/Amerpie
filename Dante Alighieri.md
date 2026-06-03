@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Dante Alighieri
-url: ''
+url: ""
 topics:
   - hope
   - poetry

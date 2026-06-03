@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Kentucky Fried Chicken
-url: ''
+url: ""
 topics:
   - enjoyment
   - food

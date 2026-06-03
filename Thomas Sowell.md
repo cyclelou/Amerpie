@@ -1,21 +1,27 @@
 ---
 title: Thomas Sowell
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Thomas Sowell
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Thomas Sowell
+
+[[+Quotes MOC|Quotes]]
 
 Much of the social history of the Western world, over the past three decades, has been a history of replacing what worked with what sounded good.
 

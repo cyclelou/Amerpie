@@ -1,20 +1,26 @@
 ---
 title: Max Beerbohm
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Max Beerbohm
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Max Beerbohm
+
+[[+Quotes MOC|Quotes]]
 
 Only mediocrity can be trusted to be always at its best. Genius must always have lapses proportionate to its triumphs.

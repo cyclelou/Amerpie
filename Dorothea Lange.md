@@ -1,23 +1,28 @@
 ---
 title: Dorothea Lange
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Dorothea Lange
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - photography
-dv_quote: The camera is an instrument that teaches people how to see without a camera.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Dorothea Lange
+
+[[+Quotes MOC]]
 
 quote:: The camera is an instrument that teaches people how to see without a camera.

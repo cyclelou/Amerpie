@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Randy Pausch
-url: ''
+url: ""
 topics:
   - perseverance
   - desire

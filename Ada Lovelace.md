@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Ada Lovelace
-url: ''
+url: ""
 topics:
   - science
   - thinking

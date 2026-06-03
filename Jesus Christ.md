@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Jesus Christ
-url: ''
+url: ""
 topics:
   - religion
   - faith

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Malala Yousafzai
-url: ''
+url: ""
 topics:
   - freedom
   - speech

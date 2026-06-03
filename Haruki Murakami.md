@@ -1,21 +1,27 @@
 ---
 title: Haruki Murakami
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Haruki Murakami
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Haruki Murakami
+
+[[+Quotes MOC|Quotes]]
 
 The most important thing we ever learn at school is the fact that the most important things can't be learned at school.
 

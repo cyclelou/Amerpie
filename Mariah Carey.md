@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Mariah Carey
-url: ''
+url: ""
 topics:
   - music
   - love

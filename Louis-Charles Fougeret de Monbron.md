@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Louis-Charles Fougeret de Monbron
-url: ''
+url: ""
 topics:
   - world
   - travel

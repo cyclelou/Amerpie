@@ -1,38 +1,30 @@
 ---
 title: Alexander Solzhenitsyn
-created: 2026-05-02
-updated: 2026-05-17
-kind:
-status:
+created: 2024-01-31
+updated: 2026-05-03
+kind: note
+status: active
 area:
-tool:
-source:
-author:
-url:
+  - quotes
+tool: []
+source: ""
+author: Alexander Solzhenitsyn
+url: ""
 tags:
----
-
----
-title: Alexander Solzhenitsyn  
-created: 2024-01-31  
-updated: 2026-05-03  
-kind: note  
-status: in_progress  
-area:
-  - quotes  
-tool: []  
-source: ""  
-author: Alexander Solzhenitsyn  
-url: ""  
-tags: []  
+  - area/quotes
+  - kind/note
 topics:
-- truth
-- honesty
-- courage
-- evil
-- Everything you add to the truth subtracts from the truth.---
+  - truth
+  - honesty
+  - courage
+  - evil
+---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC|Quotes]]
 
 # Alexander Solzhenitsyn
 

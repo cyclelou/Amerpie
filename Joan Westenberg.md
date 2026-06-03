@@ -1,22 +1,25 @@
 ---
 title: Joan Westenberg
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-28
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Joan Westenberg
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - healthcare
-dv_quote: "'Ask not what your country can do for you,' because chances are, there's probably a form for that, and it's not covered by your plan"
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Joan Westenberg
 

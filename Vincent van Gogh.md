@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Vincent van Gogh
-url: ''
+url: ""
 topics:
   - action
   - learning

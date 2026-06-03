@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Johann Wolfgang von Goethe
-url: ''
+url: ""
 topics:
   - change
   - self-improvement

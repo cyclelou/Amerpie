@@ -1,23 +1,29 @@
 ---
 title: Peroty
-created: 2026-05-02
-updated: 2026-05-17
+created: 2023-12-25
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: micro.blog
 author: Peroty
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- flying
+  - flying
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Peroty
+
+[[+Quotes MOC]]
 
 quote:: I agree with every crying child in the airport. This is terrible. Nobody wants to do this.  
 peroty on micro.blog

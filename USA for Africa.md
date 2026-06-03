@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: USA for Africa
-url: ''
+url: ""
 topics:
   - togetherness
   - giving

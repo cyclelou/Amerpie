@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Medieval French Proverb
-url: ''
+url: ""
 topics:
   - perseverance
   - time

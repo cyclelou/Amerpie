@@ -1,20 +1,26 @@
 ---
 title: Fredrick William Robertson
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Fredrick William Robertson
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Fredrick William Robertson
+
+[[+Quotes MOC|Quotes]]
 
 It is not the situation which makes the man, but the man who makes the situation.

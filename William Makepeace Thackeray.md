@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: William Makepeace Thackeray
-url: ''
+url: ""
 topics:
   - identity
   - excellence

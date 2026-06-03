@@ -1,20 +1,26 @@
 ---
 title: Jonathan Ive
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Jonathan Ive
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Jonathan Ive
+
+[[+Quotes MOC|Quotes]]
 
 It's very easy to be different, but very difficult to be better.

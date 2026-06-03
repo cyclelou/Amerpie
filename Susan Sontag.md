@@ -1,22 +1,28 @@
 ---
 title: Susan Sontag
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Susan Sontag
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- photography
+  - photography
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Susan Sontag
+
+[[+Quotes MOC]]
 
 quote:: There is an aggression implicit in every use of the camera. They manhandle time; they colonize experience; and they push us toward voyeurism, rather than participation. But there is also the democratization of the medium; we don't all paint or sculpt, but we can all snap pictures.

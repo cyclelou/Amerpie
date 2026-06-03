@@ -1,23 +1,28 @@
 ---
 title: Stan Dale
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Stan Dale
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - comfort
-dv_quote: Comfort zones are plush lined coffins. When you stay in your plush lined coffins, you die.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Stan Dale
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Comfort zones are plush lined coffins. When you stay in your plush lined coffins, you die.

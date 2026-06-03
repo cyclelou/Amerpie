@@ -1,20 +1,26 @@
 ---
 title: John Parker
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: John Parker
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # John Parker
+
+[[+Quotes MOC|Quotes]]
 
 A runner is a miser, spending the pennies of his energy with great stinginess, constantly wanting to know how much he has spent and how much longer he will be expected to pay. He wants to be broke at precisely the moment he no longer needs his coin.

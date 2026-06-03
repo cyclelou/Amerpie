@@ -1,23 +1,28 @@
 ---
 title: Billy Sunday
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Billy Sunday
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - purpose
-dv_quote: More fail through a lack of purpose than lack of talent.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Billy Sunday
+
+[[+Quotes MOC|Quotes]]
 
 quote:: More fail through a lack of purpose than lack of talent.

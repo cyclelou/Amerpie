@@ -1,4 +1,7 @@
 ---
+{}
+---
+---
 title: Stephen R. Covey
 created: 2026-05-25
 updated: 2026-05-25

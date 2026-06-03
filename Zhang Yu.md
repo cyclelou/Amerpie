@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Zhang Yu
-url: ''
+url: ""
 topics:
   - strategy
   - war

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Margaret Wolfe Hungerford
-url: ''
+url: ""
 topics:
   - beauty
   - perspective

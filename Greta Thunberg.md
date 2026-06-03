@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Greta Thunberg
-url: ''
+url: ""
 topics:
   - environment
   - youth

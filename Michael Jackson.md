@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Michael Jackson
-url: ''
+url: ""
 topics:
   - change
   - self-improvement

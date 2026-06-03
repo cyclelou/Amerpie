@@ -1,23 +1,32 @@
 ---
 title: Craig Mod
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- ai
+  - ai
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Craig Mod
-url: ''
-tags: []
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- art
+  - art
+  - work
 ---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Craig Mod
+
+[[+Quotes MOC]]
 
 quote:: Giving a shit does not require capital, simply attention and humility and diligence. Giving a shit is the best feeling you can imbue craft with.

@@ -1,22 +1,28 @@
 ---
 title: Edgar Degas
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Edgar Degas
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - art
-dv_quote: A painter paints a picture with the same feeling as that with which a criminal commits a crime.
+  - self
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC]]
 
 # Edgar Degas
 

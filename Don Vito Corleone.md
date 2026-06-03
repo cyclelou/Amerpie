@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Don Vito Corleone
-url: ''
+url: ""
 topics:
   - power
   - leadership

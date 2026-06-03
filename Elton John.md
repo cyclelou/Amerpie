@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Elton John
-url: ''
+url: ""
 topics:
   - music
   - memory

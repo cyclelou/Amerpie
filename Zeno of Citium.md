@@ -7,16 +7,16 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Zeno of Citium
-url: ''
-topics:
-  - communication
-  - wisdom
-  - listening
+url: ""
 tags:
   - area/quotes
   - kind/note
+topics:
+  - communication
+  - listening
+  - wisdom
 ---
 
 # Zeno of Citium

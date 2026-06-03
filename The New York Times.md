@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: The New York Times
-url: ''
+url: ""
 topics:
   - journalism
   - news

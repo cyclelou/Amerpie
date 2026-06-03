@@ -1,23 +1,29 @@
 ---
 title: Randall Munroe
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Randall Munroe
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- correlation
+  - correlation
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Randall Munroe
+
+[[+Quotes MOC|Quotes]]
 
 Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing "look over there".
 

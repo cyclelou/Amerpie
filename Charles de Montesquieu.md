@@ -1,22 +1,28 @@
 ---
 title: Charles de Montesquieu
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Charles de Montesquieu
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- reading
+  - reading
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Charles De Montesquieu
+
+[[+Quotes MOC|Quotes]]
 
 quote:: I have never known any distress that an hour's reading did not relieve.

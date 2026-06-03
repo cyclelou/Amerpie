@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Elon Musk
-url: ''
+url: ""
 topics:
   - risk
   - importance

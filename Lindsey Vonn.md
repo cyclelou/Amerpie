@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Lindsey Vonn
-url: ''
+url: ""
 topics:
   - focus
   - presence

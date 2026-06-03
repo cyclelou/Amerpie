@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Enid Blyton
-url: ''
+url: ""
 topics:
   - perseverance
   - attitude

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Audi
-url: ''
+url: ""
 topics:
   - technology
   - advancement

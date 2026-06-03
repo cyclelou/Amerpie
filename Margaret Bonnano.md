@@ -1,21 +1,27 @@
 ---
 title: Margaret Bonnano
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Margaret Bonnano
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Margaret Bonanno
+
+[[+Quotes MOC|Quotes]]
 
 Being rich is having money, being wealthy is having time.  
 The few who DO are the people who only watch.

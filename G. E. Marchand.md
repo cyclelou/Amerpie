@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: G. E. Marchand
-url: ''
+url: ""
 topics:
   - life
   - death

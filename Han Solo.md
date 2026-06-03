@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Han Solo
-url: ''
+url: ""
 topics:
   - courage
   - hope

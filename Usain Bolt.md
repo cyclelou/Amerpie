@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Usain Bolt
-url: ''
+url: ""
 topics:
   - goals
   - success

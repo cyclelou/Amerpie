@@ -1,22 +1,26 @@
 ---
 title: Edith Wharton
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-07
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Edith Wharton
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- light
+  - light
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Edith Wharton
 
-quote:: There are 2 ways of spreading light. Be the candle or the mirror that reflects it.
+There are 2 ways of spreading light. Be the candle or the mirror that reflects it.

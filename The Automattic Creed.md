@@ -1,21 +1,25 @@
 ---
 title: The Automattic Creed
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: The Automattic Creed
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- ethics
+  - ethics
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # The Automattic Creed
 

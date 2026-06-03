@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Tony Hawk
-url: ''
+url: ""
 topics:
   - practice
   - persistence

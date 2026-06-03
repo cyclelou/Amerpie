@@ -7,13 +7,12 @@ status: active
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Albert Einstein
-url: ''
+url: ""
 tags:
   - area/quotes
   - kind/note
-
 topics:
   - answers
   - clutter

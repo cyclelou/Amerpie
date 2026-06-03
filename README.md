@@ -1,20 +1,22 @@
 ---
-title: README
-created: 2026-05-02
-updated: 2026-05-17
+title: Quotes README
+created: 2026-04-28
+updated: 2026-05-03
 kind: reference
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
-author: ''
-url: ''
-tags: []
+source: ""
+author: ""
+url: ""
+tags:
+  - area/quotes
+  - kind/reference
 ---
 
-# README
-
 [[maps-of-content/MOC Quotes]]
+
+
 
 Updated collection of markdown files for Obsidian. Each file is for an author and contains a quote or quotes by that author.

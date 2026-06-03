@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: The Rolling Stones
-url: ''
+url: ""
 topics:
   - music
   - desire

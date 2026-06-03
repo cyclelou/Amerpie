@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Salvador Dalí
-url: ''
+url: ""
 topics:
   - art
   - fear

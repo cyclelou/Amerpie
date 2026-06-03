@@ -1,23 +1,28 @@
 ---
 title: Sophia Speiker
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Sophia Speiker
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - cuteness
-dv_quote: My superpower is cuteness.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Sophia Speiker
+
+[[+Quotes MOC|Quotes]]
 
 quote:: My superpower is cuteness.

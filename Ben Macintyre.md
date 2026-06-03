@@ -1,21 +1,26 @@
 ---
 title: Ben Macintyre
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - mac
 tool: []
 source: Agent Zigzag
 author: Ben Macintyre
 url: ""
-tags: []
+tags:
+  - area/mac
+  - kind/note
 topics:
   - war
 ---
 
 [[maps-of-content/MOC Mac]]
+
+
+[[+Quotes MOC]]
 
 # Ben Macintyre
 

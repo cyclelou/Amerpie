@@ -1,22 +1,28 @@
 ---
 title: Cap Watkins
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Cap Watkins
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- kindness
+  - kindness
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Cap Watkins
 
-quote:: Talk to the people around you (in classes, at conferences, at bars). Be kind to them. You never know who will think of you at the exact right moment and set you on a path you would never have found otherwise.
+[[+Quotes MOC|Quotes]]
+
+quote: Talk to the people around you (in classes, at conferences, at bars). Be kind to them. You never know who will think of you at the exact right moment and set you on a path you would never have found otherwise.

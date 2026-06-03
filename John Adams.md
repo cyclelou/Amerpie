@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: John Adams
-url: ''
+url: ""
 topics:
   - practice
   - perfection

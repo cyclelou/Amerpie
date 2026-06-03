@@ -1,36 +1,27 @@
 ---
 title: John Pavlovitz
-created: 2026-05-02
-updated: 2026-05-17
-kind:
-status:
+created: 2024-01-31
+updated: 2026-05-03
+kind: note
+status: active
 area:
-tool:
-source:
-author:
-url:
+  - quotes
+tool: []
+source: ""
+author: John Pavlovitz
+url: ""
 tags:
----
-
----
-title: John Pavlovitz  
-created: 2024-01-31  
-updated: 2026-05-03  
-kind: note  
-status: in_progress  
-area:
-  - quotes  
-tool: []  
-source: ""  
-author: John Pavlovitz  
-url: ""  
-tags: []  
+  - area/quotes
+  - kind/note
 topics:
-- culture
-- politics
-- religion---
+  - culture
+  - politics
+  - religion
+---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # John Pavlovitz
 

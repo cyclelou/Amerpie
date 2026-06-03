@@ -1,15 +1,15 @@
 ---
 title: Joe Scanlon
 created: 2026-05-07
-updated: 2026-05-25
+updated: 2026-05-26
 kind: note
 status: active
 area:
   - quotes
 tool: []
-source: ''
-author: ''
-url: ''
+source: ""
+author: ""
+url: ""
 tags:
   - area/quotes
   - kind/note

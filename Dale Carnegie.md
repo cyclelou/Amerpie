@@ -16,9 +16,6 @@ tags:
 topics:
   - action
   - forgiveness
-dv_quote:
-  - Any fool can criticize, condemn, and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.
-  - Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy. ^courage
 ---
 
 [[maps-of-content/MOC Quotes]]

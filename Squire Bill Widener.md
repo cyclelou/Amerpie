@@ -1,4 +1,7 @@
 ---
+{}
+---
+---
 title: Squire Bill Widener
 created: 2026-05-25
 updated: 2026-05-25

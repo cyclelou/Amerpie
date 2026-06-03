@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Napoleon Bonaparte
-url: ''
+url: ""
 topics:
   - war
   - military

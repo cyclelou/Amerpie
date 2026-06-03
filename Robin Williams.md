@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Robin Williams
-url: ''
+url: ""
 topics:
   - individuality
   - humor

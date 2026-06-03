@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Roger Federer
-url: ''
+url: ""
 topics:
   - reputation
   - image

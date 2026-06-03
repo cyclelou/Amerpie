@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Hannibal
-url: ''
+url: ""
 topics:
   - perseverance
   - action

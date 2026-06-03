@@ -1,21 +1,27 @@
 ---
 title: Jeremy Keith
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Jeremy Keith
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Jeremy Keith
+
+[[+Quotes MOC|Quotes]]
 
 Maybe reinventing the wheel isn't such a bad idea if all you have to work with is a square wheel.  
 From HTML5 for Designers

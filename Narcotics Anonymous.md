@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Narcotics Anonymous
-url: ''
+url: ""
 topics:
   - insanity
   - repetition

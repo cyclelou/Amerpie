@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Steffi Graf
-url: ''
+url: ""
 topics:
   - victory
   - loss

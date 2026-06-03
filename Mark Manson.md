@@ -1,21 +1,25 @@
 ---
 title: Mark Manson
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-23
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Mark Manson
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- wisdom
+  - wisdom
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Mark Manson
 

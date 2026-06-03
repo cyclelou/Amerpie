@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Spencer Johnson
-url: ''
+url: ""
 topics:
   - fear
   - decisions

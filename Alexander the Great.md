@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Alexander the Great
-url: ''
+url: ""
 topics:
   - courage
   - possibility

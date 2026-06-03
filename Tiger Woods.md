@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Tiger Woods
-url: ''
+url: ""
 topics:
   - improvement
   - growth

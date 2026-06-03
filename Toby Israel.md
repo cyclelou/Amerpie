@@ -1,20 +1,25 @@
 ---
 title: Toby Israel
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: Elephantjournal.com
 author: Toby Israel
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- travel
+  - travel
+  - women
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Toby Israel

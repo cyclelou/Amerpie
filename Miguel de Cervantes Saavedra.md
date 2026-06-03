@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Miguel de Cervantes Saavedra
-url: ''
+url: ""
 topics:
   - truth
   - lies

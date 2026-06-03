@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Virginia Woolf
-url: ''
+url: ""
 topics:
   - freedom
   - reading

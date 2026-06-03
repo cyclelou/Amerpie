@@ -1,20 +1,26 @@
 ---
 title: Frank Chimero
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Frank Chimero
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Frank Chimero
+
+[[+Quotes MOC|Quotes]]
 
 It's easier to turn time into money, but doing the reverse is shaky alchemy.

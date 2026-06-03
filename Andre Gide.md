@@ -1,24 +1,30 @@
 ---
 title: Andre Gide
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Andre Gide
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - speech
-dv_quote: Everything has been said before but because no one ever listens you always have to say it again.
+  - knowledge
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Andre Gide
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Everything has been said before but because no one ever listens you always have to say it again.  
 ^again

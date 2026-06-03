@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Ferris Bueller
-url: ''
+url: ""
 topics:
   - life
   - time

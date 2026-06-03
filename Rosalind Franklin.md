@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Rosalind Franklin
-url: ''
+url: ""
 topics:
   - science
   - education

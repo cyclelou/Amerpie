@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Edvard Munch
-url: ''
+url: ""
 topics:
   - death
   - nature

@@ -1,23 +1,29 @@
 ---
 title: Cousin Violet
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: Downton Abbey
 author: Cousin Violet
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- life
+  - life
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Cousin Violet
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Life is a game where the player must appear ridiculous.  
 (Downton Abbey)

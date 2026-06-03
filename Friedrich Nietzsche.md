@@ -1,22 +1,21 @@
 ---
 title: Friedrich Nietzsche
-created: '2024-03-17'
-updated: '2026-05-03'
+created: 2024-03-17
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Friedrich Nietzsche
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- marriage
-- wisdom
+  - marriage
+  - wisdom
 ---
 
 [[maps-of-content/MOC Quotes]]

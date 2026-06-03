@@ -1,21 +1,26 @@
 ---
 title: Edgar Alan Poe
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Edgar Alan Poe
 url: ""
-tags: []
-dv_quote: I have great confidence in fools—self-confidence, my friends call it. ^a8ce86
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Edgar Alan Poe
 
-quote:: I have great confidence in fools—self-confidence, my friends call it. ^a8ce86
+[[+Quotes MOC|Quotes]]
+
+I have great confidence in fools—self-confidence, my friends call it. ^a8ce86

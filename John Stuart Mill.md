@@ -1,21 +1,20 @@
 ---
 title: John Stuart Mill
-created: '2024-01-31'
-updated: '2026-05-03'
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: John Stuart Mill
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- opinion
+  - opinion
 ---
 
 [[maps-of-content/MOC Quotes]]

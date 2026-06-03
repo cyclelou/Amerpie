@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Whole Earth Catalog
-url: ''
+url: ""
 topics:
   - curiosity
   - learning

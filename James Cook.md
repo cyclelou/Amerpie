@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: James Cook
-url: ''
+url: ""
 topics:
   - exploration
   - ambition

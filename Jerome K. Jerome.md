@@ -1,21 +1,27 @@
 ---
 title: Jerome K. Jerome
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Jerome K. Jerome
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Jerome K. Jerome
+
+[[+Quotes MOC|Quotes]]
 
 I like work—it fascinates me—I can sit and look at it for hours.
 

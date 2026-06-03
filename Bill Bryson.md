@@ -1,22 +1,28 @@
 ---
 title: Bill Bryson
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Bill Bryson
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- technology
+  - technology
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Bill Bryson
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Then it occurred to me that a computer is a stupid machine with the ability to do smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a dangerously perfect match.

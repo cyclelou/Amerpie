@@ -1,23 +1,28 @@
 ---
 title: Saul Bellow
 created: 2024-02-09
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Saul Bellow
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - criticism
-dv_quote: A man should be able to hear, and to bear, the worst that could be said of him.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Saul Bellow
+
+[[+Quotes MOC|Quotes]]
 
 quote:: A man should be able to hear, and to bear, the worst that could be said of him.

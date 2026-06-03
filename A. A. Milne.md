@@ -1,23 +1,31 @@
 ---
 title: A. A. Milne
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: A. A. Milne,
 author: A. A. Milne
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- organizing
+  - organizing
+  - possibility
+  - relaxation
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # A. A. Milne
+
+[[+Quotes MOC|Quotes]]  
 
 quote:: Organizing is what you do before you do something, so that when you do it, it is not all mixed up.  
 quote:: Rivers know this: there is no hurry. We shall get there some day.  

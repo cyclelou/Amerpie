@@ -1,21 +1,27 @@
 ---
 title: Harvey Spectre
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Harvey Spectre
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Harvey Spectre
+
+[[+Quotes MOC|Quotes]]
 
 What are your choices when someone puts a gun to your head? You take the gun, or you pull out a bigger one. Or you call their bluff. Or you do any one of a hundred and forty-six other things.
 

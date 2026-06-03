@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Rita Hayworth
-url: ''
+url: ""
 topics:
   - love
   - recognition

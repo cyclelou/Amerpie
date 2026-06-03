@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Sam Walton
-url: ''
+url: ""
 topics:
   - business
   - leadership

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Epictetus
-url: ''
+url: ""
 topics:
   - philosophy
   - perspective

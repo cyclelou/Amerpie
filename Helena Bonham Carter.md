@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Helena Bonham Carter
-url: ''
+url: ""
 topics:
   - love
   - kindness

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Dr. Ian Malcolm
-url: ''
+url: ""
 topics:
   - nature
   - science

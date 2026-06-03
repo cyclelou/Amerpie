@@ -1,23 +1,29 @@
 ---
 title: Robin Roberts
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Robin Roberts
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - patience
-dv_quote: Be patient and persistent. Life is not so much what you accomplish as what you overcome.
+  - persistance
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Robin Roberts
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Be patient and persistent. Life is not so much what you accomplish as what you overcome.

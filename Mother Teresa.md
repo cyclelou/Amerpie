@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Mother Teresa
-url: ''
+url: ""
 topics:
   - love
   - action

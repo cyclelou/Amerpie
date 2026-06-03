@@ -1,23 +1,28 @@
 ---
 title: Sam Harris
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Sam Harris
 url: ""
-tags: []
-dv_quote: Your mind is the basis of everything you experience and of every contribution you make to the lives of others. Given this fact, it makes sense to train it.
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - meditation
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Sam Harris
+
+[[+Quotes MOC]]
 
 quote:: Your mind is the basis of everything you experience and of every contribution you make to the lives of others. Given this fact, it makes sense to train it.

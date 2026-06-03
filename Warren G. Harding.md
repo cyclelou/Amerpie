@@ -1,22 +1,29 @@
 ---
 title: Warren G. Harding
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-04-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Warren G. Harding
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- foresight
+  - foresight
+  - planning
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Warren G. Harding
+
+[[+Quotes MOC]]
 
 quote:: Someone is sitting in the shade today because someone planted a tree a long time ago.

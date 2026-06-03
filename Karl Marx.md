@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Karl Marx
-url: ''
+url: ""
 topics:
   - politics
   - freedom

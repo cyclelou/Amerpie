@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Wayne Gretzky
-url: ''
+url: ""
 topics:
   - sport
   - success

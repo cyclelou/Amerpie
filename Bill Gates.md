@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Bill Gates
-url: ''
+url: ""
 topics:
   - success
   - failure

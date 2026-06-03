@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Gordon Gekko
-url: ''
+url: ""
 topics:
   - wealth
   - business

@@ -1,22 +1,28 @@
 ---
 title: Henry J. Kaiser
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-07
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- ai
+  - ai
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Henry J. Kaiser
-url: ''
-tags: []
+url: ""
+tags:
+  - area/ai
+  - area/quotes
+  - kind/note
 topics:
-- work
+  - work
 ---
 
-[[maps-of-content/MOC Ai]]  
+[[maps-of-content/MOC Ai]]
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Henry J. Kaiser
 

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Nirvana
-url: ''
+url: ""
 topics:
   - music
   - culture

@@ -1,18 +1,20 @@
 ---
 title: Zen Proverb
-created: 2026-05-02
-updated: 2026-05-17
+created: 2026-05-07
+updated: 2026-05-25
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Zen Proverb
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- letting-go
+  - letting-go
 ---
 
 [[maps-of-content/MOC Quotes]]

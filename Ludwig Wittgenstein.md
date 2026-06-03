@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Ludwig Wittgenstein
-url: ''
+url: ""
 topics:
   - language
   - philosophy

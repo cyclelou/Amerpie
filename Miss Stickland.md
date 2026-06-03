@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Miss Stickland
-url: ''
+url: ""
 topics:
   - longing
   - absence

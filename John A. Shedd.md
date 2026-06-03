@@ -1,20 +1,26 @@
 ---
 title: John A. Shedd
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: John A. Shedd
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # John A. Shedd
+
+[[+Quotes MOC|Quotes]]
 
 A ship in a harbor is safe, but that is not what ships are built for.

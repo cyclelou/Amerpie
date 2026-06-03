@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Agatha Christie
-url: ''
+url: ""
 topics:
   - love
   - humor

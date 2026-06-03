@@ -1,16 +1,18 @@
 ---
 title: William Butler Yeats
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: The Second Coming
 author: William Butler Yeats
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - philosophy
   - poetry
@@ -18,6 +20,8 @@ topics:
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # William Butler Yeats
 

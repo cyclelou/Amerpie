@@ -1,48 +1,39 @@
 ---
 title: C. S. Lewis
-created: 2026-05-02
-updated: 2026-05-17
-kind:
-status:
+created: 2024-01-29
+updated: 2026-05-25
+kind: note
+status: active
 area:
-tool:
-source:
-author:
-url:
+  - quotes
+tool: []
+source: ""
+author: C. S. Lewis
+url: ""
 tags:
----
-
----
-title: C. S. Lewis  
-created: 2024-01-29  
-updated: 2026-05-03  
-kind: note  
-status: in_progress  
-area:
-  - quotes  
-tool: []  
-source: ""  
-author: C. S. Lewis  
-url: ""  
-tags: []  
+  - area/quotes
+  - kind/note
 topics:
-- writing
-- sanity
-- vice
-- torment
-- tyranny
-- adulthood
-- boredom
-- originality
-- integrity
-- self-image
-- death
-- hell
-- humility
-- friendship
-- progress---
+  - adulthood
+  - boredom
+  - death
+  - friendship
+  - hell
+  - humility
+  - integrity
+  - originality
+  - progress
+  - sanity
+  - self-image
+  - torment
+  - tyranny
+  - vice`
+  - writing
+---
 
 [[maps-of-content/MOC Quotes]]
+
+[[+Quotes MOC]]
 
 # C. S. Lewis
 

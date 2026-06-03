@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: J.D. Salinger
-url: ''
+url: ""
 topics:
   - books
   - reading

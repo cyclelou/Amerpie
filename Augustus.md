@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Augustus
-url: ''
+url: ""
 topics:
   - action
   - planning

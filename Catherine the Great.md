@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Catherine the Great
-url: ''
+url: ""
 topics:
   - imagination
   - thinking

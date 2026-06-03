@@ -1,23 +1,30 @@
 ---
 title: George Washington
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-26
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: George Washington
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- happiness
+  - happiness
+  - morality
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # George Washington
+
+[[+Quotes MOC]]
 
 quote:: "Happiness and moral duty are inseparably connected."  
 George Washington

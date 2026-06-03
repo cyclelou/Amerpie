@@ -1,21 +1,25 @@
 ---
 title: George Burns
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-20
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: George Burns
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- family
+  - family
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # George Burns
 

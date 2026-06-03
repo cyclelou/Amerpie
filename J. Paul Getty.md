@@ -1,21 +1,25 @@
 ---
 title: J. Paul Getty
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-29
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: J. Paul Getty
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- wealth
+  - wealth
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # J. Paul Getty
 

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Billie Jean King
-url: ''
+url: ""
 topics:
   - vision
   - inspiration

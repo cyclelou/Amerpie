@@ -1,21 +1,26 @@
 ---
 title: Phillip Dick
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Phillip Dick
 url: ""
-tags: []
-dv_quote: Reality is that which, when you stop believing in it, doesn't go away.
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Phillip Dick
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Reality is that which, when you stop believing in it, doesn't go away.

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: John Pym
-url: ''
+url: ""
 topics:
   - action
   - speech

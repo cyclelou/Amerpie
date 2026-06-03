@@ -1,22 +1,29 @@
 ---
 title: Nouman Ali Khan
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Nouman Ali Khan
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- humility
+  - humility
+  - knowledge
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Nouman Ali Khan
+
+[[+Quotes MOC]]
 
 quote:: When a tree bears fruits, the branches will hang lower. When you acquire knowledge, which is the fruit, it should make you humble…

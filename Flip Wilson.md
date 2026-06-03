@@ -1,21 +1,25 @@
 ---
 title: Flip Wilson
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-12
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Flip Wilson
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- risk
+  - risk
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Flip Wilson
 

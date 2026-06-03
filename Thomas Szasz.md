@@ -1,20 +1,26 @@
 ---
 title: Thomas Szasz
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Thomas Szasz
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Thomas Szasz
+
+[[+Quotes MOC|Quotes]]
 
 Clear thinking requires courage rather than intelligence.

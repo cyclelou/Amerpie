@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Andrew Carnegie
-url: ''
+url: ""
 topics:
   - optimism
   - happiness

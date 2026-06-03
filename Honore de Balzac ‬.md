@@ -1,21 +1,26 @@
 ---
-title: Honore de Balzac ‬
-created: 2026-05-02
-updated: 2026-05-17
+title: Honore De Balzac
+created: 2023-12-20
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Honore De Balzac
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- action
+  - action
+  - self-image
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Honore De Balzac ‬
 

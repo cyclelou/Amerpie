@@ -1,22 +1,28 @@
 ---
 title: Adam Engst
 created: 2024-01-31
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: Tidbits
 author: Adam Engst
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - learning
   - education
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC|Quotes]]
 
 # Adam Engst
 

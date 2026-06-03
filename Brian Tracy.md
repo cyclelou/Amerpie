@@ -1,22 +1,28 @@
 ---
 title: Brian Tracy
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Brian Tracy
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- giving
+  - giving
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Brian Tracy
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Don't be reluctant to give of yourself generously. It's the mark of caring and compassion and personal greatness.

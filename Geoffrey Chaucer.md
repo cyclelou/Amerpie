@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Geoffrey Chaucer
-url: ''
+url: ""
 topics:
   - integrity
   - honesty

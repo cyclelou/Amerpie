@@ -1,45 +1,29 @@
 ---
 title: Merlin Mann
-created: 2026-05-02
-updated: 2026-05-17
-kind:
-status:
+created: 2024-01-12
+updated: 2026-05-25
+kind: note
+status: active
 area:
-tool:
-source:
-author:
-url:
+  - quotes
+tool: []
+source: Github
+author: Merlin Mann
+url: ""
 tags:
----
-
----
-title: Merlin Mann  
-created: 2024-01-12  
-updated: 2026-05-03  
-kind: note  
-status: in_progress  
-area:
-  - quotes  
-tool: []  
-source: Github  
-author: Merlin Mann  
-url: ""  
-tags: []  
+  - area/quotes
+  - kind/note
 topics:
-- language
-- manners
-- diet
-- tradition
-- sleep
-- goals
-- empathy
-- obligation
-- technology
-- Related: you definitely need more sleep.
-- Flirt with all elderly women.
-- Tip more.
-- Always make ***all*** the bacon.
-- If you can afford the dinner, you can afford the tip.---
+  - diet
+  - empathy
+  - goals
+  - language
+  - manners
+  - obligation
+  - sleep
+  - technology
+  - tradition
+---
 
 [[maps-of-content/MOC Quotes]]
 

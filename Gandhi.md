@@ -1,22 +1,25 @@
 ---
 title: Gandhi
 created: 2026-05-02
-updated: 2026-05-17
-kind: note
-status: in_progress
-area:
-- quotes
-tool: []
-source: ''
+updated: 2026-05-26
+kind: reference
+status: archive
+area: quotes
+tool:
+source:
 author: Gandhi
-url: ''
+url:
 tags: []
+topics:
+  - simplicity
+  - strength
+  - thoughts
 ---
-
-[[maps-of-content/MOC Quotes]]
 
 # Gandhi
 
-Live simply so that others may simply live.
+quote:: Live simply so that others may simply live.
 
-Strength does not come from physical capacity. It comes from an indomitable will.
+quote:: Strength does not come from physical capacity. It comes from an indomitable will.
+
+quote:: A man is but the product of his thoughts, what he thinks he becomes.

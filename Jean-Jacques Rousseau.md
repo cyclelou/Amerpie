@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Jean-Jacques Rousseau
-url: ''
+url: ""
 topics:
   - freedom
   - politics

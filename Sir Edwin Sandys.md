@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Sir Edwin Sandys
-url: ''
+url: ""
 topics:
   - honesty
   - policy

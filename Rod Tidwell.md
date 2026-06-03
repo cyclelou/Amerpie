@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Rod Tidwell
-url: ''
+url: ""
 topics:
   - money
   - motivation

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: AirBnB
-url: ''
+url: ""
 topics:
   - belonging
   - travel

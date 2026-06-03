@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Percy Bysshe Shelley
-url: ''
+url: ""
 topics:
   - power
   - history

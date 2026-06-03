@@ -1,21 +1,27 @@
 ---
 title: Meme Quote
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Meme Quote
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Meme Quote
+
+[[+Quotes MOC|Quotes]]
 
 I'm right 97% of the time. Who cares about the other 4%?  
 — A Guy's Shirt

@@ -1,22 +1,21 @@
 ---
 title: Ludwig Van Beethoven
-created: '2024-02-09'
-updated: '2026-05-03'
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
 status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Ludwig Van Beethoven
-url: ''
+url: ""
 tags:
-- area/quotes
-- kind/note
-
+  - area/quotes
+  - kind/note
 topics:
-- art
-- practice
+  - art
+  - practice
 ---
 
 [[maps-of-content/MOC Quotes]]

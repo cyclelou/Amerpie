@@ -1,21 +1,27 @@
 ---
 title: Gertrude Stein
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Gertrude Stein
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Gertrude Stein
+
+[[+Quotes MOC|Quotes]]
 
 There ain't no answer.  
 There ain't going to be any answer.  

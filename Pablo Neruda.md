@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Pablo Neruda
-url: ''
+url: ""
 topics:
   - love
   - poetry

@@ -1,28 +1,30 @@
 ---
 title: Ed Catmull
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Ed Catmull
 url: ""
-tags: []
-topics:
-  - art
-  - responsibility
-  - accuracy
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Ed Catmull
 
-quote:: Craft is what we're expected to know, art is using our craft in unexpected ways.
+[[+Quotes MOC|Quotes]]
 
-quote:: You don't have to ask permission to take responsibility.
+Craft is what we're expected to know, art is using our craft in unexpected ways.
 
-quote:: Visual polish often doesn't matter if you're getting the story right.
+You don't have to ask permission to take responsibility.
+
+Visual polish often doesn't matter if you're getting the story right.

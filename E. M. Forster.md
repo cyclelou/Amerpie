@@ -1,24 +1,26 @@
 ---
 title: E. M. Forster
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-20
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: E. M. Forster
 url: ""
-tags: []
-dv_quote: We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - willingness
-  - expectations
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # E. M. Forster
 
-quote:: We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.
+"We must be willing to let go of the life we have planned, so as to have the life that is waiting for us."

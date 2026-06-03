@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Queen Elizabeth I
-url: ''
+url: ""
 topics:
   - courage
   - strength

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Christopher Columbus
-url: ''
+url: ""
 topics:
   - discovery
   - exploration

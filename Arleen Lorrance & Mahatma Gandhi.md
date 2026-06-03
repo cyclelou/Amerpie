@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Arleen Lorrance & Mahatma Gandhi
-url: ''
+url: ""
 topics:
   - change
   - action

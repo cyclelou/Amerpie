@@ -1,22 +1,28 @@
 ---
 title: Rand Paul
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
 source: AP
 author: Rand Paul
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- war
+  - war
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Rand Paul
+
+[[+Quotes MOC]]
 
 quote:: America shouldn't fight wars where the best outcome is stalemate," America shouldn't fight wars when there is no plan for victory. America shouldn't fight wars that aren't authorized by the American people, by Congress. America should and will fight wars when the consequences — intended and unintended — are worth the sacrifice

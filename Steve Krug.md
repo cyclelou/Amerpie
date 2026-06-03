@@ -1,23 +1,30 @@
 ---
 title: Steve Krug
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Steve Krug
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- clarity
+  - clarity
+  - invention
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Steve Krug
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Experts are rarely insulted by something clear enough for beginners. Everybody appreciates clarity.
 

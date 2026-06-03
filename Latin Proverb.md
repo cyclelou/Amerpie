@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Latin Proverb
-url: ''
+url: ""
 topics:
   - focus
   - goals

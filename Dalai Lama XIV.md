@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Dalai Lama XIV
-url: ''
+url: ""
 topics:
   - religion
   - kindness

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: The Terminator
-url: ''
+url: ""
 topics:
   - determination
   - persistence

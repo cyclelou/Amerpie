@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Bugs Bunny
-url: ''
+url: ""
 topics:
   - humor
   - curiosity

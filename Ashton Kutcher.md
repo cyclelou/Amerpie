@@ -1,22 +1,31 @@
 ---
 title: Ashton Kutcher
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Ashton Kutcher
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- vulnerability
+  - vulnerability
+  - relationships
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
+[[+Quotes MOC|Quotes]]
+
 # Ashton Kutcher
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Vulnerability is the essence of romance. It's the art of being uncalculated, the willingness to look foolish, the courage to say "this is me, and I'm interested in you enough to show you my flaws with the hope that you may embrace me for all that I am but, more importantly, all that I am not.

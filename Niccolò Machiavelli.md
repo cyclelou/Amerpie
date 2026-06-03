@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Niccolò Machiavelli
-url: ''
+url: ""
 topics:
   - leadership
   - fear

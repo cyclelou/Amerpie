@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: King Leonidas of Sparta
-url: ''
+url: ""
 topics:
   - courage
   - war

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Louise Hay
-url: ''
+url: ""
 topics:
   - self-improvement
   - self-image

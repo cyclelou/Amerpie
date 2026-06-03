@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Serena Williams
-url: ''
+url: ""
 topics:
   - resilience
   - recovery

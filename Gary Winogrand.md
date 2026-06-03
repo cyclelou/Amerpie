@@ -1,20 +1,24 @@
 ---
 title: Gary Winogrand
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Gary Winogrand
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- photography
+  - photography
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Gary Winogrand

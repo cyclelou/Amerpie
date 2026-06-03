@@ -1,23 +1,28 @@
 ---
 title: William Arthur Ward
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-26
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: William Arthur Ward
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - disposition
-dv_quote: A cloudy day is no match for a sunny disposition.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # William Arthur Ward
+
+[[+Quotes MOC]]
 
 quote:: "A cloudy day is no match for a sunny disposition."

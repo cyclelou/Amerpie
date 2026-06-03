@@ -15,7 +15,6 @@ tags:
   - kind/note
 topics:
   - accomplishment
-dv_quote: Nature does not hurry, yet everything is accomplished.
 ---
 
 [[maps-of-content/MOC Quotes]]

@@ -1,22 +1,28 @@
 ---
 title: Alex Berenson
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Alex Berenson
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- hope
+  - hope
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Alex Berenson
+
+[[+Quotes MOC|Quotes]]
 
 quote:: Against hysteria, satire. Against storytelling, data. Against groupthink, reporting. Against authoritarianism, bravery. Most of all: against millennialism, realism. And hope.

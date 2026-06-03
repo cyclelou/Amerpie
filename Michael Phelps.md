@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Michael Phelps
-url: ''
+url: ""
 topics:
   - imagination
   - possibility

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Rocky Balboa
-url: ''
+url: ""
 topics:
   - perseverance
   - strength

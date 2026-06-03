@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Stan Lee
-url: ''
+url: ""
 topics:
   - responsibility
   - imagination

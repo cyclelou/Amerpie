@@ -1,23 +1,28 @@
 ---
 title: Albert F. Schlieder
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Albert F. Schlieder
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - judgement
-dv_quote: We tend to judge others by their behavior and ourselves by our intentions.
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Albert F. Schlieder
+
+[[+Quotes MOC|Quotes]]
 
 quote:: We tend to judge others by their behavior and ourselves by our intentions.

@@ -1,25 +1,29 @@
 ---
 title: Ben Franklin
 created: 2024-01-28
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Ben Franklin
 url: ""
-tags: []
-dv_quote:
-  - If everybody is thinking alike, then no one is thinking.
-  - Sloth, like rust, consumes… while the used key stays bright.
-  - Well done is better than well said.
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - action
+  - thinking
+  - speech
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
+
+[[+Quotes MOC]]
 
 # Ben Franklin
 

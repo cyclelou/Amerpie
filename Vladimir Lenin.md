@@ -1,20 +1,25 @@
 ---
 title: Vladimir Lenin
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-01-31
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Vladimir Lenin
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 topics:
-- history
+  - history
+  - time
 ---
 
 [[maps-of-content/MOC Quotes]]
+
+
 
 # Vladimir Lenin

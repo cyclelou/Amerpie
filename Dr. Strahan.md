@@ -1,24 +1,30 @@
 ---
 title: Dr. Strahan
 created: 2024-02-09
-updated: 2026-05-17
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Dr. Strahan
 url: ""
-tags: []
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - fairness
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Dr. Strahan
+
+[[+Quotes MOC|Quotes]]
 
 (My aviation medical examiner)
 
-quote:: If you aren't cheating you're not playing the game right.
+quotes:: If you aren't cheating you're not playing the game right.

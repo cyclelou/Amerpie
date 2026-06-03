@@ -1,27 +1,33 @@
 ---
 title: Dwight D Eisenhower
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
   - quotes
 tool: []
 source: ""
 author: Dwight D Eisenhower
 url: ""
-tags: []
-dv_quote:
-  - What is important is seldom urgent and what is urgent is seldom important.
-  - Peace and justice are two sides of the same coin
+tags:
+  - area/quotes
+  - kind/note
 topics:
   - importance
+  - justice
+  - peace
+  - urgency
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Dwight D Eisenhower
 
-quote:: What is important is seldom urgent and what is urgent is seldom important.
+[[+Quotes MOC|Quotes]]
 
-quote:: Peace and justice are two sides of the same coin
+quotes:: What is important is seldom urgent and what is urgent is seldom important.
+
+quotes:: Peace and justice are two sides of the same coin

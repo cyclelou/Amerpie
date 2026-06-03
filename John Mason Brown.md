@@ -1,20 +1,26 @@
 ---
 title: John Mason Brown
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: John Mason Brown
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # John Mason Brown
+
+[[+Quotes MOC|Quotes]]
 
 A good conversationalist is not one who remembers what was said, but says what someone wants to remember.

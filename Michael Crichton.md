@@ -1,21 +1,27 @@
 ---
 title: Michael Crichton
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Michael Crichton
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Michael Crichton
+
+[[+Quotes MOC|Quotes]]
 
 Consensus is the business of politics. Science, on the contrary, requires only one investigator who happens to be right, which means that he or she has results that are verifiable by reference to the real world. In science consensus is irrelevant. The greatest scientists in history are great precisely because they broke with consensus. There is no such thing as consensus science. If it's consensus, it isn't science. If it's science, it isn't consensus. Period. ^consensus
 

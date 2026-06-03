@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Heraclitus
-url: ''
+url: ""
 topics:
   - change
   - philosophy

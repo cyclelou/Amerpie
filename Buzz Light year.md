@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Buzz Light year
-url: ''
+url: ""
 topics:
   - dreams
   - possibility

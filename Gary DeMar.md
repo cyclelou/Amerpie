@@ -1,20 +1,26 @@
 ---
 title: Gary DeMar
-created: 2026-05-02
-updated: 2026-05-17
+created: 2024-02-09
+updated: 2026-05-03
 kind: note
-status: in_progress
+status: active
 area:
-- quotes
+  - quotes
 tool: []
-source: ''
+source: ""
 author: Gary DeMar
-url: ''
-tags: []
+url: ""
+tags:
+  - area/quotes
+  - kind/note
 ---
 
 [[maps-of-content/MOC Quotes]]
 
+
+
 # Gary DeMar
+
+[[+Quotes MOC|Quotes]]
 
 A vote is not a valentine, you aren't confessing your love for the candidate. It's a chess move for the world you want to live in.

@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Jane Austen
-url: ''
+url: ""
 topics:
   - reading
   - books

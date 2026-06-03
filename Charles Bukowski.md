@@ -7,9 +7,9 @@ status: in_progress
 area:
   - quotes
 tool: []
-source: ''
+source: ""
 author: Charles Bukowski
-url: ''
+url: ""
 topics:
   - courage
   - action
